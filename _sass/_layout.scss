@@ -3,14 +3,34 @@
 /*
 *	Variables
 */
-$wrapper-max-width: 960px;
+$b3: 480px;
+$b2: 768px;
+$b1: 960px;
+$mobile: new-breakpoint(max-width $b3 4);
+$tablet: new-breakpoint(max-width $b2 4);
 
 /*
 *	Header
 */
 .site-header {
+	background-color: rgba(255,0,0,.1);
 	.wrapper {
 		@include outer-container;
+		.site-brand {
+			@include span-columns(6);
+			@include media($mobile) {
+				@include span-columns(12)
+			}
+			.site-title {
+
+			}
+		}
+		.site-nav {
+			@include span-columns(6);
+			@include media($mobile) {
+				@include span-columns(12)
+			}
+		}
 	}
 }
 
@@ -18,7 +38,7 @@ $wrapper-max-width: 960px;
 *	Body
 */
 .page-content {
-
+	background-color: rgba(0,255,0,.1);
 	.wrapper {
 		@include outer-container;
 
@@ -44,5 +64,26 @@ $wrapper-max-width: 960px;
 *	Footer
 */
 .site-footer {
-
+	background-color: rgba(0,0,255,.1);
+	.wrapper {
+		@include outer-container;
+		.site-contact {
+			@include span-columns(4);
+			@include media($mobile) {
+				@include span-columns(12)
+			}
+		}
+		.site-social {
+			@include span-columns(4);
+			@include media($mobile) {
+				@include span-columns(12)
+			}
+		}
+		.site-signature {
+			@include span-columns(4);
+			@include media($mobile) {
+				@include span-columns(12)
+			}
+		}
+	}
 }

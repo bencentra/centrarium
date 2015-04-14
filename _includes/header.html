@@ -1,14 +1,14 @@
 <header class="site-header">
-
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
+    <!-- Site Brand (logo, etc) -->
+    <div class="site-brand">
+      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </div>
+    <!-- Site Navigation -->
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <i class="fa fa-bars"></i>
       </a>
-
       <div class="">
         {% for page in site.pages %}
           {% if page.title %}
@@ -17,7 +17,5 @@
         {% endfor %}
       </div>
     </nav>
-
   </div>
-
 </header>
