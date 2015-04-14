@@ -1,0 +1,13 @@
+# Site settings
+title: Centrarium Theme
+email: blcentra@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Custom Jekyll theme for Ben Centra's blog, made by Ben Centra. 
+  You're welcome to use it as well!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bencentra.com" # the base hostname & protocol for your site
+twitter_username: TheBenCentra
+github_username:  bencentra
+
+# Build settings
+markdown: kramdown

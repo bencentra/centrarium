@@ -1,0 +1,8 @@
+# Compiled site
+_site
+
+# Sass, external liraries
+.sass-cache
+_sass/base
+_sass/bourbon
+_sass/neat

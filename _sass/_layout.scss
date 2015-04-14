@@ -1,0 +1,48 @@
+// Primary site layout for Centrarium Theme
+
+/*
+*	Variables
+*/
+$wrapper-max-width: 960px;
+
+/*
+*	Header
+*/
+.site-header {
+	.wrapper {
+		@include outer-container;
+	}
+}
+
+/*
+*	Body
+*/
+.page-content {
+
+	.wrapper {
+		@include outer-container;
+
+		/*
+		*	Post
+		*/
+		.post {
+
+		}
+
+		/*
+		*	Page
+		*/
+		.page {
+
+		}
+
+	}
+
+}
+
+/*
+*	Footer
+*/
+.site-footer {
+
+}
