@@ -4,34 +4,105 @@
 *	Variables
 */
 $b3: 480px;
+$mobile: $b3;
 $b2: 768px;
+$tablet: $b2;
 $b1: 960px;
-$mobile: new-breakpoint(max-width $b3 4);
-$tablet: new-breakpoint(max-width $b2 4);
+$large-screen: $b1;
+
 
 /*
 *	Header
 */
-.site-header {
-	background-color: rgba(255,0,0,.1);
-	.wrapper {
-		@include outer-container;
-		.site-brand {
-			@include span-columns(6);
-			@include media($mobile) {
-				@include span-columns(12)
-			}
-			.site-title {
 
-			}
-		}
-		.site-nav {
-			@include span-columns(6);
-			@include media($mobile) {
-				@include span-columns(12)
-			}
-		}
-	}
+.navigation {
+	background-color: rgba(255,0,0,.1);
+	padding: .25em;
+
+  // Mobile view
+  .navigation-menu-button {
+    display: block;
+    float: right;
+    margin: 0;
+    padding-right: 0.25em;
+    font-size: 1.5em;	
+
+    @include media ($tablet) {
+      display: none;
+    }
+  }
+
+  // Nav menu
+  .navigation-wrapper {
+  	@include outer-container;
+    @include clearfix;
+    position: relative;
+  }
+
+  .logo {
+    float: left;
+
+    img {
+      max-height: 2em;
+      padding-right: 1em;
+    }
+
+    span {
+    	padding: .5em;
+    	font-size: 1.5em;
+    }
+  }
+
+  nav {
+    float: none;
+
+    @include media ($tablet) {
+      float: right;
+      line-height: 1.5em;
+      padding-top: 0.3em;
+    }
+  }
+
+  ul.navigation-menu {
+    clear: both;
+    display: none;
+    margin: 0 auto;
+    overflow: visible;
+    padding: 0;
+    width: 100%;
+
+    @include media ($tablet) {
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+
+    &.show {
+      display: block;
+    }
+  }
+
+  // Nav items
+  ul li.nav-link {
+    display: block;
+    text-align: right;
+    width: 100%;
+
+    @include media ($tablet) {
+      background: transparent;
+      display: inline;
+      text-decoration: none;
+      width: auto;
+    }
+  }
+
+  li.nav-link a {
+    display: inline-block;
+
+    @include media ($tablet) {
+      padding-right: 1em;
+    }
+  }
 }
 
 /*
@@ -69,21 +140,15 @@ $tablet: new-breakpoint(max-width $b2 4);
 		@include outer-container;
 		.site-contact {
 			@include span-columns(4);
-			@include media($mobile) {
-				@include span-columns(12)
-			}
+			
 		}
 		.site-social {
 			@include span-columns(4);
-			@include media($mobile) {
-				@include span-columns(12)
-			}
+			
 		}
 		.site-signature {
 			@include span-columns(4);
-			@include media($mobile) {
-				@include span-columns(12)
-			}
+					
 		}
 	}
 }

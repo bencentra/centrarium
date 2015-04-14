@@ -1,16 +1,27 @@
 # Centrarium
 
-A custom theme for my Jekyll blog. If you like it, you're welcome to use it, too!
+A custom theme for [my Jekyll blog][bencentra]. If you like it, you're welcome to use it, too!
 
-Uses [Bourbon][bourbon], [Neat][neat], and [Bitters][bitters] (thanks, thoughtbot!), as well as [Font Awesome][fontawesome].
+Built with these awesome libraries: 
+* [Bourbon][bourbon] 
+* [Neat][neat]
+* [Bitters][bitters]
+* [Refills][refills]
+* [Font Awesome][fontawesome]
 
-Demo: TO-DO.
+Demo: TO-DO
 
 ## Installation
 
-TO-DO.
+TO-DO
 
+## Configuration
+
+TO-DO
+
+[bencentra]: http://bencentra.com
 [bourbon]: http://bourbon.io/
 [neat]: http://neat.bourbon.io/
 [bitters]: http://bitters.bourbon.io/
+[refills]: http://refills.bourbon.io/
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
