@@ -10,22 +10,35 @@ $tablet: $b2;
 $b1: 960px;
 $large-screen: $b1;
 
+$body-padding: $base-font-size/4;
+
+/*
+*	Globals
+*/
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
 
 /*
 *	Header
 */
 
 .navigation {
-	background-color: rgba(255,0,0,.1);
-	padding: .25em;
+	// position: fixed;
+	width: 100%;
+	background-color: #fff;
+	padding: 1em 0.5em;
+	border-bottom: 1px solid $base-font-color;
 
   // Mobile view
   .navigation-menu-button {
+  	font-size: 1.5em;
     display: block;
     float: right;
     margin: 0;
-    padding-right: 0.25em;
-    font-size: 1.5em;	
+    // padding-top: 0.5em;
 
     @include media ($tablet) {
       display: none;
@@ -48,8 +61,8 @@ $large-screen: $b1;
     }
 
     span {
-    	padding: .5em;
     	font-size: 1.5em;
+    	padding-left: 0.25em;
     }
   }
 
@@ -98,18 +111,21 @@ $large-screen: $b1;
 
   li.nav-link a {
     display: inline-block;
+    padding: 0.5em;
 
     @include media ($tablet) {
-      padding-right: 1em;
+      padding: 0 0.5em;
     }
   }
 }
+
 
 /*
 *	Body
 */
 .page-content {
-	background-color: rgba(0,255,0,.1);
+	// padding: 4.5em 0.5em 0.5em 0.5em;
+	padding: 0.5em;
 	.wrapper {
 		@include outer-container;
 
@@ -135,20 +151,35 @@ $large-screen: $b1;
 *	Footer
 */
 .site-footer {
-	background-color: rgba(0,0,255,.1);
+	padding: 2em 0.5em;
+	border-top: 1px solid $base-font-color;
 	.wrapper {
 		@include outer-container;
 		.site-contact {
 			@include span-columns(4);
-			
+			@include media (max-width $tablet) {
+				@include span-columns(6);
+			}
+			@include media (max-width $mobile) {
+				@include span-columns(12);
+			}
 		}
 		.site-social {
 			@include span-columns(4);
-			
+			@include media (max-width $tablet) {
+				@include span-columns(6);
+			}
+			@include media (max-width $mobile) {
+				@include span-columns(12);
+			}
 		}
 		.site-signature {
 			@include span-columns(4);
-					
+			@include media (max-width $tablet) {
+				@include span-columns(12);
+				text-align: center;
+			}
+			word-wrap: auto;
 		}
 	}
 }

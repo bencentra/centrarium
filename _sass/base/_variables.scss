@@ -1,13 +1,16 @@
+// Google Fonts
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300);
+
 // Typography
-$base-font-family: $helvetica;
-$heading-font-family: $base-font-family;
+$base-font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;//$helvetica;
+$heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif;//$base-font-family;
 
 // Font Sizes
 $base-font-size: $em-base;
 
 // Line height
-$base-line-height: 1.5;
-$heading-line-height: 1.2;
+$base-line-height: 1.6;
+$heading-line-height: 1.6;
 
 // Other Sizes
 $base-border-radius: 3px;

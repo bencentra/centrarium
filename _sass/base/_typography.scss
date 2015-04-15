@@ -1,3 +1,8 @@
+@mixin font-size($val: $base-font-size) {
+	font-size: $val + px;
+	font-size: rem($val);
+}
+
 body {
   @include font-feature-settings("kern", "liga", "pnum");
   -webkit-font-smoothing: antialiased;
@@ -16,26 +21,26 @@ h6 {
   font-family: $heading-font-family;
   font-size: $base-font-size;
   line-height: $heading-line-height;
-  // margin: 0 0 $small-spacing;
-  margin: 0 0 1rem;
+  margin: 0 0 $base-font-size;
+  margin: 0 0 rem($base-font-size);
 }
 h1 {
-	font-size: 2rem;
+	@include font-size($base-font-size * 2);
 }
 h2 {
-	font-size: 1.5rem;
+	@include font-size($base-font-size * 1.5);
 }
 h3 {
-	font-size: 1.25rem;
+	@include font-size($base-font-size * 1.25);
 }
 h4 {
-	font-size: 1rem;
+	@include font-size($base-font-size);
 }
 h5 {
-	font-size: 0.87rem;
+	@include font-size($base-font-size * 0.87);
 }
 h6 {
-	font-size: 0.8rem;
+	@include font-size($base-font-size * 0.8);
 }
 
 p {

@@ -5,8 +5,9 @@
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="site-contact">
+    	<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
       <ul class="contact-list">
-        <li>{{ site.title }}</li>
+        <!-- <li>Contact Me:</li> -->
         <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
       </ul>
     </div>
@@ -30,6 +31,25 @@
           </a>
         </li>
         {% endif %}
+
+        {% if site.linkedin_profile %}
+        <li>
+        	<a href="{{ site.linkedin_profile }}">
+        		<i class="fa fa-linkedin-square"></i>
+        		<span class="username">{{ site.name }}</span>
+        	</a>
+        </li>
+        {% endif %}
+
+        {% if site.facebook_username %}
+        <li>
+          <a href="https://facebook.com/{{ site.facebook_username }}">
+            <i class="fa fa-facebook-official"></i>
+            <span class="username">{{ site.facebook_username }}</span>
+          </a>
+        </li>
+        {% endif %}
+
       </ul>
     </div>
 
