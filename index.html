@@ -7,15 +7,41 @@ layout: default
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <p class="post-meta"><em>{{ post.date | date: "%b %-d, %Y" }}</em></p>
+        <section class="post-excerpt" itemprop="description">
+          <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+        </section>
+        {% if forloop.last == false %}
+        <hr>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
+
+  <br>
+
+  <nav class="pagination" role="navigation">
+  	<p>
+      {% if paginator.next_page %}
+       <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</a>
+      {% endif %}
+      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.previous_page %}
+        {% if paginator.page == 2 %}
+          <a class="older-posts" href="/">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
+        {% else %}
+          <a class="older-posts" href="/page{{paginator.previous_page}}">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
+        {% endif %}
+      {% endif %}
+    </p>
+    <p>
+      <a href="{{ site.baseurl }}/categories">View All Posts by Category</a>
+    </p>
+  </nav>
 
 </div>
