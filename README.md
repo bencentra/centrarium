@@ -8,6 +8,7 @@ Built with these awesome libraries:
 * [Bitters][bitters]
 * [Refills][refills]
 * [Font Awesome][fontawesome]
+* [HighlightJS][highlightjs]
 
 Demo: TO-DO
 
@@ -25,3 +26,4 @@ TO-DO
 [bitters]: http://bitters.bourbon.io/
 [refills]: http://refills.bourbon.io/
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
+[highlightjs]: https://highlightjs.org/

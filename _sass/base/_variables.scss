@@ -1,8 +1,8 @@
 // Google Fonts
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300);
+@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
 
 // Typography
-$base-font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;//$helvetica;
+$base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;//$helvetica;
 $heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif;//$base-font-family;
 
 // Font Sizes
