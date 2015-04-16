@@ -23,39 +23,51 @@
 	      		<span class="username">{{ site.email }}</span>
       		</a>
       	</li>
-        {% if site.github_username %}
+
+      	{% for social in site.social %}
+      	{% if social.url != null %}
+      	<li>
+          <a href="{{ social.url }}" title="{{ social.desc }}">
+            <i class="fa fa-{{ social.icon }}"></i>
+            <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
+          </a>
+        </li>
+      	{% endif %}
+      	{% endfor %}
+
+        {% if site.social.github.url != null %}
         <li>
-          <a href="https://github.com/{{ site.github_username }}">
+          <a href="{{ site.social.github.url }}" title="{{ site.social.github.desc }}">
             <i class="fa fa-github"></i>
-            <span class="username">{{ site.github_username }}</span>
+            <span class="username">{% if site.social.github.username %}{{ site.social.github.username }}{% else %}GitHub{% endif %}</span>
           </a>
         </li>
         {% endif %}
 
-        {% if site.twitter_username %}
+        {% if site.social.twitter.url != null %} 
         <li>
-          <a href="https://twitter.com/{{ site.twitter_username }}">
+          <a href="{{ site.social.twitter.url }}" title="{{ site.social.twitter.desc }}">
             <i class="fa fa-twitter"></i>
-            <span class="username">{{ site.twitter_username }}</span>
+            <span class="username">{% if site.social.twitter.username %}{{ site.social.twitter.username }}{% else %}Twitter{% endif %}</span>
           </a>
         </li>
         {% endif %}
 
-        {% if site.linkedin_profile %}
+        {% if site.social.linkedin.url != null %}
         <li>
-        	<a href="{{ site.linkedin_profile }}">
-        		<i class="fa fa-linkedin-square"></i>
-        		<span class="username">{{ site.name }}</span>
+        	<a href="{{ site.social.linkedin.url }}" title="{{ site.social.linkedin.desc }}">
+        		<i class="fa fa-linkedin"></i>
+        		<span class="username">{% if site.social.linkedin.username %}{{ site.social.linkedin.username }}{% else %}LinkedIn{% endif %}</span>
         	</a>
         </li>
         {% endif %}
 
-        {% if site.facebook_username %}
+        {% if site.social.facebook.url != null %}
         <li>
-          <a href="https://facebook.com/{{ site.facebook_username }}">
-            <i class="fa fa-facebook-official"></i>
-            <span class="username">{{ site.facebook_username }}</span>
-          </a>
+          <a href="{{ site.social.facebook.url }}" title="{{ site.social.facebook.desc }}">
+        		<i class="fa fa-facebook"></i>
+        		<span class="username">{% if site.social.facebook.username %}{{ site.social.facebook.username }}{% else %}Facebook{% endif %}</span>
+        	</a>
         </li>
         {% endif %}
 
