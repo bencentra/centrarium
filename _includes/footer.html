@@ -5,15 +5,24 @@
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="site-contact">
-    	<p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    	
       <ul class="contact-list">
-        <!-- <li>Contact Me:</li> -->
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {% for page in site.pages %}
+        {% if page.title %}
+          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
+        {% endfor %}
       </ul>
     </div>
 
     <div class="site-social">
       <ul class="social-media-list">
+      	<li>
+      		<a href="mailto:{{ site.email }}">
+	      		<i class="fa fa-envelope-o"></i>
+	      		<span class="username">{{ site.email }}</span>
+      		</a>
+      	</li>
         {% if site.github_username %}
         <li>
           <a href="https://github.com/{{ site.github_username }}">
@@ -55,6 +64,7 @@
 
     <div class="site-signature">
       <p class="text">{{ site.description }}</p>
+      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
     </div>
 
   </div>

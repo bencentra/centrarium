@@ -8,10 +8,63 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.com" # the base hostname & protocol for your site
 
+# Social media
 twitter_username: TheBenCentra
 github_username: bencentra
 # facebook_username: thebencentra
 linkedin_profile: "https://www.linkedin.com/pub/ben-centra/47/769/60a"
+
+# social icons and sharing options
+# 
+# Example:
+# 
+# social:
+#   - icon: twitter # Don't change
+#     url: https://twitter.com/TheBenCentra # URL of your profile (if you want to display it)
+#     desc: Follow me on Twitter # Optional description to display as link title, etc
+#     share_url: http://twitter.com/share # Don't change
+#     share_title: ?text= # Don't change
+#     share_link: "&amp;url=" # Don't change
+
+
+social:
+  - icon: twitter
+    url: https://twitter.com/TheBenCentra
+    desc: Follow me on Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: facebook
+    url:	
+    desc: 
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon: github
+    url: https://github.com/bencentra
+    desc: Fork me on GitHub
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: linkedin
+    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    desc: Connect with me on LinkedIn
+    share_url: //www.linkedin.com/shareArticle
+    share_title: ?mini=true
+    share_link: "&amp;url="
+
+  - icon: google-plus
+    url:	
+    desc:	
+    share_url: //plus.google.com/share
+    share_title: ?title=
+    share_link: "&amp;url="
+
+# Disqus comments
+disqus_shortname: bencentra
 
 # Build settings
 markdown: kramdown

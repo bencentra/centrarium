@@ -12,6 +12,14 @@ Built with these awesome libraries:
 
 Demo: TO-DO
 
+## Features
+
+This theme comes with a number of features that a base Jekyll site doesn't have, including:
+* Social media integration (Twitter, Facebook, LinkedIn, GitHub)
+* A "Posts" page, serving as a categorized archive
+* Pagination 
+* Disqus Comments (TODO)
+
 ## Installation
 
 TO-DO

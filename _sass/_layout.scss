@@ -10,11 +10,13 @@ $tablet: $b2;
 $b1: 960px;
 $large-screen: $b1;
 
-$body-padding: $base-font-size/4;
-
 /*
 *	Globals
 */
+* {
+	box-sizing: border-box !important;
+}
+
 html, body {
 	margin: 0;
 	padding: 0;
@@ -26,19 +28,15 @@ html, body {
 */
 
 .navigation {
-	// position: fixed;
-	width: 100%;
-	background-color: #fff;
+	border-bottom: 1px solid #333;
 	padding: 1em;
-	border-bottom: 1px solid $base-font-color;
 
   // Mobile view
   .navigation-menu-button {
-  	font-size: 1.5em;
     display: block;
     float: right;
     margin: 0;
-    // padding-top: 0.5em;
+    font-size: 1.25em;
 
     @include media ($tablet) {
       display: none;
@@ -61,8 +59,7 @@ html, body {
     }
 
     span {
-    	font-size: 1.5em;
-    	padding-left: 0.25em;
+    	font-size: 1.25em;
     }
   }
 
@@ -72,7 +69,7 @@ html, body {
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
-      padding-top: 0.3em;
+      padding-top: 0.25em;
     }
   }
 
@@ -100,6 +97,7 @@ html, body {
     display: block;
     text-align: right;
     width: 100%;
+    padding: 0.25em 0;
 
     @include media ($tablet) {
       background: transparent;
@@ -111,13 +109,13 @@ html, body {
 
   li.nav-link a {
     display: inline-block;
-    padding: 0.5em;
 
     @include media ($tablet) {
-      padding: 0 0.5em;
+      padding-right: 1em;
     }
   }
 }
+
 
 
 /*
@@ -133,7 +131,31 @@ html, body {
 		*	Post
 		*/
 		.post {
-
+			.rss {
+				margin: 1em 0 0 0;
+				@include span-columns(12);
+				@include media ($tablet) {
+					margin: 1em 0;
+					@include span-columns(6);
+				}
+			}
+			.share {
+				font-weight: bold;
+				margin: 0 0 1em 0;
+				@include span-columns(12);
+				@include media ($tablet) {
+					@include span-columns(6);
+					margin: 1em 0;
+					text-align: right;
+				}
+				a {
+					width: 1em;
+					padding: 0 0.25em;
+				}
+			}
+			.disqus {
+				@include span-columns(12);
+			}
 		}
 
 		/*
@@ -149,6 +171,7 @@ html, body {
 
 		.pagination {
 			text-align: center;
+			color: $medium-gray;
 		}
 
 	}
@@ -159,11 +182,12 @@ html, body {
 *	Footer
 */
 .site-footer {
-	padding: 2em 1em;
+	padding: 1em;
 	border-top: 1px solid $base-font-color;
 	.wrapper {
 		@include outer-container;
 		.site-contact {
+			padding-top: 1em;
 			@include span-columns(4);
 			@include media (max-width $tablet) {
 				@include span-columns(6);
@@ -171,23 +195,32 @@ html, body {
 			@include media (max-width $mobile) {
 				@include span-columns(12);
 			}
+			@include font-size($base-font-size * 0.87);
 		}
 		.site-social {
+			padding-top: 1em;
 			@include span-columns(4);
 			@include media (max-width $tablet) {
 				@include span-columns(6);
+				margin-right: 0;
 			}
 			@include media (max-width $mobile) {
 				@include span-columns(12);
 			}
+			i {
+				width: $base-font-size;
+			}
+			@include font-size($base-font-size * 0.87);
 		}
 		.site-signature {
+			padding-top: $base-font-size;
 			@include span-columns(4);
 			@include media (max-width $tablet) {
 				@include span-columns(12);
 				text-align: center;
 			}
 			word-wrap: auto;
+			@include font-size($base-font-size * 0.87);
 		}
 	}
 }
