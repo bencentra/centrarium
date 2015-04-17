@@ -13,10 +13,6 @@ $desktop: $b1;
 /*
 *	Globals
 */
-* {
-	box-sizing: border-box !important;
-}
-
 html, body {
 	margin: 0;
 	padding: 0;
@@ -26,53 +22,46 @@ html, body {
 /*
 *	Header
 */
-
 .navigation {
 	border-bottom: 1px solid #333;
 	padding: 1em;
-
+	/*
+	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
+	*/
   // Mobile view
   .navigation-menu-button {
     display: block;
     float: right;
     margin: 0;
     font-size: 1.25em;
-
     @include media ($tablet) {
       display: none;
     }
   }
-
   // Nav menu
   .navigation-wrapper {
   	@include outer-container;
     @include clearfix;
     position: relative;
   }
-
   .logo {
     float: left;
-
     img {
       max-height: 2em;
       padding-right: 1em;
     }
-
     span {
     	font-size: 1.25em;
     }
   }
-
   nav {
     float: none;
-
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
       padding-top: 0.25em;
     }
   }
-
   ul.navigation-menu {
     clear: both;
     display: none;
@@ -80,25 +69,21 @@ html, body {
     overflow: visible;
     padding: 0;
     width: 100%;
-
     @include media ($tablet) {
       display: block;
       margin: 0;
       padding: 0;
     }
-
     &.show {
       display: block;
     }
   }
-
   // Nav items
   ul li.nav-link {
     display: block;
     text-align: right;
     width: 100%;
     padding: 0.25em 0;
-
     @include media ($tablet) {
       background: transparent;
       display: inline;
@@ -106,31 +91,43 @@ html, body {
       width: auto;
     }
   }
-
   li.nav-link a {
     display: inline-block;
-
     @include media ($tablet) {
       padding-right: 1em;
     }
   }
 }
 
-
-
 /*
 *	Body
 */
 .page-content {
-	// padding: 4.5em 0.5em 0.5em 0.5em;
 	padding: 1em;
 	.wrapper {
 		@include outer-container;
-
 		/*
-		*	Post
+		*	index.html
+		*/
+		.pagination {
+			text-align: center;
+			color: $medium-gray;
+		}
+		/*
+		*	Posts
 		*/
 		.post {
+			.post-header {
+				text-align: center;
+				margin: 1em 0 2em 0;
+				.post-info {
+					font-size: 0.95em;
+				}
+				.post-meta {
+					color: $medium-gray;
+					font-size: 0.9em;
+				}
+			}
 			.rss {
 				margin: 1em 0 0 0;
 				@include span-columns(12);
@@ -157,35 +154,26 @@ html, body {
 				@include span-columns(12);
 			}
 		}
-
 		/*
-		*	Page
+		*	Pages
 		*/
 		.page {
 
 		}
-
-		.post-meta {
-			color: $medium-gray;
-		}
-
-		.pagination {
-			text-align: center;
-			color: $medium-gray;
-		}
-
 	}
-
 }
 
 /*
 *	Footer
 */
 .site-footer {
-	padding: 1em;
+	padding: 1em 0 2em 0;
 	border-top: 1px solid $base-font-color;
 	.wrapper {
 		@include outer-container;
+		/*
+		*	Site Navigation (left)
+		*/
 		.site-navigation {
 			@include span-columns(12);
 			@include media ($mobile) {
@@ -194,8 +182,11 @@ html, body {
 			@include media ($tablet) {
 				@include span-columns(4);
 			}
-			@include font-size($base-font-size * 0.87);
+			font-size: 0.9em;
 		}
+		/*
+		*	Contact Info (center)
+		*/
 		.site-contact {
 			margin-top: 1em;
 			@include span-columns(12);
@@ -208,8 +199,11 @@ html, body {
 				@include span-columns(4);
 				margin-top: 0;
 			}
-			@include font-size($base-font-size * 0.87);
+			font-size: 0.9em;
 		}
+		/*
+		*	Site Description/Signature (right)
+		*/
 		.site-signature {
 			margin-top: 1em;
 			@include span-columns(12);
@@ -218,7 +212,7 @@ html, body {
 				margin-right: 0;
 				margin-top: 0;
 			}
-			@include font-size($base-font-size * 0.87);
+			font-size: 0.9em;
 		}
 	}
 }

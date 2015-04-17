@@ -1,8 +1,3 @@
-@mixin font-size($val: $base-font-size) {
-	font-size: $val + px;
-	font-size: rem($val);
-}
-
 body {
   @include font-feature-settings("kern", "liga", "pnum");
   -webkit-font-smoothing: antialiased;
@@ -25,22 +20,22 @@ h6 {
   margin: 0 0 rem($base-font-size);
 }
 h1 {
-	@include font-size($base-font-size * 2);
+	font-size: modular-scale(4);
 }
 h2 {
-	@include font-size($base-font-size * 1.5);
+	font-size: modular-scale(3);
 }
 h3 {
-	@include font-size($base-font-size * 1.25);
+	font-size: modular-scale(2);
 }
 h4 {
-	@include font-size($base-font-size);
+	font-size: modular-scale(1);
 }
 h5 {
-	@include font-size($base-font-size * 0.87);
+	font-size: modular-scale(-1);
 }
 h6 {
-	@include font-size($base-font-size * 0.8);
+	font-size: modular-scale(-2);
 }
 
 p {
@@ -79,5 +74,8 @@ picture {
 }
 
 code {
-	@include font-size($base-font-size * 0.87);
+
+}
+pre code.hljs {
+	font-size: modular-scale(-1);
 }

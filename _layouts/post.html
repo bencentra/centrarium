@@ -5,7 +5,8 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta"><em>Posted {{ page.date | date: "%b %-d, %Y" }}</em>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <div class="post-info"><em>{{ page.date | date: "%b %-d, %Y" }}</em>&nbsp;{% if page.author %} • &nbsp;<strong>{{ page.author }}</strong>{% endif %}</div>
+    {% if page.categories %}<p class="post-meta">in {% for cat in page.categories %}{{ cat }}{% unless forloop.last == true %}, {% endunless %}{% endfor %}{% endif %}</p>
   </header>
 
   <article class="post-content">
