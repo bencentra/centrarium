@@ -8,7 +8,7 @@ $mobile: $b3;
 $b2: 768px;
 $tablet: $b2;
 $b1: 960px;
-$large-screen: $b1;
+$desktop: $b1;
 
 /*
 *	Globals
@@ -186,40 +186,38 @@ html, body {
 	border-top: 1px solid $base-font-color;
 	.wrapper {
 		@include outer-container;
-		.site-contact {
-			padding-top: 1em;
-			@include span-columns(4);
-			@include media (max-width $tablet) {
+		.site-navigation {
+			@include span-columns(12);
+			@include media ($mobile) {
 				@include span-columns(6);
 			}
-			@include media (max-width $mobile) {
-				@include span-columns(12);
+			@include media ($tablet) {
+				@include span-columns(4);
 			}
 			@include font-size($base-font-size * 0.87);
 		}
-		.site-social {
-			padding-top: 1em;
-			@include span-columns(4);
-			@include media (max-width $tablet) {
+		.site-contact {
+			margin-top: 1em;
+			@include span-columns(12);
+			@include media ($mobile) {
 				@include span-columns(6);
+				margin-top: 0;
 				margin-right: 0;
 			}
-			@include media (max-width $mobile) {
-				@include span-columns(12);
-			}
-			i {
-				width: $base-font-size;
+			@include media ($tablet) {
+				@include span-columns(4);
+				margin-top: 0;
 			}
 			@include font-size($base-font-size * 0.87);
 		}
 		.site-signature {
-			padding-top: $base-font-size;
-			@include span-columns(4);
-			@include media (max-width $tablet) {
-				@include span-columns(12);
-				text-align: center;
+			margin-top: 1em;
+			@include span-columns(12);
+			@include media ($tablet) {
+				@include span-columns(4);
+				margin-right: 0;
+				margin-top: 0;
 			}
-			word-wrap: auto;
 			@include font-size($base-font-size * 0.87);
 		}
 	}

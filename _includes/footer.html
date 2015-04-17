@@ -4,9 +4,10 @@
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
-    <div class="site-contact">
+    <div class="site-navigation">
     	
-      <ul class="contact-list">
+    	<p><strong>Navigation</strong></p>
+      <ul class="pages">
         {% for page in site.pages %}
         {% if page.title %}
           <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
@@ -15,7 +16,9 @@
       </ul>
     </div>
 
-    <div class="site-social">
+    <div class="site-contact">
+
+    	<p><strong>Contact Info</strong>
       <ul class="social-media-list">
       	<li>
       		<a href="mailto:{{ site.email }}">
@@ -35,48 +38,12 @@
       	{% endif %}
       	{% endfor %}
 
-        {% if site.social.github.url != null %}
-        <li>
-          <a href="{{ site.social.github.url }}" title="{{ site.social.github.desc }}">
-            <i class="fa fa-github"></i>
-            <span class="username">{% if site.social.github.username %}{{ site.social.github.username }}{% else %}GitHub{% endif %}</span>
-          </a>
-        </li>
-        {% endif %}
-
-        {% if site.social.twitter.url != null %} 
-        <li>
-          <a href="{{ site.social.twitter.url }}" title="{{ site.social.twitter.desc }}">
-            <i class="fa fa-twitter"></i>
-            <span class="username">{% if site.social.twitter.username %}{{ site.social.twitter.username }}{% else %}Twitter{% endif %}</span>
-          </a>
-        </li>
-        {% endif %}
-
-        {% if site.social.linkedin.url != null %}
-        <li>
-        	<a href="{{ site.social.linkedin.url }}" title="{{ site.social.linkedin.desc }}">
-        		<i class="fa fa-linkedin"></i>
-        		<span class="username">{% if site.social.linkedin.username %}{{ site.social.linkedin.username }}{% else %}LinkedIn{% endif %}</span>
-        	</a>
-        </li>
-        {% endif %}
-
-        {% if site.social.facebook.url != null %}
-        <li>
-          <a href="{{ site.social.facebook.url }}" title="{{ site.social.facebook.desc }}">
-        		<i class="fa fa-facebook"></i>
-        		<span class="username">{% if site.social.facebook.username %}{{ site.social.facebook.username }}{% else %}Facebook{% endif %}</span>
-        	</a>
-        </li>
-        {% endif %}
-
       </ul>
     </div>
 
     <div class="site-signature">
+    	<p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
       <p class="text">{{ site.description }}</p>
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
     </div>
 
   </div>
