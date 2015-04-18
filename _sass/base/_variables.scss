@@ -23,6 +23,7 @@ $base-z-index: 0;
 
 // Colors
 $blue: #477dca;
+$red: #bc0000;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
@@ -30,7 +31,7 @@ $light-gray: #ddd;
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: $red; //$blue;
 
 // Border
 $base-border-color: $light-gray;

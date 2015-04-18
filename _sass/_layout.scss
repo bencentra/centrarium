@@ -10,6 +10,9 @@ $tablet: $b2;
 $b1: 960px;
 $desktop: $b1;
 
+$primary-color: #e74c3c;
+$secondary-color: #c0392b;
+
 /*
 *	Globals
 */
@@ -19,11 +22,42 @@ html, body {
 	width: 100%;
 }
 
+.page-divider {
+	$divider-color: $light-gray;
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 1px solid $divider-color;
+  .one {
+    position: relative;
+    top: -9px;
+    display: block;
+    background: $divider-color;
+    width: 18px;
+    height: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+  }
+  .two {
+    position: relative;
+    top: -26px;
+    display: block;
+    background: #fff;
+    width: 16px;
+    height: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+  }
+}
+
 /*
 *	Header
 */
 .navigation {
-	border-bottom: 1px solid #333;
+	border-bottom: 1px solid $light-gray;
 	padding: 1em;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
@@ -113,13 +147,20 @@ html, body {
 			text-align: center;
 			color: $medium-gray;
 		}
+		.post-header {
+			text-align: center;
+			margin: 1em 0 2em 0;
+		}
+		img {
+			display: block;
+			margin: auto;
+			width: 90%;
+		}
 		/*
 		*	Posts
 		*/
 		.post {
 			.post-header {
-				text-align: center;
-				margin: 1em 0 2em 0;
 				.post-info {
 					font-size: 0.95em;
 				}
@@ -168,7 +209,7 @@ html, body {
 */
 .site-footer {
 	padding: 1em 0 2em 0;
-	border-top: 1px solid $base-font-color;
+	border-top: 1px solid $light-gray;
 	.wrapper {
 		@include outer-container;
 		/*
