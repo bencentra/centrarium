@@ -9,6 +9,7 @@ Built with these awesome libraries:
 * [Refills][refills]
 * [Font Awesome][fontawesome]
 * [HighlightJS][highlightjs]
+* [Lightbox][lightbox]
 
 Demo: TO-DO
 
@@ -16,9 +17,10 @@ Demo: TO-DO
 
 This theme comes with a number of features that a base Jekyll site doesn't have, including:
 * Social media integration (Twitter, Facebook, LinkedIn, GitHub, Google+)
-* A "Posts" page, serving as a categorized archive
-* Pagination 
-* Disqus Comments
+* A categorized archive of all posts
+* Default pagination on the homepage
+* Disqus integration for post comments
+* Lightbox for viewing full-screen photos or albums
 
 ## Installation
 
@@ -35,3 +37,4 @@ TO-DO
 [refills]: http://refills.bourbon.io/
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
 [highlightjs]: https://highlightjs.org/
+[lightbox]: http://lokeshdhakar.com/projects/lightbox2/

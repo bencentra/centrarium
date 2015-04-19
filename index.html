@@ -20,11 +20,14 @@ layout: default
       <section class="post-excerpt" itemprop="description">
         <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       </section>
-      <p class="post-meta"><em>{{ post.date | date: "%b %-d, %Y" }}</em></p>
-      {% if forloop.last == false %}
-      <hr>
-      {% endif %}
+      <section class="post-list-meta">
+      	<div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
+      	<div class="post-categories">{% if post.categories %}in {% for cat in post.categories %}{{ cat }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
+      </section>
     </li>
+    {% if forloop.last == false %}
+    <hr>
+    {% endif %}
   {% endfor %}
 </ul>
 

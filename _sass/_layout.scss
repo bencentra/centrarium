@@ -10,9 +10,6 @@ $tablet: $b2;
 $b1: 960px;
 $desktop: $b1;
 
-$primary-color: #e74c3c;
-$secondary-color: #c0392b;
-
 /*
 *	Globals
 */
@@ -68,9 +65,7 @@ pre code.hljs {
 *	Header
 */
 .navigation {
-	// background-color: rgba(255,0,0,0.05);
-	// border-bottom: 1px solid $light-gray;
-	box-shadow: 0 2px tint($action-color, 33%);
+	box-shadow: 0 2px $highlight-color;
 	padding: 1em;
 	margin: 0;
 	/*
@@ -151,8 +146,6 @@ pre code.hljs {
 *	Body
 */
 .page-content {
-	// background-color: rgba(0,255,0,0.05);
-	// margin: -1em 0 0 0;
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
@@ -160,6 +153,24 @@ pre code.hljs {
 	/*
 	*	index.html
 	*/
+	.post-list {
+		// @include span-columns(12);
+	}
+	.post-list-meta {
+		color: $medium-gray;
+		.post-date {
+			// @include span-columns(6 of 12);
+			font-size: 0.9em;
+		}
+		.post-categories {
+			// @include span-columns(6 of 12);
+			text-align: right;
+			font-size: 0.9em;
+		}
+		hr {
+			@include clearfix;
+		}
+	}
 	.pagination {
 		text-align: center;
 		color: $medium-gray;
@@ -167,14 +178,15 @@ pre code.hljs {
 	.site-header-container {
 		width: 100%;
 		padding: 3em 0;
-		background-color: tint($action-color, 33%);
+		background-color: $highlight-color;
 		color: $white;
 		text-align: center;
+		text-shadow: 0 1px rgba(0,0,0,0.1);
 		.site-header {
 			@include outer-container;
 		}
 		.site-title {
-			// margin-bottom: 0;
+			
 		}
 		.site-subtitle {
 			font-style: italic;
@@ -244,20 +256,16 @@ pre code.hljs {
 */
 .site-footer {
 	$link-color: $white;
-	// background-color: rgba(0,0,255,0.05);
 	padding: 1em 1em 2em 1em;
-	// border-top: 1px solid $light-gray;
-	background-color: tint($action-color, 33%);
+	background-color: $highlight-color;
 	color: $white;
 	a {
 	  color: $link-color;
-	  // text-decoration: underline;
 	  &:active,
 	  &:focus,
 	  &:hover {
 	    color: darken($link-color, 10%);
 	  }
-
 	  &:active,
 	  &:focus {
 	    outline: none;
