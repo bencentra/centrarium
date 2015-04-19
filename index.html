@@ -1,51 +1,53 @@
 ---
 layout: default
 ---
-
 <div class="home">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ site.title }}</h1>
-  </header>
+<div class="site-header-container">
+	<header class="site-header">
+	  <h1 class="site-title">{{ site.title }}</h1>
+	  {% if site.subtitle %}<p class="site-subtitle">{{ site.subtitle }}</p>{% endif %}
+	</header>
+</div>
 
-  {% include page_divider.html %}
-
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <section class="post-excerpt" itemprop="description">
-          <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-        </section>
-        <p class="post-meta"><em>{{ post.date | date: "%b %-d, %Y" }}</em></p>
-        {% if forloop.last == false %}
-        <hr>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-
-  <br>
-
-  <nav class="pagination" role="navigation">
-  	<p>
-      {% if paginator.next_page %}
-       <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</a>
+<div class="wrapper">
+<ul class="post-list">
+  {% for post in paginator.posts %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <section class="post-excerpt" itemprop="description">
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      </section>
+      <p class="post-meta"><em>{{ post.date | date: "%b %-d, %Y" }}</em></p>
+      {% if forloop.last == false %}
+      <hr>
       {% endif %}
-      <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.previous_page %}
-        {% if paginator.page == 2 %}
-          <a class="older-posts" href="/">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
-        {% else %}
-          <a class="older-posts" href="/page{{paginator.previous_page}}">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
-        {% endif %}
-      {% endif %}
-    </p>
-    <p>
-      <a href="{{ site.baseurl }}/posts">View All Posts by Category</a>
-    </p>
-  </nav>
+    </li>
+  {% endfor %}
+</ul>
 
+<br>
+
+<nav class="pagination" role="navigation">
+	<p>
+    {% if paginator.next_page %}
+     <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</a>
+    {% endif %}
+    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a class="older-posts" href="/">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
+      {% else %}
+        <a class="older-posts" href="/page{{paginator.previous_page}}">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
+      {% endif %}
+    {% endif %}
+  </p>
+  <p>
+    <a href="{{ site.baseurl }}/posts">View All Posts by Category</a>
+  </p>
+</nav>
+
+</div>
 </div>

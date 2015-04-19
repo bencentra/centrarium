@@ -22,6 +22,17 @@ html, body {
 	width: 100%;
 }
 
+code {
+	background-color: #eee;
+	display: inline-block;
+	border-radius: 3px;
+	padding: 0 3px;
+}
+
+pre code.hljs {
+	font-size: modular-scale(-1);
+}
+
 .page-divider {
 	$divider-color: $light-gray;
   display: block;
@@ -44,7 +55,7 @@ html, body {
     position: relative;
     top: -26px;
     display: block;
-    background: #fff;
+    background: $white;
     width: 16px;
     height: 16px;
     margin-left: auto;
@@ -57,8 +68,11 @@ html, body {
 *	Header
 */
 .navigation {
-	border-bottom: 1px solid $light-gray;
+	// background-color: rgba(255,0,0,0.05);
+	// border-bottom: 1px solid $light-gray;
+	box-shadow: 0 2px tint($action-color, 33%);
 	padding: 1em;
+	margin: 0;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
 	*/
@@ -137,69 +151,90 @@ html, body {
 *	Body
 */
 .page-content {
-	padding: 1em;
+	// background-color: rgba(0,255,0,0.05);
+	// margin: -1em 0 0 0;
 	.wrapper {
 		@include outer-container;
-		/*
-		*	index.html
-		*/
-		.pagination {
-			text-align: center;
+		padding: 1em;
+	}
+	/*
+	*	index.html
+	*/
+	.pagination {
+		text-align: center;
+		color: $medium-gray;
+	}
+	.site-header-container {
+		width: 100%;
+		padding: 3em 0;
+		background-color: tint($action-color, 33%);
+		color: $white;
+		text-align: center;
+		.site-header {
+			@include outer-container;
+		}
+		.site-title {
+			// margin-bottom: 0;
+		}
+		.site-subtitle {
+			font-style: italic;
+		}
+	}
+	img {
+		display: block;
+		margin: auto;
+		width: 90%;
+	}
+	.post-header {
+		margin: 1em 0 2em 0;
+		text-align: center;
+		.post-info {
+			font-size: 0.95em;
+		}
+		.post-meta {
 			color: $medium-gray;
+			font-size: 0.9em;
 		}
-		.post-header {
-			text-align: center;
-			margin: 1em 0 2em 0;
-		}
-		img {
-			display: block;
-			margin: auto;
-			width: 90%;
-		}
-		/*
-		*	Posts
-		*/
-		.post {
-			.post-header {
-				.post-info {
-					font-size: 0.95em;
-				}
-				.post-meta {
-					color: $medium-gray;
-					font-size: 0.9em;
-				}
-			}
-			.rss {
-				margin: 1em 0 0 0;
-				@include span-columns(12);
-				@include media ($tablet) {
-					margin: 1em 0;
-					@include span-columns(6);
-				}
-			}
-			.share {
-				font-weight: bold;
-				margin: 0 0 1em 0;
-				@include span-columns(12);
-				@include media ($tablet) {
-					@include span-columns(6);
-					margin: 1em 0;
-					text-align: right;
-				}
-				a {
-					width: 1em;
-					padding: 0 0.25em;
-				}
-			}
-			.disqus {
-				@include span-columns(12);
+	}
+	/*
+	*	Posts
+	*/
+	.post {
+		.rss {
+			margin: 1em 0 0 0;
+			@include span-columns(12);
+			@include media ($tablet) {
+				margin: 1em 0;
+				@include span-columns(6);
 			}
 		}
-		/*
-		*	Pages
-		*/
-		.page {
-
+		.share {
+			font-weight: bold;
+			margin: 0 0 1em 0;
+			@include span-columns(12);
+			@include media ($tablet) {
+				@include span-columns(6);
+				margin: 1em 0;
+				text-align: right;
+			}
+			a {
+				width: 1em;
+				padding: 0 0.25em;
+			}
+		}
+		.disqus {
+			@include span-columns(12);
+		}
+	}
+	/*
+	*	Pages
+	*/
+	.page {
+		.posts-list {
+			@extend %default-ul;
+			li {
+				padding: modular-scale(-5);
+			}
 		}
 	}
 }
@@ -208,52 +243,79 @@ html, body {
 *	Footer
 */
 .site-footer {
-	padding: 1em 0 2em 0;
-	border-top: 1px solid $light-gray;
+	$link-color: $white;
+	// background-color: rgba(0,0,255,0.05);
+	padding: 1em 1em 2em 1em;
+	// border-top: 1px solid $light-gray;
+	background-color: tint($action-color, 33%);
+	color: $white;
+	a {
+	  color: $link-color;
+	  // text-decoration: underline;
+	  &:active,
+	  &:focus,
+	  &:hover {
+	    color: darken($link-color, 10%);
+	  }
+
+	  &:active,
+	  &:focus {
+	    outline: none;
+	  }
+	}
 	.wrapper {
 		@include outer-container;
-		/*
-		*	Site Navigation (left)
-		*/
-		.site-navigation {
-			@include span-columns(12);
-			@include media ($mobile) {
-				@include span-columns(6);
-			}
-			@include media ($tablet) {
-				@include span-columns(4);
-			}
-			font-size: 0.9em;
+	}
+	.footer-heading {
+
+	}
+	/*
+	*	Site Navigation (left)
+	*/
+	.site-navigation {
+		@include span-columns(12);
+		@include media ($mobile) {
+			@include span-columns(6);
 		}
-		/*
-		*	Contact Info (center)
-		*/
-		.site-contact {
-			margin-top: 1em;
-			@include span-columns(12);
-			@include media ($mobile) {
-				@include span-columns(6);
-				margin-top: 0;
-				margin-right: 0;
-			}
-			@include media ($tablet) {
-				@include span-columns(4);
-				margin-top: 0;
-			}
-			font-size: 0.9em;
+		@include media ($tablet) {
+			@include span-columns(4);
 		}
-		/*
-		*	Site Description/Signature (right)
-		*/
-		.site-signature {
-			margin-top: 1em;
-			@include span-columns(12);
-			@include media ($tablet) {
-				@include span-columns(4);
-				margin-right: 0;
-				margin-top: 0;
-			}
-			font-size: 0.9em;
+		font-size: 0.9em;
+	}
+	/*
+	*	Contact Info (center)
+	*/
+	.site-contact {
+		margin-top: 1em;
+		@include span-columns(12);
+		@include media ($mobile) {
+			@include span-columns(6);
+			margin-top: 0;
+			margin-right: 0;
+		}
+		@include media ($tablet) {
+			@include span-columns(4);
+			margin-top: 0;
+		}
+		font-size: 0.9em;
+		i {
+			width: 1em;
+		}
+	}
+	/*
+	*	Site Description/Signature (right)
+	*/
+	.site-signature {
+		margin-top: 1em;
+		@include span-columns(12);
+		@include media ($tablet) {
+			@include span-columns(4);
+			margin-right: 0;
+			margin-top: 0;
+		}
+		font-size: 0.9em;
+		a {
+			text-decoration: underline;
 		}
 	}
 }

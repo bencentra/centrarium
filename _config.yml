@@ -1,10 +1,10 @@
 # Site settings
 title: Centrarium Theme
+subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: blcentra@gmail.com
 name: Ben Centra
 description: > 
-  Custom Jekyll theme for Ben Centra's blog, made by Ben Centra. 
-  You're welcome to use it as well!
+  A simple yet classy theme for your Jekyll website or blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.com" # the base hostname & protocol for your site
 
@@ -36,7 +36,7 @@ paginate_path: "/page:num/"
 
 social:
   - name: Twitter
-    icon: twitter-square
+    icon: twitter
     username: "@TheBenCentra"
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
@@ -45,7 +45,7 @@ social:
     share_link: "&amp;url="
 
   - name: Facebook
-    icon: facebook-square
+    icon: facebook
     username: thebencentra
     url: 
     desc: Friend me on Facebook
@@ -63,7 +63,7 @@ social:
     share_link:
 
   - name: LinkedIn
-    icon: linkedin-square
+    icon: linkedin
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
@@ -72,7 +72,7 @@ social:
     share_link: "&amp;url="
 
   - name: Google+
-    icon: google-plus-square
+    icon: google-plus
     username: 
     url: 
     desc: Add me to your Circles

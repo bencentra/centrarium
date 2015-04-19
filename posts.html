@@ -14,12 +14,15 @@ nolinkify: true
       <p><small><em>{{ desc.desc }}</em></small></p>
     {% endif %}
   {% endfor %}
+  <ul class="posts-list">
   {% for post in site.categories[cat] %}
-    <p>
+    <li>
       <strong>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </strong>
       <span class="gray">- {{ post.date | date_to_long_string }}</span>
-    </p>
+    </li>
   {% endfor %}
+  </ul>
+  {% if forloop.last == false %}<hr>{% endif %}
 {% endfor %}
