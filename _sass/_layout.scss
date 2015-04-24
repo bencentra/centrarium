@@ -160,10 +160,16 @@ pre code.hljs {
 		color: $medium-gray;
 		.post-date {
 			// @include span-columns(6 of 12);
+			width: 49%;
+			float: left;
+			margin-right: 0;
 			font-size: 0.9em;
 		}
 		.post-categories {
 			// @include span-columns(6 of 12);
+			width: 50%;
+			float: right;
+			margin-right: 0;
 			text-align: right;
 			font-size: 0.9em;
 		}
@@ -177,7 +183,7 @@ pre code.hljs {
 	}
 	.site-header-container {
 		width: 100%;
-		padding: 3em 0;
+		padding: 3em 1em;
 		background-color: $highlight-color;
 		color: $white;
 		text-align: center;

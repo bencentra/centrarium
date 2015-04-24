@@ -25,6 +25,7 @@ layout: default
       	<div class="post-categories">{% if post.categories %}in {% for cat in post.categories %}{{ cat }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
       </section>
     </li>
+    <br class="clearfix">
     {% if forloop.last == false %}
     <hr>
     {% endif %}
