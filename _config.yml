@@ -7,6 +7,7 @@ description: >
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.com" # the base hostname & protocol for your site
+cover: "assets/header_image.jpg"
 
 # Disqus comments
 disqus_shortname: bencentra

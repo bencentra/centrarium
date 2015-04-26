@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="home">
 
-<div class="site-header-container">
+<div class="site-header-container" {% if site.cover %}style="background-image: url({{site.cover}}); padding: 6em 1em;"{% endif %}>
 	<header class="site-header">
 	  <h1 class="site-title">{{ site.title }}</h1>
 	  {% if site.subtitle %}<p class="site-subtitle">{{ site.subtitle }}</p>{% endif %}
@@ -37,15 +37,45 @@ layout: default
 <nav class="pagination" role="navigation">
 	<p>
     {% if paginator.next_page %}
-     <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</a>
+    <!-- <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</a> -->
+    <a class="newer-posts" href="/page{{paginator.next_page}}">
+	    <span class="fa-stack fa-lg">
+			  <i class="fa fa-square fa-stack-2x"></i>
+			  <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+			</span>
+		</a>
+    {% else %}
+    <!-- <span class="newer-posts disabled"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</span> -->
+    <span class="fa-stack fa-lg">
+			<i class="fa fa-square fa-stack-2x"></i>
+			<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+		</span>
     {% endif %}
     <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-        <a class="older-posts" href="/">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
+      <!-- <a class="older-posts" href="/">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a> -->
+      <a class="newer-posts" href="/">
+		    <span class="fa-stack fa-lg">
+				  <i class="fa fa-square fa-stack-2x"></i>
+				  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+				</span>
+			</a>
       {% else %}
-        <a class="older-posts" href="/page{{paginator.previous_page}}">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a>
+      <!-- <a class="older-posts" href="/page{{paginator.previous_page}}">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a> -->
+      <a class="newer-posts" href="/page{{paginator.previous_page}}">
+		    <span class="fa-stack fa-lg">
+				  <i class="fa fa-square fa-stack-2x"></i>
+				  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+				</span>
+			</a>
       {% endif %}
+    {% else %}
+    <!-- <span class="older-posts disabled">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></span> -->
+    <span class="fa-stack fa-lg">
+		  <i class="fa fa-square fa-stack-2x"></i>
+		  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+		</span>
     {% endif %}
   </p>
   <p>

@@ -89,6 +89,9 @@ pre code.hljs {
   }
   .logo {
     float: left;
+    @include media ($tablet) {
+    	padding-left: $em-base;
+    }
     img {
       max-height: 2em;
       padding-right: 1em;
@@ -137,7 +140,7 @@ pre code.hljs {
   li.nav-link a {
     display: inline-block;
     @include media ($tablet) {
-      padding-right: 1em;
+      padding-right: 1.5em;
     }
   }
 }
@@ -159,14 +162,12 @@ pre code.hljs {
 	.post-list-meta {
 		color: $medium-gray;
 		.post-date {
-			// @include span-columns(6 of 12);
-			width: 49%;
+			width: 50%;
 			float: left;
 			margin-right: 0;
 			font-size: 0.9em;
 		}
 		.post-categories {
-			// @include span-columns(6 of 12);
 			width: 50%;
 			float: right;
 			margin-right: 0;
@@ -180,6 +181,9 @@ pre code.hljs {
 	.pagination {
 		text-align: center;
 		color: $medium-gray;
+		.page-number {
+			padding: 0 1em;
+		}
 	}
 	.site-header-container {
 		width: 100%;
@@ -187,7 +191,9 @@ pre code.hljs {
 		background-color: $highlight-color;
 		color: $white;
 		text-align: center;
-		text-shadow: 0 1px rgba(0,0,0,0.1);
+		text-shadow: 0 1px rgba(0,0,0,0.25);
+		background-position: 50% 50%;
+		background-size: cover;
 		.site-header {
 			@include outer-container;
 		}
