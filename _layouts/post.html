@@ -1,16 +1,23 @@
 ---
 layout: default
 ---
-<div class="wrapper">
 <div class="post">
 
-<header class="post-header">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-info"><em>{{ page.date | date: "%b %-d, %Y" }}</em>&nbsp;{% if page.author %} • &nbsp;<strong>{{ page.author }}</strong>{% endif %}</div>
-  {% if page.categories %}<p class="post-meta">in {% for cat in page.categories %}{{ cat }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</p>
-</header>
+<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url(/{{ page.cover }});"{% endif %}>
+	<header class="post-header">
+		<h1 class="title">{{ page.title }}</h1>
+		<p class="info">by <strong>{{ page.author }}</strong></p>
+	</header>
+</div>
 
-{% include page_divider.html %}
+<div class="wrapper">
+
+{% unless page.cover %} {% include page_divider.html %} {% endunless %}
+
+<section class="post-meta">
+	<div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
+	<div class="post-categories">{% if page.categories %}in {% for cat in page.categories %}{{ cat | capitalize }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
+</section>	
 
 <article class="post-content">
   {{ content }}

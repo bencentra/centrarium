@@ -30,6 +30,24 @@ pre code.hljs {
 	font-size: modular-scale(-1);
 }
 
+.has-cover {
+	color: $white;
+	text-align: center;
+	text-shadow: 0 2px rgba(0,0,0,0.33);
+	background-position: 50% 50%;
+	background-size: cover;
+	padding: 6em 1em !important;
+	.title {
+		font-size: modular-scale(6);
+	}
+	.info, .subtitle {
+		font-size: modular-scale(1);
+	}
+	@include media($tablet) {
+		padding: 9em 1em !important;
+	}
+}
+
 .page-divider {
 	$divider-color: $light-gray;
   display: block;
@@ -156,26 +174,20 @@ pre code.hljs {
 	/*
 	*	index.html
 	*/
-	.post-list {
-		// @include span-columns(12);
-	}
-	.post-list-meta {
+	.post-meta {
+		@include outer-container;
+		// padding: 1em 0;
 		color: $medium-gray;
 		.post-date {
-			width: 50%;
-			float: left;
-			margin-right: 0;
+			@include span-columns(6);
+			text-align: left;
 			font-size: 0.9em;
 		}
 		.post-categories {
-			width: 50%;
-			float: right;
+			@include span-columns(6);
 			margin-right: 0;
 			text-align: right;
 			font-size: 0.9em;
-		}
-		hr {
-			@include clearfix;
 		}
 	}
 	.pagination {
@@ -189,19 +201,15 @@ pre code.hljs {
 		width: 100%;
 		padding: 3em 1em;
 		background-color: $highlight-color;
-		color: $white;
 		text-align: center;
-		text-shadow: 0 1px rgba(0,0,0,0.25);
-		background-position: 50% 50%;
-		background-size: cover;
 		.site-header {
-			@include outer-container;
-		}
-		.site-title {
-			
-		}
-		.site-subtitle {
-			font-style: italic;
+			.title {
+				// font-size: modular-scale(6);
+			}
+			.subtitle {
+				font-style: italic;
+				// font-size: modular-scale(1);
+			}
 		}
 	}
 	img {
@@ -209,21 +217,28 @@ pre code.hljs {
 		margin: auto;
 		width: 90%;
 	}
-	.post-header {
-		margin: 1em 0 2em 0;
-		text-align: center;
-		.post-info {
-			font-size: 0.95em;
-		}
-		.post-meta {
-			color: $medium-gray;
-			font-size: 0.9em;
-		}
-	}
 	/*
 	*	Posts
 	*/
 	.post {
+		.post-header-container {
+			width: 100%;
+			padding: 2em 1em 1em 1em;
+			text-align: center;
+			.post-header {
+				// @include outer-container;
+				padding: 0 1em;
+				.title {
+					// font-size: modular-scale(6);
+				}
+				.info {
+					// font-size: modular-scale(1);
+				}
+			}
+		}
+		.post-meta {
+			padding-bottom: 1em;
+		}
 		.rss {
 			margin: 1em 0 0 0;
 			@include span-columns(12);
@@ -254,6 +269,10 @@ pre code.hljs {
 	*	Pages
 	*/
 	.page {
+		.post-header {
+			padding: 1em 1em 1em 1em;
+			text-align: center;
+		}
 		.posts-list {
 			@extend %default-ul;
 			li {

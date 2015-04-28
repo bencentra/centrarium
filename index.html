@@ -3,10 +3,10 @@ layout: default
 ---
 <div class="home">
 
-<div class="site-header-container" {% if site.cover %}style="background-image: url({{site.cover}}); padding: 6em 1em;"{% endif %}>
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url(/{{site.cover}});"{% endif %}>
 	<header class="site-header">
-	  <h1 class="site-title">{{ site.title }}</h1>
-	  {% if site.subtitle %}<p class="site-subtitle">{{ site.subtitle }}</p>{% endif %}
+	  <h1 class="title">{{ site.title }}</h1>
+	  {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
 	</header>
 </div>
 
@@ -20,12 +20,11 @@ layout: default
       <section class="post-excerpt" itemprop="description">
         <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
       </section>
-      <section class="post-list-meta">
-      	<div class="post-date">{{ post.date | date: "%b %-d, %Y" }}</div>
-      	<div class="post-categories">{% if post.categories %}in {% for cat in post.categories %}{{ cat }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
+      <section class="post-meta">
+      	<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+      	<div class="post-categories">{% if post.categories %}in {% for cat in post.categories %}{{ cat | capitalize }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
       </section>
     </li>
-    <br class="clearfix">
     {% if forloop.last == false %}
     <hr>
     {% endif %}

@@ -3,7 +3,8 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-18 08:43:59
 author: Ben Centra
-categories: Jekyll Update
+categories: Jekyll
+cover:  "assets/instacode.png"
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -12,9 +13,13 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+### Cover Images
+
+To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "assets/cover_image.jpg"</code>). 
+
 ### Code Snippets
 
-Jekyll also offers powerful support for code snippets:
+You can use [highlight.js][highlight] to add syntax highlig code snippets:
 
 <pre><code class="hljs javascript">function demo(string, times) {
   for (var i = 0; i < times; i++) {
@@ -22,8 +27,6 @@ Jekyll also offers powerful support for code snippets:
   }
 }
 demo("hello, world!", 10);</code></pre>
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
 ### Images
 
@@ -35,7 +38,10 @@ Lightbox has been enabled for images. To create the link that'll launch the ligh
 
 For more information, check out the [Lightbox][lightbox] website.
 
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
+[highlight]:   https://highlightjs.org/
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
