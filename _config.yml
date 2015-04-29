@@ -9,13 +9,13 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 
-# Disqus comments
-disqus_shortname: bencentra
-
 # Build settings
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
+
+# Disqus comments
+disqus_shortname: bencentra
 
 # Social icons and sharing options
 #
@@ -27,7 +27,7 @@ paginate_path: "/page:num/"
 # 
 # social:
 #   - name: Twitter                         # Name of the service
-#     icon: twitter-square                  # Font Awesome icon to use (minus fa- prefix)
+#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
 #     username: "@TheBenCentra"             # (User) Name to display in the footer link
 #     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
