@@ -11,7 +11,7 @@ Built with these awesome libraries:
 * [HighlightJS][highlightjs]
 * [Lightbox][lightbox]
 
-Demo: TO-DO
+Demo: http://bencentra.com/centrarium/
 
 Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog.
 
@@ -19,13 +19,14 @@ Cover image by Chris M. Morris ([flickr][cover]).
 
 ## Features
 
-This theme comes with a number of features that a base Jekyll site doesn't have, including:
-* Social media integration (Twitter, Facebook, LinkedIn, GitHub, Google+)
-* A categorized archive of all posts
+This theme comes with a number of features, including:
+* Cover images for your homepage and posts
 * Default pagination on the homepage
+* A categorized archive of all posts
 * Disqus integration for post comments
 * Lightbox for viewing full-screen photos or albums
 * Google Analytics with custom page names
+* Social media integration (Twitter, Facebook, LinkedIn, GitHub, Google+)
 
 ## Installation
 
