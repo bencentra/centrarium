@@ -4,6 +4,7 @@ title:  "Dummy Post 5"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Dummy
+tags: lorem
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.

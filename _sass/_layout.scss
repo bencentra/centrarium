@@ -249,6 +249,12 @@ pre code.hljs {
 		.post-meta {
 			padding-bottom: 1em;
 		}
+		.post-content {
+			padding: 1em 0;
+		}
+		.tags {
+			font-size: 0.9em;
+		}
 		.rss {
 			margin: 1em 0 0 0;
 			@include span-columns(12);
@@ -284,9 +290,16 @@ pre code.hljs {
 			text-align: center;
 		}
 		.posts-list {
-			@extend %default-ul;
+			// @extend %default-ul;
 			li {
-				padding: modular-scale(-5);
+				padding: modular-scale(-4);
+				padding-left: 0;
+			}
+			.desc {
+				font-size: 0.9em;
+			}
+			.post-date {
+				color: $medium-gray;
 			}
 		}
 	}

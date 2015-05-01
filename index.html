@@ -22,7 +22,7 @@ layout: default
       </section>
       <section class="post-meta">
       	<div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      	<div class="post-categories">{% if post.categories %}in {% for cat in post.categories %}{{ cat | capitalize }}{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
+      	<div class="post-categories">{% if post.categories %}in {% for cat in post.categories %}<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
       </section>
     </li>
     {% if forloop.last == false %}
@@ -36,7 +36,6 @@ layout: default
 <nav class="pagination" role="navigation">
 	<p>
     {% if paginator.next_page %}
-    <!-- <a class="newer-posts" href="/page{{paginator.next_page}}"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</a> -->
     <a class="newer-posts" href="/page{{paginator.next_page}}">
 	    <span class="fa-stack fa-lg">
 			  <i class="fa fa-square fa-stack-2x"></i>
@@ -44,7 +43,6 @@ layout: default
 			</span>
 		</a>
     {% else %}
-    <!-- <span class="newer-posts disabled"><i class="fa fa-arrow-left"></i> Older posts &nbsp;</span> -->
     <span class="fa-stack fa-lg">
 			<i class="fa fa-square fa-stack-2x"></i>
 			<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
@@ -53,7 +51,6 @@ layout: default
     <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-      <!-- <a class="older-posts" href="/">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a> -->
       <a class="newer-posts" href="/">
 		    <span class="fa-stack fa-lg">
 				  <i class="fa fa-square fa-stack-2x"></i>
@@ -61,7 +58,6 @@ layout: default
 				</span>
 			</a>
       {% else %}
-      <!-- <a class="older-posts" href="/page{{paginator.previous_page}}">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></a> -->
       <a class="newer-posts" href="/page{{paginator.previous_page}}">
 		    <span class="fa-stack fa-lg">
 				  <i class="fa fa-square fa-stack-2x"></i>
@@ -70,7 +66,6 @@ layout: default
 			</a>
       {% endif %}
     {% else %}
-    <!-- <span class="older-posts disabled">&nbsp; Newer posts <i class="fa fa-arrow-right"></i></span> -->
     <span class="fa-stack fa-lg">
 		  <i class="fa fa-square fa-stack-2x"></i>
 		  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>

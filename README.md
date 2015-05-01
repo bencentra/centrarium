@@ -29,6 +29,8 @@ This theme comes with a number of features that a base Jekyll site doesn't have,
 
 ## Installation
 
+Install Jekyll and Jekyll Archives: `gem install jekyll jekyll-archives`
+
 TO-DO
 
 ## Configuration
@@ -53,11 +55,30 @@ All configuration options can be found in `_config.yml`.
 * __paginate:__ Number of posts to include on one page.
 * __paginate_path:__ URL structure for pages.
 
+### Archive Settings
+
+Although this theme comes with a combined, categorized archive (see `posts.html`), you can enable further archive creation thanks to [jekyll-archives][archives]. Support for category and tag archive pages is included, but you can also add your own archive pages for years, months, and days.
+
+To disable or change archive settings, see the __jekyll_archives__ section of `_config.yml`:
+
+```yml
+jekyll-archives:
+  enabled: 
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+```
+
 ### Disqus Settings
 
 You can enable [Disqus][disqus] comments for you site by including one config option:
 
 * __disqus_shortname:__ Your Disqus username. If the property is set, Disqus comments will be included with your blog posts.
+
+If you want to disable Disqus for only a specific page, add __disqus_disabled: true__ to the page's front matter.
 
 ### Google Analytics Settings
 
@@ -83,6 +104,17 @@ social:
 
 Any of the __share__ prefixed options are used in blog posts for the social share bar. The other options are used in the Contact info section of the footer.
 
+### Category Descriptions
+
+You can enhance the `posts.html` archive page with descriptions of your post categories. See the __descriptions__ section of `_config.yml`:
+
+```yml
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+```
+
 [bencentra]: http://bencentra.com
 [bourbon]: http://bourbon.io/
 [neat]: http://neat.bourbon.io/
@@ -94,3 +126,4 @@ Any of the __share__ prefixed options are used in blog posts for the social shar
 [cover]: https://www.flickr.com/photos/79666107@N00/3796678503/in/photolist-6MuYfc-61Rtft-8XzPmY-a6Cozm-54eSMs-6oMJmk-aepZQq-9YkPHp-fiAEGE-dVP4Z5-oxPyJP-atKUFJ-9YHWA5-9YF2f2-9YF2gR-9YHVGN-9YHVvs-qZYYQ6-4JqP2i-a2peGy-9YHVUm-9YHVF7-9YHVCL-9YF3NK-cYteMo-aiPmb9-69dtAi-9YF21x-4aWpmn-7SLiUL-77pqVX-8vXbYv-4HGDSH-a2h5P1-8LsZrQ-9aj1ez-auPZ7q-9YHVMd-9YF2bi-9YF23D-8LpWpn-9an6KL-9YHVZL-dqZ3Cz-2GuvnX-9YHWUo-9YHVWd-p5Roh5-i1zTbv-6sYrUT
 [disqus]: https://disqus.com/
 [ga]: http://www.google.com/analytics/
+[archives]: https://github.com/jekyll/jekyll-archives
