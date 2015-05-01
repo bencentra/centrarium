@@ -42,6 +42,7 @@ All configuration options can be found in `_config.yml`.
 * __baseurl:__ The subpath of your site (e.g. /blog/).
 * __url:__ The base hostname and protocol for your site.
 * __cover:__ The relative path to your site's cover image.
+* __logo:__ The relative path to your site's logo. Used in the navigation menu instead of the title if provided.
 
 ### Build Settings
 

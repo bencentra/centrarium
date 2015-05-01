@@ -84,7 +84,7 @@ pre code.hljs {
 */
 .navigation {
 	box-shadow: 0 2px $highlight-color;
-	padding: 1em;
+	padding: 0 1em;
 	margin: 0;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
@@ -94,7 +94,8 @@ pre code.hljs {
     display: block;
     float: right;
     margin: 0;
-    font-size: 1.25em;
+    font-size: 1.5em;
+    padding-top: 0.5em;
     @include media ($tablet) {
       display: none;
     }
@@ -107,11 +108,13 @@ pre code.hljs {
   }
   .logo {
     float: left;
+    height: 4em;
     @include media ($tablet) {
     	padding-left: $em-base;
     }
     img {
-      max-height: 2em;
+      max-height: 2.5em;
+      margin-top: 0.75em;
       padding-right: 1em;
     }
     span {
@@ -120,10 +123,10 @@ pre code.hljs {
   }
   nav {
     float: none;
+    padding: 1.25em 0;
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
-      padding-top: 0.25em;
     }
   }
   ul.navigation-menu {
@@ -155,10 +158,17 @@ pre code.hljs {
       width: auto;
     }
   }
-  li.nav-link a {
-    display: inline-block;
-    @include media ($tablet) {
-      padding-right: 1.5em;
+  li.nav-link {
+  	a {
+	    display: inline-block;
+	    @include media ($tablet) {
+	      padding-right: 1.5em;
+	    }
+	  }
+	  &:last-child a {
+	  	@include media ($tablet) {
+    		padding-right: 1em;
+    	}
     }
   }
 }
