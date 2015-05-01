@@ -13,6 +13,8 @@ Built with these awesome libraries:
 
 Demo: TO-DO
 
+Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog.
+
 Cover image by Chris M. Morris ([flickr][cover]).
 
 ## Features
@@ -23,6 +25,7 @@ This theme comes with a number of features that a base Jekyll site doesn't have,
 * Default pagination on the homepage
 * Disqus integration for post comments
 * Lightbox for viewing full-screen photos or albums
+* Google Analytics with custom page names
 
 ## Installation
 
@@ -56,6 +59,12 @@ You can enable [Disqus][disqus] comments for you site by including one config op
 
 * __disqus_shortname:__ Your Disqus username. If the property is set, Disqus comments will be included with your blog posts.
 
+### Google Analytics Settings
+
+You can enable basic [Google Analytics][ga] pageview tracking by including your site's tracking ID:
+
+* __ga_tracking_id__: The Tracking ID for your website. You can find it on your Google Analytics dashboard. If the property is set, Google Analytics will be added to the footer of each page.
+
 ### Social Settings
 
 Your personal social network settings are combined with the social sharing options. In the __social__ seciton of `_config.yml`, include an entry for each network you want to include. For example:
@@ -84,3 +93,4 @@ Any of the __share__ prefixed options are used in blog posts for the social shar
 [lightbox]: http://lokeshdhakar.com/projects/lightbox2/
 [cover]: https://www.flickr.com/photos/79666107@N00/3796678503/in/photolist-6MuYfc-61Rtft-8XzPmY-a6Cozm-54eSMs-6oMJmk-aepZQq-9YkPHp-fiAEGE-dVP4Z5-oxPyJP-atKUFJ-9YHWA5-9YF2f2-9YF2gR-9YHVGN-9YHVvs-qZYYQ6-4JqP2i-a2peGy-9YHVUm-9YHVF7-9YHVCL-9YF3NK-cYteMo-aiPmb9-69dtAi-9YF21x-4aWpmn-7SLiUL-77pqVX-8vXbYv-4HGDSH-a2h5P1-8LsZrQ-9aj1ez-auPZ7q-9YHVMd-9YF2bi-9YF23D-8LpWpn-9an6KL-9YHVZL-dqZ3Cz-2GuvnX-9YHWUo-9YHVWd-p5Roh5-i1zTbv-6sYrUT
 [disqus]: https://disqus.com/
+[ga]: http://www.google.com/analytics/

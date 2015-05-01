@@ -18,6 +18,9 @@ paginate_path: "/page:num/"
 # Disqus comments
 disqus_shortname: bencentra
 
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
 # Social icons and sharing options
 #
 # Social settings are used in two places:
