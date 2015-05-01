@@ -9,7 +9,7 @@ email: blcentra@gmail.com
 name: Ben Centra
 description: > 
   A simple yet classy theme for your Jekyll website or blog.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.com" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"

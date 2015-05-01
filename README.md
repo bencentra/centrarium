@@ -33,6 +33,14 @@ Install Jekyll and Jekyll Archives: `gem install jekyll jekyll-archives`
 
 TO-DO
 
+## Updating Styles
+
+If you want change the CSS of the theme, you'll probably want to check out these files in the `_sass/` directory:
+
+* `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
+* `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
+* `_layout.scss`: The primary styles for the layout and design of the theme. 
+
 ## Configuration
 
 All configuration options can be found in `_config.yml`. 

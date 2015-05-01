@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="post">
 
-<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url(/{{ page.cover }});"{% endif %}>
+<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
 	<header class="post-header">
 		<h1 class="title">{{ page.title }}</h1>
 		<p class="info">by <strong>{{ page.author }}</strong></p>
@@ -16,7 +16,7 @@ layout: default
 
 <section class="post-meta">
 	<div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
-	<div class="post-categories">{% if page.categories %}in {% for cat in page.categories %}<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
+	<div class="post-categories">{% if page.categories %}in {% for cat in page.categories %}<a href="{{ site.baseurl }}category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}{% endif %}</div>
 </section>	
 
 <article class="post-content">
@@ -25,12 +25,12 @@ layout: default
 
 {% if page.tags %}
 <section class="tags">
-	<strong>Tags:</strong> {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
+	<strong>Tags:</strong> {% for tag in page.tags %}<a href="{{ site.baseurl }}tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
 </section>
 {% endif %}
 
 <section class="rss">
-	<p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
+	<p class="rss-subscribe text"><strong>Subscribe <a href="{{ "feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
 </section>
 
 <section class="share">
