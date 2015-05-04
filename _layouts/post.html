@@ -34,7 +34,7 @@ layout: default
 </section>
 
 <section class="share">
-  <span class="gray">Share: </span>
+  <span>Share: </span>
   {% for social in site.social %}
     {% if social.share_url != null %}
       <a href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}.html"

@@ -31,12 +31,10 @@ layout: default
   {% endfor %}
 </ul>
 
-<br>
-
 <nav class="pagination" role="navigation">
 	<p>
     {% if paginator.next_page %}
-    <a class="newer-posts" href="/page{{paginator.next_page}}">
+    <a class="newer-posts" href="{{ site.baseurl }}page{{paginator.next_page}}">
 	    <span class="fa-stack fa-lg">
 			  <i class="fa fa-square fa-stack-2x"></i>
 			  <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
@@ -51,14 +49,14 @@ layout: default
     <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.previous_page %}
       {% if paginator.page == 2 %}
-      <a class="newer-posts" href="/">
+      <a class="newer-posts" href="{{ site.baseurl }}">
 		    <span class="fa-stack fa-lg">
 				  <i class="fa fa-square fa-stack-2x"></i>
 				  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
 				</span>
 			</a>
       {% else %}
-      <a class="newer-posts" href="/page{{paginator.previous_page}}">
+      <a class="newer-posts" href="{{ site.baseurl }}page{{paginator.previous_page}}">
 		    <span class="fa-stack fa-lg">
 				  <i class="fa fa-square fa-stack-2x"></i>
 				  <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>

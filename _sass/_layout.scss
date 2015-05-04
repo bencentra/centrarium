@@ -184,6 +184,9 @@ pre code.hljs {
 	/*
 	*	index.html
 	*/
+	.post-list {
+		padding-top: 1em !important;
+	}
 	.post-meta {
 		@include outer-container;
 		// padding: 1em 0;
@@ -201,6 +204,7 @@ pre code.hljs {
 		}
 	}
 	.pagination {
+		padding-top: 1em;
 		text-align: center;
 		color: $medium-gray;
 		.page-number {
@@ -302,6 +306,11 @@ pre code.hljs {
 				color: $medium-gray;
 			}
 		}
+		.profile {
+			max-width: 320px;
+			margin: auto;
+			padding-bottom: 0.5em;
+ 		}
 	}
 }
 
