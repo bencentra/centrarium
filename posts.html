@@ -18,7 +18,7 @@ nolinkify: true
 	{% for post in site.categories[cat] %}
 		<li>
 			<strong>
-				<a href="{{ post.url }}">{{ post.title }}</a>
+				<a href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">{{ post.title }}</a>
 			</strong>
 			<span class="post-date">- {{ post.date | date_to_long_string }}</span>
 		</li>
