@@ -1,6 +1,8 @@
 # External gems
 gems:
-  - jekyll-archives
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+
 
 # Site settings
 title: Centrarium
@@ -20,7 +22,7 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
+jekyll-archives: 
   enabled: 
     - categories
     - tags

@@ -11,7 +11,8 @@ Built with these awesome libraries:
 * [HighlightJS][highlightjs]
 * [Lightbox][lightbox]
 
-Demo: http://bencentra.com/centrarium/
+Demo: http://bencentra.com/centrarium
+Also works on GitHub Pages: http://bencentra.github.io/centrarium/
 
 Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog.
 
@@ -30,7 +31,7 @@ This theme comes with a number of features, including:
 
 ## Installation
 
-Install Jekyll and Jekyll Archives: `gem install jekyll jekyll-archives`
+Install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
 
 TO-DO
 
@@ -68,7 +69,7 @@ All configuration options can be found in `_config.yml`.
 
 Although this theme comes with a combined, categorized archive (see `posts.html`), you can enable further archive creation thanks to [jekyll-archives][archives]. Support for category and tag archive pages is included, but you can also add your own archive pages for years, months, and days.
 
-To disable or change archive settings, see the __jekyll_archives__ section of `_config.yml`:
+To change archive settings, see the __jekyll-archives__ section of `_config.yml`:
 
 ```yml
 jekyll-archives:
@@ -80,6 +81,12 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 ```
+
+To fully disable the archive, remove the __jekyll-archives__ section AND remove it from the __gems__ list.
+
+__NOTE:__ the Jekyll Archive gem is NOT included with GitHub pages! Disable the archive feature if you intend to deploy your site to GitHub pages.
+
+A sitemap is also generated using [jekyll-sitemap][sitemap].
 
 ### Disqus Settings
 
@@ -136,3 +143,4 @@ descriptions:
 [disqus]: https://disqus.com/
 [ga]: http://www.google.com/analytics/
 [archives]: https://github.com/jekyll/jekyll-archives
+[sitemap]: https://github.com/jekyll/jekyll-sitemap
