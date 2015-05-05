@@ -12,6 +12,7 @@ Built with these awesome libraries:
 * [Lightbox][lightbox]
 
 Demo: http://bencentra.com/centrarium
+
 Also works on GitHub Pages: http://bencentra.github.io/centrarium/
 
 Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog.
