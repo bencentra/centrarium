@@ -33,7 +33,7 @@ pre code.hljs {
 .has-cover {
 	color: $white;
 	text-align: center;
-	text-shadow: 0 2px rgba(0,0,0,0.33);
+	text-shadow: 0 2px 1px rgba(0,0,0,0.67);
 	background-position: 50% 50%;
 	background-size: cover;
 	padding: 6em 1em !important;
@@ -370,7 +370,8 @@ pre code.hljs {
 		}
 		font-size: 0.9em;
 		i {
-			width: 1em;
+			width: 1.25em;
+			text-align: center;
 		}
 	}
 	/*

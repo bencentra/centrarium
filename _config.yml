@@ -105,3 +105,48 @@ social:
     share_url: //plus.google.com/share
     share_title: ?title=
     share_link: "&amp;url="
+
+  - name: YouTube
+    icon: youtube
+    username: 
+    url: 
+    desc: Subscribe on YouTube
+    share_url: 
+    share_title: 
+    share_link:
+
+  - name: Instagram
+    icon: instagram
+    username: 
+    url: 
+    desc: Follow me on Instagram
+    share_url: 
+    share_title: 
+    share_link:
+
+  - name: Pinterest
+    icon: pinterest-p
+    username: 
+    url: 
+    desc: Follow me on Pinterest
+    share_url: 
+    share_title: 
+    share_link:
+
+  - name: Dribbble
+    icon: dribbble
+    username: 
+    url: 
+    desc: Follow me on Dribble
+    share_url: 
+    share_title: 
+    share_link:
+
+  - name: SoundCloud
+    icon: soundcloud
+    username: 
+    url: 
+    desc: Follow me on SoundCloud
+    share_url: 
+    share_title: 
+    share_link:
