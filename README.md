@@ -44,6 +44,17 @@ If you want change the CSS of the theme, you'll probably want to check out these
 * `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
 * `_layout.scss`: The primary styles for the layout and design of the theme. 
 
+### Important Variables
+
+Here are the important variables from `base/_variables.scss` you can tweak to customize the theme to your liking:
+
+* `$base-font-family`: The font-family of the body text. Make sure to `@import` any new fonts!
+* `$heading-font-family`: The font-family of the headers. Make sure to `@import` any new fonts!
+* `$base-font-size`: The base font-size. Defaults to $em-base from Bourbon (`bourbon/settings/_px-to-em.scss`).
+* `$base-font-color`: The color for the body text.
+* `$action-color`: The color for links in the body text. 
+* `$highlight-color`: The color for the footer and page headers (when no cover image provided).
+
 ## Configuration
 
 All configuration options can be found in `_config.yml`. 
