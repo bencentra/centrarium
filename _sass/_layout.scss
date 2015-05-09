@@ -30,24 +30,6 @@ pre code.hljs {
 	font-size: modular-scale(-1);
 }
 
-.has-cover {
-	color: $white;
-	text-align: center;
-	text-shadow: 0 2px 1px rgba(0,0,0,0.67);
-	background-position: 50% 50%;
-	background-size: cover;
-	padding: 6em 1em !important;
-	.title {
-		font-size: modular-scale(6);
-	}
-	.info, .subtitle {
-		font-size: modular-scale(1);
-	}
-	@include media($tablet) {
-		padding: 9em 1em !important;
-	}
-}
-
 .page-divider {
 	$divider-color: $light-gray;
   display: block;
@@ -77,6 +59,33 @@ pre code.hljs {
     margin-right: auto;
     border-radius: 50%;
   }
+}
+
+.site-header-container, .post-header-container {
+	width: 100%;
+	text-align: center;
+	&.has-cover {
+		color: $white;
+		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
+		background-position: 50% 50%;
+		background-size: cover;
+		.title {
+			font-size: modular-scale(6);
+		}
+		.subtitle, .info {
+			font-size: modular-scale(1);
+		}
+	}
+	.scrim {
+		padding: 3em 1em;
+		&.has-cover {
+			background-color: rgba(0,0,0,0.1);
+			padding: 6em 1em !important;
+			@include media($tablet) {
+				padding: 9em 1em !important;
+			}
+		}
+	}
 }
 
 /*
@@ -212,17 +221,16 @@ pre code.hljs {
 		}
 	}
 	.site-header-container {
-		width: 100%;
-		padding: 3em 1em;
+		color: $white;
+		text-shadow: 0 2px 1px rgba(0,0,0,0.33);
 		background-color: $highlight-color;
-		text-align: center;
-		.site-header {
+		.site-header{
 			.title {
-				// font-size: modular-scale(6);
+				font-size: modular-scale(6);
 			}
 			.subtitle {
 				font-style: italic;
-				// font-size: modular-scale(1);
+				font-size: modular-scale(1);
 			}
 		}
 	}
@@ -236,18 +244,8 @@ pre code.hljs {
 	*/
 	.post {
 		.post-header-container {
-			width: 100%;
-			padding: 2em 1em 1em 1em;
-			text-align: center;
-			.post-header {
-				// @include outer-container;
-				padding: 0 1em;
-				.title {
-					// font-size: modular-scale(6);
-				}
-				.info {
-					// font-size: modular-scale(1);
-				}
+			.scrim {
+				padding: 2em 1em 1em 1em;
 			}
 		}
 		.post-meta {
@@ -290,7 +288,7 @@ pre code.hljs {
 	*/
 	.page {
 		.post-header {
-			padding: 1em 1em 1em 1em;
+			padding: 2em 1em 1em 1em;
 			text-align: center;
 		}
 		.posts-list {
