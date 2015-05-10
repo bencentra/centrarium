@@ -19,6 +19,14 @@ html, body {
 	width: 100%;
 }
 
+ol.default {
+  @extend %default-ol;
+}
+
+ul.default {
+	@extend %default-ul;
+}
+
 code {
 	background-color: #eee;
 	display: inline-block;
@@ -288,7 +296,7 @@ pre code.hljs {
 	*/
 	.page {
 		.post-header {
-			padding: 2em 1em 1em 1em;
+			padding: 0.5em 1em 1em 1em;
 			text-align: center;
 		}
 		.posts-list {
