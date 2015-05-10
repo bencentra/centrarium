@@ -1,6 +1,6 @@
 # Centrarium
 
-A simple yet classy theme for your Jekyll website or blog. Use it as is, or customize it to fit your style or brand.
+A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
 Built with these awesome libraries: 
 * [Bourbon][bourbon] 
@@ -13,7 +13,7 @@ Built with these awesome libraries:
 
 Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
 
-Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme][http://rohanchandra.github.io/type-theme/].
+Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
 
 Cover image by Chris M. Morris ([flickr][cover]).
 
@@ -36,9 +36,10 @@ First and foremost, install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem in
 If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
 
 If your site already uses Jekyll, follow these steps:
-1. Replace the files in the `_includes', `_layouts`, and `_sass` directories with those from this project.
-2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.
-3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.
+
+1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.  
+2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.  
+3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.  
 
 ## Updating Styles
 
