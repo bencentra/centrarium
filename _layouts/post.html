@@ -4,10 +4,12 @@ layout: default
 <div class="post">
 
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
-	<header class="post-header">
-		<h1 class="title">{{ page.title }}</h1>
-		<p class="info">by <strong>{{ page.author }}</strong></p>
-	</header>
+	<div class="scrim {% if page.cover %}has-cover{% endif %}">
+		<header class="post-header">
+		  <h1 class="title">{{ page.title }}</h1>
+		  <p class="info">by <strong>{{ page.author }}</strong></p>
+		</header>
+	</div>
 </div>
 
 <div class="wrapper">
@@ -49,7 +51,7 @@ layout: default
     {% if social.share_url != null %}
       <a href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}.html"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-      	<i class="fa fa-{{ social.icon }}-square fa-lg"></i>
+      	<i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
     {% endif %}
   {% endfor %}

@@ -3,7 +3,6 @@ gems:
   # - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
 
-
 # Site settings
 title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
@@ -127,19 +126,10 @@ social:
     share_link:
 
   - name: Pinterest
-    icon: pinterest-p
+    icon: pinterest
     username: 
     url: 
     desc: Follow me on Pinterest
-    share_url: 
-    share_title: 
-    share_link:
-
-  - name: Dribbble
-    icon: dribbble
-    username: 
-    url: 
-    desc: Follow me on Dribble
     share_url: 
     share_title: 
     share_link:
@@ -152,3 +142,39 @@ social:
     share_url: 
     share_title: 
     share_link:
+
+  - name: Tumblr
+    icon: tumblr
+    username: 
+    url: 
+    desc: Follow me on Tumblr
+    share_url: 
+    share_title: 
+    share_link:
+
+  - name: Steam
+    icon: steam
+    username: 
+    url: 
+    desc: Friend me on Steam
+    share_url: 
+    share_title: 
+    share_link:
+
+  - name: Dribbble
+    icon: dribbble
+    username: 
+    url: 
+    desc: Follow me on Dribble
+
+  - name: Vimeo
+    icon: vimeo-square
+    username: 
+    url: 
+    desc: Follow me on Vimeo
+
+  - name: Vine
+    icon: vine
+    username: 
+    url: 
+    desc: Follow me on Vine

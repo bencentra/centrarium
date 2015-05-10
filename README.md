@@ -1,6 +1,6 @@
 # Centrarium
 
-A custom theme for [my Jekyll blog][bencentra]. If you like it, you're welcome to use it, too!
+A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
 Built with these awesome libraries: 
 * [Bourbon][bourbon] 
@@ -11,29 +11,35 @@ Built with these awesome libraries:
 * [HighlightJS][highlightjs]
 * [Lightbox][lightbox]
 
-Demo: http://bencentra.com/centrarium
-Also works on GitHub Pages: http://bencentra.github.io/centrarium/
+Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
 
-Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog.
+Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
 
 Cover image by Chris M. Morris ([flickr][cover]).
 
 ## Features
 
 This theme comes with a number of features, including:
-* Cover images for your homepage and posts
-* Default pagination on the homepage
-* A categorized archive of all posts
+* Easily customizable fonts and colors
+* Cover images for your homepage and blog posts
+* Pagination enabled by default
+* Archiving of posts by categories and tags
 * Disqus integration for post comments
-* Lightbox for viewing full-screen photos or albums
-* Google Analytics with custom page names
-* Social media integration (Twitter, Facebook, LinkedIn, GitHub, Google+)
+* Lightbox for viewing full-screen photos and albums
+* Google Analytics with custom page name tracking
+* Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)
 
 ## Installation
 
-Install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
+First and foremost, install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
 
-TO-DO
+If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
+
+If your site already uses Jekyll, follow these steps:
+
+1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.  
+2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.  
+3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.  
 
 ## Updating Styles
 
@@ -42,6 +48,17 @@ If you want change the CSS of the theme, you'll probably want to check out these
 * `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
 * `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
 * `_layout.scss`: The primary styles for the layout and design of the theme. 
+
+### Important Variables
+
+Here are the important variables from `base/_variables.scss` you can tweak to customize the theme to your liking:
+
+* `$base-font-family`: The font-family of the body text. Make sure to `@import` any new fonts!
+* `$heading-font-family`: The font-family of the headers. Make sure to `@import` any new fonts!
+* `$base-font-size`: The base font-size. Defaults to $em-base from Bourbon (`bourbon/settings/_px-to-em.scss`).
+* `$base-font-color`: The color for the body text.
+* `$action-color`: The color for links in the body text. 
+* `$highlight-color`: The color for the footer and page headers (when no cover image provided).
 
 ## Configuration
 
