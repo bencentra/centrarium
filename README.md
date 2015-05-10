@@ -1,6 +1,6 @@
 # Centrarium
 
-A custom theme for [my Jekyll blog][bencentra]. If you like it, you're welcome to use it, too!
+A simple yet classy theme for your Jekyll website or blog. Use it as is, or customize it to fit your style or brand.
 
 Built with these awesome libraries: 
 * [Bourbon][bourbon] 
@@ -11,30 +11,34 @@ Built with these awesome libraries:
 * [HighlightJS][highlightjs]
 * [Lightbox][lightbox]
 
-Demo: http://bencentra.com/centrarium
+Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
 
-Also works on GitHub Pages: http://bencentra.github.io/centrarium/
-
-Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog.
+Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme][http://rohanchandra.github.io/type-theme/].
 
 Cover image by Chris M. Morris ([flickr][cover]).
 
 ## Features
 
 This theme comes with a number of features, including:
-* Cover images for your homepage and posts
-* Default pagination on the homepage
-* A categorized archive of all posts
+* Easily customizable fonts and colors
+* Cover images for your homepage and blog posts
+* Pagination enabled by default
+* Archiving of posts by categories and tags
 * Disqus integration for post comments
-* Lightbox for viewing full-screen photos or albums
-* Google Analytics with custom page names
-* Social media integration (Twitter, Facebook, LinkedIn, GitHub, Google+)
+* Lightbox for viewing full-screen photos and albums
+* Google Analytics with custom page name tracking
+* Social media integration (Twitter, Facebook, LinkedIn, GitHub, and more)
 
 ## Installation
 
-Install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
+First and foremost, install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
 
-TO-DO
+If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
+
+If your site already uses Jekyll, follow these steps:
+1. Replace the files in the `_includes', `_layouts`, and `_sass` directories with those from this project.
+2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.
+3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.
 
 ## Updating Styles
 
