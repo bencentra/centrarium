@@ -203,6 +203,7 @@ pre code.hljs {
 	*/
 	.post-list {
 		padding-top: 1em !important;
+		@extend %default-ul;
 	}
 	.post-meta {
 		@include outer-container;
@@ -251,6 +252,9 @@ pre code.hljs {
 	*	Posts
 	*/
 	.post {
+		ul {
+			margin-bottom: 1em;
+		}
 		.post-header-container {
 			.scrim {
 				padding: 2em 1em 1em 1em;
@@ -285,6 +289,7 @@ pre code.hljs {
 			a {
 				width: 1em;
 				padding: 0 0.25em;
+				text-decoration: none;
 			}
 		}
 		.disqus {
@@ -300,7 +305,7 @@ pre code.hljs {
 			text-align: center;
 		}
 		.posts-list {
-			// @extend %default-ul;
+			@extend %default-ul;
 			li {
 				padding: modular-scale(-4);
 				padding-left: 0;
@@ -358,6 +363,9 @@ pre code.hljs {
 			@include span-columns(4);
 		}
 		font-size: 0.9em;
+		ul {
+			@extend %default-ul;
+		}
 	}
 	/*
 	*	Contact Info (center)
@@ -378,6 +386,9 @@ pre code.hljs {
 		i {
 			width: 1.25em;
 			text-align: center;
+		}
+		ul {
+			@extend %default-ul;
 		}
 	}
 	/*
