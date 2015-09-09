@@ -148,6 +148,21 @@ descriptions:
     desc: "Posts describing Jekyll setup techniques."
 ```
 
+## Contributing
+
+Want to help make this theme even better? Contributions from the community are welcome!
+
+Please follow these steps:
+
+1. Fork/clone this repository.
+2. Develop (and test!) your changes. 
+3. Open a pull request on GitHub. A description and/or screenshot of changes would be appreciated!
+4. I ([Ben Centra](https://github.com/bencentra)) will review and merge the pull request.
+
+## License
+
+MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENSE.md).
+
 [bencentra]: http://bencentra.com
 [bourbon]: http://bourbon.io/
 [neat]: http://neat.bourbon.io/
