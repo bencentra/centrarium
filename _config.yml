@@ -178,3 +178,13 @@ social:
     username: 
     url: 
     desc: Follow me on Vine
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+protocols:
+    fb_image: "assets/logo.png"
+    fb_image_width: 612
+    fb_image_height: 605
+    fb_image_type: "image/png"
+
+    twitter_image: "assets/logo.png"
