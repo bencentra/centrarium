@@ -181,6 +181,7 @@ social:
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
     fb_image: "assets/logo.png"
     fb_image_width: 612
@@ -188,3 +189,7 @@ protocols:
     fb_image_type: "image/png"
 
     twitter_image: "assets/logo.png"
+
+    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    os_rcs_type: "git"
+    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
