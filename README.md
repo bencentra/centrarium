@@ -137,6 +137,12 @@ social:
 
 Any of the __share__ prefixed options are used in blog posts for the social share bar. The other options are used in the Contact info section of the footer.
 
+### Social Protocols
+
+Using the Open Graph Protocol or Twitter Card metadata, you can automatically set the images and text used when people share your site on Twitter or Facebook. These take a bit of setup, but are well worth it. The relevant fields are at the end of the `_config.yml` file.
+
+Also there is another protocol, the Open Source protocol, for saying where your site is hosted if the source is open. This helps develops more easily see your code if they are interested, or if they have issues. For more, see http://osprotocol.com.
+
 ### Category Descriptions
 
 You can enhance the `posts.html` archive page with descriptions of your post categories. See the __descriptions__ section of `_config.yml`:
@@ -147,6 +153,21 @@ descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 ```
+
+## Contributing
+
+Want to help make this theme even better? Contributions from the community are welcome!
+
+Please follow these steps:
+
+1. Fork/clone this repository.
+2. Develop (and test!) your changes. 
+3. Open a pull request on GitHub. A description and/or screenshot of changes would be appreciated!
+4. I ([Ben Centra](https://github.com/bencentra)) will review and merge the pull request.
+
+## License
+
+MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENSE.md).
 
 [bencentra]: http://bencentra.com
 [bourbon]: http://bourbon.io/
