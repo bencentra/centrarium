@@ -11,6 +11,6 @@ charset = utf-8
 indent_style = tab
 indent_size = 2
 
-[*.yml]
+[*.{md,markdown,yml}]
 indent_style = spaces
-indend_size = 2
+indent_size = 2
