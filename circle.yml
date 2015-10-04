@@ -1,3 +1,7 @@
+machine:
+  ruby:
+    version:
+      2.2.2
 test:
   override:
-    - jekyll build
+    - bundle exec jekyll build
