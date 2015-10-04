@@ -126,16 +126,12 @@ Your personal social network settings are combined with the social sharing optio
 ```yml
 social:
   - name: Twitter                         # Name of the service
-    icon: twitter                  		  # Font Awesome icon to use (minus fa- prefix)
-    username: "@TheBenCentra"             # (User) Name to display in the footer link
+    icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+    username: TheBenCentra                # (User) Name to display in the footer link
     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
     desc: Follow me on Twitter            # Description to display as link title, etc
-    share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to disable sharing)
-    share_title: ?text=                   # Title parameter for sharing URL
-    share_link: "&amp;url="               # Link parameter for sharing URL
+    share: true                           # Include in the "Share" section of posts
 ```
-
-Any of the __share__ prefixed options are used in blog posts for the social share bar. The other options are used in the Contact info section of the footer.
 
 ### Social Protocols
 

@@ -58,9 +58,7 @@ descriptions:
 #     username: "@TheBenCentra"             # (User) Name to display in the footer link
 #     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
-#     share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to not allow sharing)
-#     share_title: ?text=                   # Title parameter for sharing URL
-#     share_link: "&amp;url="               # Link parameter for sharing URL
+#     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
     icon: twitter

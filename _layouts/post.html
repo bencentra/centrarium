@@ -47,14 +47,6 @@ layout: default
 
 <section class="share">
   <span>Share: </span>
-  <!-- {% for social in site.social %}
-    {% if social.share_url != null %}
-      <a href="{{ social.share_url }}{{ social.share_title }}{{page.title | cgi_escape}}{{ social.share_link }}{{site.url}}{{page.id}}.html"
-        onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-      	<i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
-      </a>
-    {% endif %}
-  {% endfor %} -->
   {% for social in site.social %}
   	{% if social.name == "Twitter" and social.share == true %}
   		<a href="//twitter.com/share?text={{ page.title | cgi_escape }}&url={{ site.url | append: site.baseurl }}{{ page.id }}.html&via={{social.username}}"
