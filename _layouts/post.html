@@ -80,12 +80,12 @@ layout: default
   			<i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
   		</a>
   	{% endif %}
-  	<!-- {% if social.name == "Pinterest" and social.share == true %}
-  		<a href="//www.pinterest.com/pin/create/button/?description={{ page.title | cgi_escape }}&url={{ site.url | append: site.baseurl }}{{ page.id }}.html{% if page.cover %}&media={{ site.url }}{{ page.cover | prepend: site.baseurl  }}{% endif %}"
+  	{% if social.name == "Pinterest" and social.share == true %}
+  		<a href="//www.pinterest.com/pin/create/button/?description={{ page.title | cgi_escape }}&url={{ site.url | append: site.baseurl }}{{ page.id }}.html&media={{ site.url }}{% if page.cover %}{{ page.cover | prepend: site.baseurl  }}{% elsif site.cover %}{{ site.cover | prepend: site.baseurl }}{% else %}{{ site.logo | prepend: site.baseurl }}{% endif %}"
   			onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
   			<i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
   		</a>
-  	{% endif %} -->
+  	{% endif %}
   {% endfor %}
 </section>
 
