@@ -5,3 +5,6 @@ _site
 
 # Sass garbage
 .sass-cache
+
+# Bundler
+Gemfile.lock
