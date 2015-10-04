@@ -31,8 +31,6 @@ This theme comes with a number of features, including:
 
 ## Installation
 
-First and foremost, install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
-
 If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
 
 If your site already uses Jekyll, follow these steps:
@@ -40,6 +38,16 @@ If your site already uses Jekyll, follow these steps:
 1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.  
 2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.  
 3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.  
+
+Don't forget to install Jekyll and other dependencies:
+```bash
+# cd into project directory
+cd centrarium
+# install Bundler if you don't have it already
+gem install bundler
+# install jekyll, jekyll-archives, and jekyll-sitemap
+bundle install
+```
 
 ## Updating Styles
 
