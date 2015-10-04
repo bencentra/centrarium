@@ -1,4 +1,4 @@
-# Centrarium
+# Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
@@ -78,7 +78,7 @@ All configuration options can be found in `_config.yml`.
 * __subtitle:__ The subtitle of your site. Displayed in the `index.html` header.
 * __email:__ Your email address, displayed with the Contact info in the footer.
 * __name:__ Your name. _Currently unused._
-* __descriptionL__ The description of your site. Used for search engine results and displayed in the footer.
+* __description:__ The description of your site. Used for search engine results and displayed in the footer.
 * __baseurl:__ The subpath of your site (e.g. /blog/).
 * __url:__ The base hostname and protocol for your site.
 * __cover:__ The relative path to your site's cover image.
