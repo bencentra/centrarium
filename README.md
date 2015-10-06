@@ -1,4 +1,4 @@
-# Centrarium
+# Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
@@ -31,8 +31,6 @@ This theme comes with a number of features, including:
 
 ## Installation
 
-First and foremost, install Jekyll, Jekyll Archives, and Jekyll Sitemap: `gem install jekyll jekyll-archives jekyll-sitemap`
-
 If you're just getting started with Jekyll, you can use this repository as a starting point for your own site. Just [download this project](https://github.com/bencentra/centrarium/archive/master.zip) and add all the files to your project. Add your blog posts to the `posts/` directory, and create your pages with the proper Jekyll front matter (see `posts.html` for an example).
 
 If your site already uses Jekyll, follow these steps:
@@ -40,6 +38,16 @@ If your site already uses Jekyll, follow these steps:
 1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.  
 2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.  
 3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.  
+
+Don't forget to install Jekyll and other dependencies:
+```bash
+# cd into project directory
+cd centrarium
+# install Bundler if you don't have it already
+gem install bundler
+# install jekyll, jekyll-archives, and jekyll-sitemap
+bundle install
+```
 
 ## Updating Styles
 
@@ -70,7 +78,7 @@ All configuration options can be found in `_config.yml`.
 * __subtitle:__ The subtitle of your site. Displayed in the `index.html` header.
 * __email:__ Your email address, displayed with the Contact info in the footer.
 * __name:__ Your name. _Currently unused._
-* __descriptionL__ The description of your site. Used for search engine results and displayed in the footer.
+* __description:__ The description of your site. Used for search engine results and displayed in the footer.
 * __baseurl:__ The subpath of your site (e.g. /blog/).
 * __url:__ The base hostname and protocol for your site.
 * __cover:__ The relative path to your site's cover image.
@@ -126,16 +134,12 @@ Your personal social network settings are combined with the social sharing optio
 ```yml
 social:
   - name: Twitter                         # Name of the service
-    icon: twitter                  		  # Font Awesome icon to use (minus fa- prefix)
-    username: "@TheBenCentra"             # (User) Name to display in the footer link
+    icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+    username: TheBenCentra                # (User) Name to display in the footer link
     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
     desc: Follow me on Twitter            # Description to display as link title, etc
-    share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to disable sharing)
-    share_title: ?text=                   # Title parameter for sharing URL
-    share_link: "&amp;url="               # Link parameter for sharing URL
+    share: true                           # Include in the "Share" section of posts
 ```
-
-Any of the __share__ prefixed options are used in blog posts for the social share bar. The other options are used in the Contact info section of the footer.
 
 ### Social Protocols
 
