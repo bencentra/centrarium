@@ -164,6 +164,13 @@ social:
     desc: Follow me on Vine
     share: false
 
+  - name: Reddit
+    icon: reddit
+    username:
+    url:
+    desc: Share to Reddit
+    share: true
+
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
