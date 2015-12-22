@@ -81,6 +81,32 @@ layout: default
     {% endif %}
   {% endfor %}
 </section>
+{% if site.inter_post_navigation == true %}
+	<section class="post-navigation">
+		<span class="prev-post">
+			{% if page.previous.url %}
+				<a href="{{page.previous.url | prepend: site.baseurl}}">
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-square fa-stack-2x"></i>
+						<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+					</span>
+					<span class="page-number">{{page.previous.title}}</span>
+				</a>
+			{% endif %}
+		</span>
+		<span class="next-post">
+			{% if page.next.url %}
+				<a href="{{page.next.url | prepend: site.baseurl}}">
+					<span class="page-number">{{page.next.title}}</span>
+					<span class="fa-stack fa-lg">
+						<i class="fa fa-square fa-stack-2x"></i>
+						<i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+					</span>
+				</a>
+			{% endif %}
+		</span>
+	</section>
+{% endif %}
 
 {% if site.disqus_shortname %}
 {% unless page.disqus_disabled %}

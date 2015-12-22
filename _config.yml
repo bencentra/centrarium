@@ -25,6 +25,7 @@ logo: "/assets/logo.png"
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
+inter_post_navigation: false
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives: 

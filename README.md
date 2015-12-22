@@ -89,6 +89,7 @@ All configuration options can be found in `_config.yml`.
 * __markdown:__ Markdown parsing engine. Default is kramdown.
 * __paginate:__ Number of posts to include on one page.
 * __paginate_path:__ URL structure for pages.
+* __inter_post_navigation:__ Whether to render links to the next and previous post on each post.
 
 ### Archive Settings
 
