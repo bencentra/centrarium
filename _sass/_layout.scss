@@ -295,6 +295,24 @@ pre code.hljs {
 		.disqus {
 			@include span-columns(12);
 		}
+		.post-navigation {
+			font-size: 0.9em;
+			display: block;
+			width: auto;
+			.prev-post {
+				display: block;
+				width: 50%;
+				float: left;
+				margin: 1em 0;
+			}
+			.next-post {
+				display: block;
+				width: 50%;
+				float: left;
+				margin: 1em 0;
+				text-align: right;
+			}
+		}
 	}
 	/*
 	*	Pages
