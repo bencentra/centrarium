@@ -11,7 +11,7 @@ title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: blcentra@gmail.com
 name: Ben Centra
-description: > 
+description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
@@ -26,10 +26,11 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
 inter_post_navigation: false
+highlightjs_theme: "monokai_sublime"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives: 
-  enabled: 
+jekyll-archives:
+  enabled:
     - categories
     - tags
   layout: 'archive'
@@ -56,9 +57,9 @@ descriptions:
 # Social settings are used in two places:
 # * In the footer, as links to your personal profiles
 # * After each blog post for sharing widgets
-# 
+#
 # Example:
-# 
+#
 # social:
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
@@ -77,7 +78,7 @@ social:
   - name: Facebook
     icon: facebook
     username: thebencentra
-    url: 
+    url:
     desc: Friend me on Facebook
     share: true
 
@@ -97,71 +98,71 @@ social:
 
   - name: Google+
     icon: google-plus
-    username: 
-    url: 
+    username:
+    url:
     desc: Add me to your Circles
     share: true
 
   - name: YouTube
     icon: youtube
-    username: 
-    url: 
+    username:
+    url:
     desc: Subscribe on YouTube
     share: false
 
   - name: Instagram
     icon: instagram
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Instagram
     share: false
 
   - name: Pinterest
     icon: pinterest
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Pinterest
     share: true
 
   - name: SoundCloud
     icon: soundcloud
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on SoundCloud
     share: false
 
   - name: Tumblr
     icon: tumblr
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Tumblr
     share: false
 
   - name: Steam
     icon: steam
-    username: 
-    url: 
+    username:
+    url:
     desc: Friend me on Steam
     share: false
 
   - name: Dribbble
     icon: dribbble
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Dribble
     share: false
 
   - name: Vimeo
     icon: vimeo-square
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Vimeo
     share: false
 
   - name: Vine
     icon: vine
-    username: 
-    url: 
+    username:
+    url:
     desc: Follow me on Vine
     share: false
 

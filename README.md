@@ -2,8 +2,8 @@
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
-Built with these awesome libraries: 
-* [Bourbon][bourbon] 
+Built with these awesome libraries:
+* [Bourbon][bourbon]
 * [Neat][neat]
 * [Bitters][bitters]
 * [Refills][refills]
@@ -24,6 +24,7 @@ This theme comes with a number of features, including:
 * Cover images for your homepage and blog posts
 * Pagination enabled by default
 * Archiving of posts by categories and tags
+* Syntax highlighting for code snippets
 * Disqus integration for post comments
 * Lightbox for viewing full-screen photos and albums
 * Google Analytics with custom page name tracking
@@ -55,7 +56,7 @@ If you want change the CSS of the theme, you'll probably want to check out these
 
 * `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
 * `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
-* `_layout.scss`: The primary styles for the layout and design of the theme. 
+* `_layout.scss`: The primary styles for the layout and design of the theme.
 
 ### Important Variables
 
@@ -65,12 +66,12 @@ Here are the important variables from `base/_variables.scss` you can tweak to cu
 * `$heading-font-family`: The font-family of the headers. Make sure to `@import` any new fonts!
 * `$base-font-size`: The base font-size. Defaults to $em-base from Bourbon (`bourbon/settings/_px-to-em.scss`).
 * `$base-font-color`: The color for the body text.
-* `$action-color`: The color for links in the body text. 
+* `$action-color`: The color for links in the body text.
 * `$highlight-color`: The color for the footer and page headers (when no cover image provided).
 
 ## Configuration
 
-All configuration options can be found in `_config.yml`. 
+All configuration options can be found in `_config.yml`.
 
 ### Site Settings
 
@@ -99,7 +100,7 @@ To change archive settings, see the __jekyll-archives__ section of `_config.yml`
 
 ```yml
 jekyll-archives:
-  enabled: 
+  enabled:
     - categories
     - tags
   layout: 'archive'
@@ -113,6 +114,27 @@ To fully disable the archive, remove the __jekyll-archives__ section AND remove 
 __NOTE:__ the Jekyll Archive gem is NOT included with GitHub pages! Disable the archive feature if you intend to deploy your site to GitHub pages.
 
 A sitemap is also generated using [jekyll-sitemap][sitemap].
+
+### Syntax Highlighting Settings
+
+Inside of a post, you can enable syntax highlighting with the `{% highlight <language> %}` Liquid tag. For example:
+
+```
+{% highlight javascript %}
+function demo(string, times) {
+  for (var i = 0; i < times; i++) {
+    console.log(string);
+  }
+}
+demo("hello, world!", 10);
+{% endhighlight %}
+```
+
+You can change the [HighlightJS theme][highlightjs_theme] in `_config.yml`:
+
+```yml
+highlightjs_theme: "monokai_sublime"
+```
 
 ### Disqus Settings
 
@@ -166,7 +188,7 @@ Want to help make this theme even better? Contributions from the community are w
 Please follow these steps:
 
 1. Fork/clone this repository.
-2. Develop (and test!) your changes. 
+2. Develop (and test!) your changes.
 3. Open a pull request on GitHub. A description and/or screenshot of changes would be appreciated!
 4. I ([Ben Centra](https://github.com/bencentra)) will review and merge the pull request.
 
@@ -181,6 +203,7 @@ MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENS
 [refills]: http://refills.bourbon.io/
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
 [highlightjs]: https://highlightjs.org/
+[highlightjs_theme]: https://highlightjs.org/static/demo/
 [lightbox]: http://lokeshdhakar.com/projects/lightbox2/
 [cover]: https://www.flickr.com/photos/79666107@N00/3796678503/in/photolist-6MuYfc-61Rtft-8XzPmY-a6Cozm-54eSMs-6oMJmk-aepZQq-9YkPHp-fiAEGE-dVP4Z5-oxPyJP-atKUFJ-9YHWA5-9YF2f2-9YF2gR-9YHVGN-9YHVvs-qZYYQ6-4JqP2i-a2peGy-9YHVUm-9YHVF7-9YHVCL-9YF3NK-cYteMo-aiPmb9-69dtAi-9YF21x-4aWpmn-7SLiUL-77pqVX-8vXbYv-4HGDSH-a2h5P1-8LsZrQ-9aj1ez-auPZ7q-9YHVMd-9YF2bi-9YF23D-8LpWpn-9an6KL-9YHVZL-dqZ3Cz-2GuvnX-9YHWUo-9YHVWd-p5Roh5-i1zTbv-6sYrUT
 [disqus]: https://disqus.com/

@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Jekyll
-tags:	jekyll welcome 
+tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
 
@@ -20,18 +20,38 @@ If you list one or more categories or tags in the front matter of your post, the
 
 ### Cover Images
 
-To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>). 
+To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>).
 
 ### Code Snippets
 
-You can use [highlight.js][highlight] to add syntax highlig code snippets:
+You can use [highlight.js][highlight] to add syntax highlight code snippets:
 
-<pre><code class="hljs javascript">function demo(string, times) {
+Use the [Liquid][liquid] `{% raw %}{% highlight <language> %}{% endraw %}` tag to add syntax highlighting to code snippets.
+
+For instance, this template...
+{% highlight html %}
+{% raw %}{% highlight javascript %}    
+function demo(string, times) {    
+  for (var i = 0; i < times; i++) {    
+    console.log(string);    
+  }    
+}    
+demo("hello, world!", 10);
+{% endhighlight %}{% endraw %}
+{% endhighlight %}
+
+...will come out looking like this:
+
+{% highlight javascript %}
+function demo(string, times) {
   for (var i = 0; i < times; i++) {
     console.log(string);
   }
 }
-demo("hello, world!", 10);</code></pre>
+demo("hello, world!", 10);
+{% endhighlight %}
+
+Syntax highlighting is done using [highlight.js][highlight]. You can change the active theme in [head.html](https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15).
 
 ### Images
 
@@ -51,3 +71,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [highlight]:   https://highlightjs.org/
 [lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
+[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
