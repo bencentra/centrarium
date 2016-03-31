@@ -111,7 +111,7 @@ jekyll-archives:
 
 To fully disable the archive, remove the __jekyll-archives__ section AND remove it from the __gems__ list.
 
-__NOTE:__ the Jekyll Archive gem is NOT included with GitHub pages! Disable the archive feature if you intend to deploy your site to GitHub pages.
+__NOTE:__ the Jekyll Archive gem is NOT included with GitHub pages! Disable the archive feature if you intend to deploy your site to GitHub pages. [Here is a guide](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) on how you can use the `jekyll archive` gem with GitHub pages. The general gist: compile the Jekyll site locally and then push that compiled site to GitHub.
 
 A sitemap is also generated using [jekyll-sitemap][sitemap].
 
