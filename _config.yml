@@ -98,6 +98,69 @@ social:
     desc: Add me to your Circles
     share: true
 
+-  - name: YouTube		
+ -    icon: youtube		
+ -    username: 		
+ -    url: 		
+ -    desc: Subscribe on YouTube		
+ -    share: false		
+ -		
+ -  - name: Instagram		
+ -    icon: instagram		
+ -    username: 		
+ -    url: 		
+ -    desc: Follow me on Instagram		
+ -    share: false		
+ -		
+ -  - name: Pinterest		
+ -    icon: pinterest		
+ -    username: 		
+ -    url: 		
+ -    desc: Follow me on Pinterest		
+ -    share: true		
+ -		
+ -  - name: SoundCloud		
+ -    icon: soundcloud		
+ -    username: 		
+ -    url: 		
+ -    desc: Follow me on SoundCloud		
+ -    share: false		
+ -		
+ -  - name: Tumblr		
+ -    icon: tumblr		
+ -    username: 		
+ -    url: 		
+ -    desc: Follow me on Tumblr		
+ -    share: false		
+ -		
+ -  - name: Steam		
+ -    icon: steam		
+ -    username: 		
+ -    url: 		
+ -    desc: Friend me on Steam		
+ -    share: false		
+ -		
+ -  - name: Dribbble		
+ -    icon: dribbble		
+ -    username: 		
+ -    url: 		
+ -    desc: Follow me on Dribble		
+ -    share: false		
+ -		
+ -  - name: Vimeo		
+ -    icon: vimeo-square		
+ -    username: 		
+ -    url: 		
+ -    desc: Follow me on Vimeo		
+ -    share: false		
+ -		
+ -  - name: Vine		
+ -    icon: vine		
+ -    username: 		
+ -    url: 		
+ -    desc: Follow me on Vine		
+ -    share: false		
+ -
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
