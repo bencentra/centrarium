@@ -46,7 +46,7 @@ Don't forget to install Jekyll and other dependencies:
 cd centrarium
 # install Bundler if you don't have it already
 gem install bundler
-# install jekyll, jekyll-archives, and jekyll-sitemap
+# install jekyll, jekyll-archives, jekyll-sitemap, and jekyll-paginate
 bundle install
 ```
 
