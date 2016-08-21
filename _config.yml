@@ -3,6 +3,7 @@
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
+  - jekyll-paginate
 
 exclude:
   - "/vendor/"
@@ -185,6 +186,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
+    os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+    os_src: "git@github.com:bencentra/centrarium.com.git"

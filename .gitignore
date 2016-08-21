@@ -7,6 +7,5 @@ _site
 .sass-cache
 
 # Bundler
-Gemfile.lock
 .bundle/
 vendor/
