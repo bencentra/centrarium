@@ -36,9 +36,9 @@ If you're just getting started with Jekyll, you can use this repository as a sta
 
 If your site already uses Jekyll, follow these steps:
 
-1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.  
-2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.  
-3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.  
+1. Replace the files in the `_includes`, `_layouts`, and `_sass` directories with those from this project.
+2. Replace your `index.html` with the one from this project, and copy over the `posts.html` file as well.
+3. Copy the contents of the `_config.yml` from this project in to yours, and update the necessary information.
 
 Don't forget to install Jekyll and other dependencies:
 ```bash
@@ -179,6 +179,31 @@ You can enhance the `posts.html` archive page with descriptions of your post cat
 descriptions:
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
+```
+
+### Custom Page-Specific Javascript
+
+You can add page-specific javascript files by adding them to the top-level `/js` directory and including the filename in the __custom_js__ page's configuration file:
+
+```yml
+# Custom js (for individual pages)
+---
+layout: post
+title:  "Dummy Post"
+date:   2015-04-18 08:43:59
+author: Ben Centra
+categories: Dummy
+custom_js:
+- Popmotion
+- Vue
+---
+```
+
+The `/js/` directory would contain the corresponding files:
+
+```bash
+$ ls js/
+Popmotion.js Vue.js
 ```
 
 ## Contributing
