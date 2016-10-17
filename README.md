@@ -152,7 +152,7 @@ You can enable basic [Google Analytics][ga] pageview tracking by including your 
 
 ### Social Settings
 
-Your personal social network settings are combined with the social sharing options. In the __social__ seciton of `_config.yml`, include an entry for each network you want to include. For example:
+Your personal social network settings are combined with the social sharing options. In the __social__ section of `_config.yml`, include an entry for each network you want to include. For example:
 
 ```yml
 social:
