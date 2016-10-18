@@ -175,6 +175,13 @@ social:
     desc: Share to Reddit
     share: true
 
+  - name: "Hacker News"
+    icon: hacker-news
+    username:
+    url:
+    desc: Share to Hacker News
+    share: false
+
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com

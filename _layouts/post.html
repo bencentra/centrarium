@@ -84,6 +84,11 @@ layout: default
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
     {% endif %}
+    {% if social.name == "Hacker News" and social.share == true %}
+      <a href="//news.ycombinator.com/submitlink" onclick="window.location = '//news.ycombinator.com/submitlink?u=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
+        <i class="fa fa-{{ social.icon | remove_first: '-square' }} fa-lg"></i>
+      </a>
+    {% endif %}
   {% endfor %}
 </section>
 {% if site.inter_post_navigation == true %}
