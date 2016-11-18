@@ -6,6 +6,8 @@ gems:
 exclude:
   - "/vendor/"
 
+excerpt_separator: <!--more-->
+
 # Site settings
 title: AcchaKannada
 subtitle: "Kannadada Nitya Utsava"
