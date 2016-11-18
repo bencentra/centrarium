@@ -49,6 +49,9 @@ descriptions:
     
   - cat: acchakannada
     desc: "Posts related to acchakannada blog"
+    
+   - cat: Discussion
+    desc: "Posts discussing certain concepts and theories"
 
 # Social icons and sharing options
 #
