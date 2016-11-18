@@ -2,7 +2,7 @@
 
 layout: post
 title:  "ಆರಂಭ"
-date:   2015-04-18
+date:   2016-01-04
 author: Adarsh
 categories: Acchakannada
 tags:	Acchakannada beginning
