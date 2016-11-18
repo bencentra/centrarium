@@ -52,6 +52,9 @@ descriptions:
     
   - cat: Discussion
     desc: "Posts discussing certain concepts and theories"
+    
+  - cat: Poem
+    desc: "Poems published in acchakannada"
 
 # Social icons and sharing options
 #
