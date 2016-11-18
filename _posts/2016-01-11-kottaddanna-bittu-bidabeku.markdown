@@ -3,7 +3,7 @@
 layout: post
 title:  "ಕೊಟ್ಟಿದ್ದನ್ನ ಬಿಟ್ಟು ಬಿಡಬೇಕು"
 date:  2016-01-11
-author: Deepak
+author: Deepak Basrur
 categories: Discussion
 tags:	Acchakannada Articles Kannada giveaway
 cover:  "assets/instacode.png"
