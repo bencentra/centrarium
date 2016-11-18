@@ -46,6 +46,9 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+    
+  - cat: acchakannada
+    desc: "Posts related to acchakannada blog"
 
 # Social icons and sharing options
 #
