@@ -4,7 +4,7 @@ layout: post
 title:  "ಅನುಭವ : ಗೋಧಿ ಬಣ್ಣ ಸಾಧಾರಣ ಮೈಕಟ್ಟು"
 date:   2016-06-15
 author: Guruprasad Aithal
-categories: Movie Review
+categories: Movie-Review
 tags:	Acchakannada Kannada gbsm movie review
 cover:  "assets/gbsm-.jpg"
 
