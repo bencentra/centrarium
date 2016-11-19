@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "ಆರಂಭ"
-date:   2016-07-21
-description: Ulidavaru kandante. A Poem!
-thumbnail: uk.jpg 
-categories: acchakannada
 
-# Information for the author block
-author: Deepak
+layout: post
+title:  "ಉಳಿದವರು ಕಂಡಂತೆ"
+date:   2016-0-21
+author: Deepak basrur
+categories: Poem
+tags:	Acchakannada Kannada kavana poem Ulidavaru Kandante Jeevana
+cover:  "assets/uk.jpg"
+
 ---
 
 <p align="center">ಫಿಲ್ಮ್ ರಿಲೀಸ್ ಅಂತೆ..,ಥೀಯೇಟರ್ ಹೌಸ್ಫುಲ್ ಅಂತೆ..<br>
