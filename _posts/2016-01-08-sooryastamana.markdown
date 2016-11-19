@@ -3,7 +3,7 @@
 layout: post
 title:  "ಸೂರ್ಯಾಸ್ತಮಾನ"
 date:    2016-01-08
-author: Adarsh
+author: Adarsha
 categories: Experience
 tags:	Acchakannada Travel Agumbe Kannada Karnataka Evening SunDown
 cover:  "/assets/sooryastamana.jpg"
