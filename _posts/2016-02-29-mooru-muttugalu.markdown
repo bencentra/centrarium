@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "ಮೂರು ಮುತ್ತುಗಳು"
+date:   2016-02-29 09:11:03
+description: Three small poems!
+thumbnail: mooru-muttugalu.jpg 
+categories: acchakannada
+
+# Information for the author block
+author: Adarsh
+---
+<p align="center">೧.</p>
+<p align="center">ಗುರಿ ಸೇರುವ ತವಕದಲಿ ಗೋರಿ ಕಟ್ಟಿಕೊಂಡಿರುವವರು ನಾವು,<br>
+ಗುರಿಯು ಕೂಡ ಸತ್ತು ಬಿದ್ದಿದೆ ಪಕ್ಕದ ಗುಂಡಿಯಲಿ,<br>
+ಮಣ್ಣು ಹಾಕೋನು ದೇವರು.<br>
+<!--more-->
+<p align="center">– ದೀಪಕ್ ಬಸ್ರೂರು </p><br></p>
+
+<p align="center">೨.</p>
+<p align="center">ಮರೆಯಬೇಕೆಂದರೂ ಮರೆಯಲಾಗದ ನಿನ್ನ ನೆನಪು ಬಿಡದೆ ಕಾಡಿದೆ ಎನ್ನ,<br>
+ಭಾವನೆಗಳ ಆರ್ಭಟಕೆ ಸಿಲುಕಿ ನಲುಗಿಹೆನು ನಾನು,<br>
+ಮತ್ತೆಂದೂ ಸಿಗದಿರು ಬಾಳ ಪಯಣದಲಿ,<br>
+ಮುಗಿಸುವಾಮುನ್ನ ಈ ನನ್ನ ಪಯಣಗಳಲ್ಲಿ.</p><br>
+<br>
+<p align="center">೩.</p>
+<p align="center">ನಿನ್ನ ಜೊತೆಗೆ ಪಯಣ ಸೇರಿದ ದಾರಿ ಇಂದು ಮೋಹಕ,<br>
+ನಿನ್ನ ನೆನಪ ನಾನು ಸೇರಿ ಬದುಕು ಇನ್ನು ಭಾವುಕ!<br>
+
+<br><p align="center"> -ಆದರ್ಶ </p></p>

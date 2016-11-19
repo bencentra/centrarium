@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "ಯುದ್ಧ ಶಾಂತಿ"
+date:   2016-05-28
+description: War and Peace. A Poem!
+thumbnail:  yuddha-shanti.jpeg
+categories: acchakannada
+
+# Information for the author block
+author: Adarsh
+---
+<p align="center">ನೂರಾರು ಮನೆಗಳು, ನೂರಾರು ಮನಗಳು<br>
+ಒಂದೊಂದು ಮನೆಯಲ್ಲೂ ಒಂದೊಂದು ರೀತಿಗಳು<br><!--more-->
+ನೂರಾರು ದೇಶಗಳು, ನೂರಾರು ಭಾಷೆಗಳು<br>
+ಒಂದೊಂದು ದೇಶದಲ್ಲೂ ಒಂದೊಂದು ನೀತಿಗಳು;<br>
+ನೂರಾರು ಮನೆ, ನೂರಾರು ಮನ<br>
+ನೂರಾರು ದೇಶ, ನೂರಾರು ಭಾಷೆ<br>
+ಎಲ್ಲಕ್ಕೂ ಇರುವುದು ಒಂದೇ ಭೂಮಿ!<br>
+ಗೆರೆ ಎಳೆದು ಬೇರಾಗಿ ಭೂಮಿ ಒಡೆಯಬೇಕೆ?<br>
+ಜೊತೆಯಾಗಿ ಹೊಡೆದಾಡಿ ದೂರಾಗಬೇಕೆ?<br>
+ಯುದ್ಧದಿ ಶಾಂತಿಯ ಬಯಕೆ ಯಾಕೆ?<br>
+ಸಮಾಧಿಯ ಮೇಲೆ ಹೂದೋಟ ಬೇಕೆ?<br></p>
+
+<p align="center">– ಆದರ್ಶ </p>

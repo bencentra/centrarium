@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "ಸೂರ್ಯ"
+date:   2016-08-11
+description: Soorya. A Poem!
+thumbnail: soorya.jpg 
+categories: acchakannada
+
+# Information for the author block
+author: Adarsh
+---
+<p align="center">ಮಳೆಯಲ್ಲಿ ನಾನು ನೆನಪುಗಳ ಜೊತೆಯಲ್ಲಿ ನೆನೆದಾಗ<br>
+ತಂಗಾಳಿ ಬೀಸಿದರು ನನ್ನ ಏಕಾಂತ ಬಿಡದಾಗ<br>
+ಸೂರ್ಯ ಬರುವನು ಬೆಚ್ಚಗೆ, ನನಗೆ ನೀಡುವನು ಅಪ್ಪುಗೆ</p><br><!--more-->
+
+<p align="center">ಜಗವೆಲ್ಲ ನಿರ್ಜೀವದೆ ನಿತ್ಯ ಇರುಳ ಕಳೆವಾಗ<br>
+ನೂರಾರು ತಾರೆಗಳ ಜೊತೆ ನನಗೆ ಸಾಲದಾದಾಗ<br>
+ಸೂರ್ಯ ಬರುವನು ಬೆಚ್ಚಗೆ, ನನಗೆ ನೀಡುವನು ಅಪ್ಪುಗೆ</p><br>
+
+<p align="center">ಜೀವನದಲ್ಲಿ ನನ್ನ ದಾರಿಯು ಕಿರಿದಾಗಿ ಹೋದಾಗ<br>
+ಸಣ್ಣ ಬೆಳಕೂ ನನ್ನ ಕಣ್ಣಿಗೆ ಕಾಣದೆ ಇದ್ದಾಗ<br>
+ಸೂರ್ಯ ಬರುವನು ಬೆಚ್ಚಗೆ, ನನಗೆ ನೀಡುವನು ಅಪ್ಪುಗೆ</p><br>
+
+<p align="center">- ಆದರ್ಶ</p>
