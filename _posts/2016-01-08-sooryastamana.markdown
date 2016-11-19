@@ -6,7 +6,7 @@ date:    2016-01-08
 author: Adarsh
 categories: Experience
 tags:	Acchakannada Travel Agumbe Kannada Karnataka Evening SunDown
-cover:  "assets/instacode.png"
+cover:  "/assets/sooryastamana.jpg"
 
 ---
 
