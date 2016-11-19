@@ -3,7 +3,7 @@
 layout: post
 title: "ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು"
 date:   2016-01-28
-author: Adarsh
+author: Adarsha
 categories: Poem
 tags:	Acchakannada lastbenchboys kavana college Kannada
 cover:  "assets/kade-saalinda-hudugaru.jpg"
