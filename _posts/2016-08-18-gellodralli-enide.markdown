@@ -1,13 +1,13 @@
 ---
+
 layout: post
 title:  "ಗೆಲ್ಲೋದ್ರಲ್ಲಿ ಏನಿದೆ ರೀ? ಇರೋದೆಲ್ಲ ಸೋಲೋದ್ರಲ್ಲೇ!!"
 date:   2016-08-18
-description: essay on victory, defect and creativity!
-thumbnail: solodrallide.jpg 
-categories: acchakannada
+author: Deepak basrur
+categories: Discussion
+tags:	Acchakannada Kannada Tatva Jeevana Win Lose
+cover:  "assets/solodrallide.jpg"
 
-# Information for the author block
-author: Deepak
 ---
 ಗೆಲುವೆಂದರೆ ಅಷ್ಟೇ.. ಅದೊಂದು ನಿಂತ ನೀರು. ಹೆಚ್ಚೆಂದರೆ ಗೆದ್ದೆವು ಎನ್ನುವ ನಿಟ್ಟುಸಿರು, ನಾಲ್ಕು ಜನಗಳ ಹೊಗಳಿಕೆ. ಮೂರ್ನಾಲ್ಕು ದಿನಗಳಾದ ಮೇಲೆ ನೀವು ಗೆದ್ದ ಮೂಡಿನಲ್ಲಿ ಯಾರಾದರು ಮುಂದೆ ಹೋದರೆ “ಓವರ್ ಆಗಿ ಬಿಲ್ಡ್ ಅಪ್ ಕೊಡಬೇಡ, ಅಮಿಕೊಂಡು ಸೈಡಿಗ್ ಹೋಗಪ್ಪ!” ಅಂತ ಮುಖಕ್ಕೆ ಉಗಿಯುತ್ತಾರೆ, ಅಂದರೆ ನೀವು ಸತ್ತವರಷ್ಟೇ ಅಪ್ರಸ್ತುತ. ಸಾಧಿಸಿದ್ದು ಆಯ್ತು ಅಂದ ಮೇಲೆ ಮುಂದೆ ಏನಿದೆ? ನಿಮ್ಮ ಕ್ರಿಯಾಶೀಲತೆ ಕೊನೆಗೊಂಡಂತೆ. ಆದರೆ ಸೋಲು ಎಂದರೆ ಹರಿಯುವ ನೀರಿದ್ದಂತೆ. ಸೋತಷ್ಟು ಮತ್ತಷ್ಟು ಅವಕಾಶ.
 ಮತ್ತೆ ಜೀವನದಲ್ಲಿ ಚಲನೆ.<!--more-->
