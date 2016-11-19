@@ -1,13 +1,13 @@
 ---
+
 layout: post
 title:  "ಹಳ್ಳಿಗಳು ಕರೆದಿವೆ"
 date:   2016-07-09
-description: Call from villages. A Poem!
-thumbnail: halligalu-karedive.jpg
-categories: acchakannada
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada village halli daari
+cover:  "assets/halligalu-karedive.jpg"
 
-# Information for the author block
-author: Adarsh
 ---
 <p align="center">ಕರೆದಿವೆ ಈಗ ಕಿರಿದಾದ ದಾರಿಗಳು ಮರಳಿ ಬಾ ಮನುಜ ಹಳ್ಳಿಗಳೆಡೆಗೆ,<br><!--more-->
 ನಿನ್ನ ಊರನ್ನು ಬಿಟ್ಟು ಓಡುವೆ ಏಕೆ ಹಣದ ಅಮಲು ಏರಿತೆ ತಲೆಗೆ?<br>
