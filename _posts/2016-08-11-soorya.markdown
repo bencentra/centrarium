@@ -1,13 +1,13 @@
 ---
+
 layout: post
 title:  "ಸೂರ್ಯ"
 date:   2016-08-11
-description: Soorya. A Poem!
-thumbnail: soorya.jpg 
-categories: acchakannada
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada Poem Kavana sun soorya life manassu
+cover:  "assets/soorya.jpg"
 
-# Information for the author block
-author: Adarsh
 ---
 <p align="center">ಮಳೆಯಲ್ಲಿ ನಾನು ನೆನಪುಗಳ ಜೊತೆಯಲ್ಲಿ ನೆನೆದಾಗ<br>
 ತಂಗಾಳಿ ಬೀಸಿದರು ನನ್ನ ಏಕಾಂತ ಬಿಡದಾಗ<br>
