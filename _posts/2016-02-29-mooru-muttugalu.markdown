@@ -3,7 +3,7 @@
 layout: post
 title:  "ಮೂರು ಮುತ್ತುಗಳು"
 date:   2016-02-29
-author: Deepak basrur
+author: Adarsha
 categories: Acchakannada
 tags:	Kannada Acchakannada Poem kavana life manassu
 cover:  "assets/mooru-muttugalu.jpg"
