@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "ತಿಳಿ ನೀಲಿ ಆಗಸ"
-date:   2016-03-21 08:11:03
-description: Tili neeli aagasa poem!
-thumbnail: neeli-agasa.jpg  
-categories: acchakannada
 
-# Information for the author block
-author: Adarsh
+layout: post
+title:  "neeli-agasa.jpg"
+date:   2016-03-21
+author: Adarsha
+categories: Poem
+tags:	Acchakannada alone Dream kaangi Kannada Poem Way
+cover:  "assets/neeli-agasa.jpg"
+
 ---
 <p align ="center">ಎಲ್ಲರೂ ಇದ್ದು ಒಂಟಿಯಾಗುವ ಚಂದಕೆ ಬಂಧಗಳನು ಬೆಳೆಸಬೇಕೆ<br>
 ನನ್ನೊಡನೇಯೆ ಬಾಳುವ ನನಗೆ ಈಗ ಒಂಟಿಯಾಗುವ ಬಯಕೆ,<br><!--more-->
