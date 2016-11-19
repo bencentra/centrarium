@@ -6,7 +6,7 @@ date:   2016-01-22
 author: Amruth Sagar
 categories: Discussion
 tags:	Acchakannada Kannada Tatva
-cover:  "/assets/solu-geluvu.jpg"
+cover:  "/assets/solu-geluvu.jpg "
 
 ---
 ![solu-geluvu.jpg](/assets/solu-geluvu.jpg "solu-geluvu")
