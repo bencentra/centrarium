@@ -1,13 +1,13 @@
 ---
+
 layout: post
 title:  "ಬಿಸಿಲು ಸುಡುವಾಗ"
 date:   2016-05-17
-description: Climate change, the warning!
-thumbnail: bisilu-suduvaaga.jpg
-categories: acchakannada
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada Poem Kavana Climate vatavarana
+cover:  "assets/bisilu-suduvaaga.jpg"
 
-# Information for the author block
-author: Adarsh
 ---
 <p align = "center">ಎಸಿ ಅಡಿಯಲ್ಲಿ ಕುಂತವನಿಗೇನು ಗೊತ್ತು ಬಿಸಿ ಶಾಖ<br>
 ಬಿಸಿ ಮುಟ್ಟದು ಮನುಜನಿಗೆ ಅಂಡು ಸುಡುವ ತನಕ,<br><!--more-->
