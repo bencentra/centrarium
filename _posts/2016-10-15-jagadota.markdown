@@ -5,7 +5,7 @@ title:  "ಜಗದೋಟ"
 date:   2016-10-15
 author: Adarsha
 categories: Poem
-tags:	Acchakannada Kannada kavana poem money world jagattu run
+tags:	Acchakannada Kannada kavana poem money world jagattu run wind water earth fire
 cover:  "assets/jagadota-hampe.jpg"
 
 ---
