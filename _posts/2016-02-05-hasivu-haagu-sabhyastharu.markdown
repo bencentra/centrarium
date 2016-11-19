@@ -3,7 +3,7 @@
 layout: post
 title: "ಹಸಿವು ಹಾಗು ಸಭ್ಯಸ್ಥರು"
 date:   2016-02-05
-author: Adarsh
+author: Adarsha
 categories: Discussion
 tags:	Acchakannada decency sabhyastharu hunger hasivu Kannada
 cover:  "assets/hasivu-haagu-sabhyastharu.jpg"
