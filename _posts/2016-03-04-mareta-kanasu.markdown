@@ -3,7 +3,7 @@
 layout: post
 title: "ಮರೆತ ಕನಸು"
 date:   2016-03-04
-author: Adarsh
+author: Adarsha
 categories: Poem
 tags:	Acchakannada Kannada Kavana Poem kanasu way daari
 cover:  "assets/mareta-kanasu.jpg"
