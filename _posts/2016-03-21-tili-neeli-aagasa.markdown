@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "neeli-agasa.jpg"
+title:  "ತಿಳಿ ನೀಲಿ ಆಗಸ"
 date:   2016-03-21
 author: Adarsha
 categories: Poem
