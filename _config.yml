@@ -18,6 +18,7 @@ description: >
 baseurl: "/savehaklu/" # the subpath of your site, e.g. /blog/
 url: "http://adarshkannada.github.io/savehaklu" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
+cover: "/assets/aarambha.jpg"
 logo: "assets/logo.png"
 
 # Build settings
