@@ -3,12 +3,11 @@
 layout: post
 title:  "ಮಂದಹಾಸ"
 date:   2016-11-09
-description: Mandahaasa and alankrutha. Poems!
-thumbnail: mandahaasa.jpg
-categories: acchakannada
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada Kavana Manassu smile love preeti 
+cover:  "assets/mandahaasa.jpg"
 
-# Information for the author block
-author: Adarsh
 ---
 <p align="center"> <strong>ಅಲಂಕೃತ </strong></p><br>
 <p align="center">ಬಳಿ ಬಂದು ಎದೆ ತಾಕಿ ನಿಲ್ಲು ಇಲ್ಲದಂತೆ ಯಾವುದೇ ಅಂತರ<br>
