@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "ಮರೆತ ಕನಸು"
-date:   2016-03-04 08:00:03
-description: Mareta Kanasu poem!
-thumbnail: mareta-kanasu.jpg 
-categories: acchakannada
 
-# Information for the author block
-author: adarsh
+layout: post
+title: "ಮರೆತ ಕನಸು"
+date:   2016-03-04
+author: Adarsh
+categories: Poem
+tags:	Acchakannada Kannada Kavana Poem kanasu way daari
+cover:  "assets/mareta-kanasu.jpg"
+
 ---
 <p align ="center">
 ಯಾರ ದಾರಿಯ ಹೆಜ್ಜೆ ಗುರುತಿದು ನಾನು ನೋಡುತ ಸಾಗಿರುವೆ<br>
