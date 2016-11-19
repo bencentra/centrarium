@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title:  "ಜೋಪಡಿ – ೧"
-date:   2016-06-24
+title:  "ಪ್ರೀತಿ ಗೀತಿ ಇತ್ಯಾದಿ"
+date:   2016-11-19
 author: Deepak basrur
 categories: Story
 tags:	Acchakannada Kannada story Jeevana Boys Girls
