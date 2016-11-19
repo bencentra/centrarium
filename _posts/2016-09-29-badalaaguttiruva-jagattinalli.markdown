@@ -3,12 +3,10 @@
 layout: post
 title:  "ಬದಲಾಗುತ್ತಿರುವ ಜಗತ್ತಿನಲ್ಲಿ"
 date:   2016-09-29
-description: Changing Life. A rememberance!
-thumbnail: badalaguttiruva-jagattu.jpg 
-categories: acchakannada
-
-# Information for the author block
 author: CSM
+categories: Discussion
+tags:	Acchakannada Kannada Jeevana Manassu
+cover:  "assets/badalaguttiruva-jagattu.jpg"
 
 ---
 <p align="center">ಕೆಲವು ವರ್ಷಗಳ ಹಿಂದೆ  ಹೀಗಿರಲಿಲ್ಲ..</p>
