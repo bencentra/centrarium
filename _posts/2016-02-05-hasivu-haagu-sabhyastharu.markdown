@@ -1,14 +1,12 @@
 ---
 
 layout: post
-title:  "ಹಸಿವು ಹಾಗು ಸಭ್ಯಸ್ಥರು"
-date:   2016-02-05 09:11:03
-description: The nature of people, view through hunger and decency!
-thumbnail: hasivu-haagu-sabhyastharu.jpg 
-categories: acchakannada
-
-# Information for the author block
-author: adarsh
+title: "ಹಸಿವು ಹಾಗು ಸಭ್ಯಸ್ಥರು"
+date:   2016-02-05
+author: Adarsh
+categories: Discussion
+tags:	Acchakannada decency sabhyastharu hunger hasivu Kannada
+cover:  "assets/hasivu-haagu-sabhyastharu.jpg"
 
 ---
 
@@ -20,6 +18,6 @@ author: adarsh
 
 ಆದರೆ ಈಗ ಇದ್ದ ನೂಕಾಟದಲ್ಲಿ ಒಡನಾಟವಿರಲಿಲ್ಲ, ಹಸಿದ ಹೊಟ್ಟೆಗೆ ಅನ್ನ ಹಾಕಿಕೊಳ್ಳುವ ಭಾವ ಮಾತ್ರ ಇತ್ತು! ಅಂತೂ ಎಲ್ಲರು ಸೇರಿ ಎಲ್ಲರಿಗಾಗಿ ಇಟ್ಟಿದ್ದ ಅಡುಗೆಗಳ ಮುಗಿಸಿ ತಮ್ಮ ಜೈತಯಾತ್ರೆ ನಡೆಸ ಹೊರಟರು! ಆ ಊಟ ತೆಗೆದುಕೊಳ್ಳುವ ಕ್ಷಣದಲ್ಲಿ ನಿಯಮಗಳ ಪಾಲಿಸೊ ಅತೀ ಬುದ್ಧಿವಂತರು ತಮ್ಮೆಲ್ಲ ಹಿಡಿತಗಳ ತೊರೆದು ತಮ್ಮ ಅಂತರಾಳದಲ್ಲಿದ್ದ ಮೃಗರೂಪ ತಳೆದು ಉಂಡಿದ್ದರು! ಶಾಂತವಾಗಿ ಆರಂಭವಾಗಿದ್ದ ಸಮಾರಂಭವು ಚೆಲ್ಲಾಪಿಲ್ಲಿಯಾಗಿ ಮುಗಿದಿತ್ತು.
 
-ಮತ್ತೆ ಈಗ ಆ ಕಂಪನಿಯ ಜನರು ಎಂದಿನಂತೆ ಅತೀ ಶಾಂತ ರೀತಿಯಿಂದ ವರ್ತಿಸುತ್ತ, ಪ್ರತಿ ನಿಯಮವ ಪಾಲಿಸುತ್ತ, ಸಭ್ಯತೆಯಿಂದ ತಮ್ಮ ತಮ್ಮ ಕೆಲಸಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ!
+<p align="center">ಮತ್ತೆ ಈಗ ಆ ಕಂಪನಿಯ ಜನರು ಎಂದಿನಂತೆ ಅತೀ ಶಾಂತ ರೀತಿಯಿಂದ ವರ್ತಿಸುತ್ತ, ಪ್ರತಿ ನಿಯಮವ ಪಾಲಿಸುತ್ತ, ಸಭ್ಯತೆಯಿಂದ ತಮ್ಮ ತಮ್ಮ ಕೆಲಸಗಳಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ!</p>
 
-– ಆದರ್ಶ
+<p align="center">– ಆದರ್ಶ</p>
