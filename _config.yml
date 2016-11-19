@@ -17,7 +17,7 @@ description: >
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/savehaklu/" # the subpath of your site, e.g. /blog/
 url: "http://adarshkannada.github.io/savehaklu" # the base hostname & protocol for your site
-cover: "assets/header_image.jpg"
+cover: "assets/acchakannada.jpg"
 logo: "assets/logo.png"
 
 # Build settings
