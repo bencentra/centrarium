@@ -1,29 +1,29 @@
 ---
-layout: post
-title:  "ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು"
-date:   2016-01-28 09:11:03
-description: Last Bench boys poem!
-thumbnail:  kade-saalinda-hudugaru.jpg 
-categories: acchakannada
 
-# Information for the author block
-author: adarsh
+layout: post
+title: "ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು"
+date:   2016-01-28
+author: Adarsh
+categories: Poem
+tags:	Acchakannada lastbenchboys kavana college Kannada
+cover:  "assets/kade-saalinda-hudugaru.jpg"
+
 ---
 
-ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು<br>
+<p align="center">ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು<br>
 ಯಾವ್ದಕ್ಕು ನಡುಗರು<br>
 ಊರ್ ಮೇಲೆ ಊರ್ ಬಿದ್ರು ತಲೆ ಕೆಡಿಸಿಕೊಳ್ಳರು;<br>
 <!--more-->
 <br>ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು<br>
 ಪಾಠಾನೇ ಕೇಳರು<br>
-ಆದ್ರೂನು ಎಕ್ಸಾಮಲ್ ಹಾಳೆ ತುಂಬ ಬರೆವರು;
+ಆದ್ರೂನು ಎಕ್ಸಾಮಲ್ ಹಾಳೆ ತುಂಬ ಬರೆವರು;<br><br>
 
 ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು<br>
 ತುಂಬಾನೆ ಮುಗ್ಧರು<br>
-ಆದ್ರೂನು ಮಾತಲ್ಲಿ ಸಂಸ್ಕೃತಾನೇ ಬಳಸುವರು;
+ಆದ್ರೂನು ಮಾತಲ್ಲಿ ಸಂಸ್ಕೃತಾನೇ ಬಳಸುವರು;<br><br>
     
 ಕಡೆ ಸಾಲಿನ ಹುಡುಗರು<br>
 ಕೊನೆಯಲ್ಲೇ ಕೂತರೂ<br>
-ಬಾಳಲ್ಲಿ ಮುಂದೊಮ್ಮೆ ಉದ್ಧಾರ ಆಗುವರು!
+ಬಾಳಲ್ಲಿ ಮುಂದೊಮ್ಮೆ ಉದ್ಧಾರ ಆಗುವರು!<br><br></p>
     
--ಆದರ್ಶ
+<p align="center">- ಆದರ್ಶ</p>
