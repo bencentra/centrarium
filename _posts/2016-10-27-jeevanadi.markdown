@@ -3,12 +3,10 @@
 layout: post
 title:  "ಜೀವನದಿ"
 date:   2016-10-27
-description: Jeevanadi. An essay on rivers of karnataka and their prominance in relation with kannada movies!
-thumbnail:  jeevandi-title.jpg
-categories: acchakannada
-
-# Information for the author block
-author: Adarsh
+author: Adarsha
+categories: Discussion
+tags:	Acchakannada Kannada story
+cover:  "assets/ 	jeevandi-title.jpg"
 
 ---
 
