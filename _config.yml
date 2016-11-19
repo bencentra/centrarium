@@ -38,7 +38,7 @@ paginate_path: "/page:num/"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: acchakannada
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
