@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "ಮೂರು ಮುತ್ತುಗಳು"
-date:   2016-02-29 09:11:03
-description: Three small poems!
-thumbnail: mooru-muttugalu.jpg 
-categories: acchakannada
 
-# Information for the author block
-author: Adarsh
+layout: post
+title:  "mooru-muttugalu.jpg"
+date:   2016-02-29
+author: Deepak basrur
+categories: Acchakannada
+tags:	Kannada Acchakannada Poem kavana life manassu
+cover:  "assets/mooru-muttugalu.jpg"
+
 ---
 <p align="center">೧.</p>
 <p align="center">ಗುರಿ ಸೇರುವ ತವಕದಲಿ ಗೋರಿ ಕಟ್ಟಿಕೊಂಡಿರುವವರು ನಾವು,<br>
