@@ -3,12 +3,10 @@
 layout: post
 title:  "ಮನಸ್ಸೇ ನೀ ನನ್ನ ಹಿತಶತ್ರು"
 date:   2016-09-09
-description: Mind is the enemy!
-thumbnail: manasse.jpg 
-categories: acchakannada
-
-# Information for the author block
-author: Adarsh
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada Poem Kavana manassu Friend Enemy
+cover:  "assets/manasse.jpg"
 
 ---
 <p align="center">ನನ್ನೊಳಗೇ ಅವಿತಿಹ ನನ್ನನ್ನೇ ಹಿಡಿದಿಹ ನನ್ನ ಮನಸ್ಸೇ ನೀ ನನ್ನ ಹಿತಶತ್ರು <br>
