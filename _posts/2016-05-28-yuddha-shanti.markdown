@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "bayyiri.jpg"
+title:  "ಯುದ್ಧ ಶಾಂತಿ!"
 date:   2016-05-28
 author: Adarsha
 categories: Poem
