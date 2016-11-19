@@ -3,12 +3,10 @@
 layout: post
 title:  "ನಗು ಮುಖ"
 date:   2016-10-07
-description: nagu-mukha. A Poem!
-thumbnail: nagu-mukha.jpg 
-categories: acchakannada
-
-# Information for the author block
-author: Adarsh
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada Kavana smile Jeevana
+cover:  "assets/nagu-mukha.jpg"
 
 ---
 
