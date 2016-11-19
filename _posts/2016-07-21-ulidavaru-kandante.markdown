@@ -2,11 +2,11 @@
 
 layout: post
 title:  "ಉಳಿದವರು ಕಂಡಂತೆ"
-date:   2016-0-21
+date:  2016-07-21
 author: Deepak basrur
 categories: Poem
 tags:	Acchakannada Kannada kavana poem Ulidavaru Kandante Jeevana
-cover:  "assets/uk.jpg"
+cover: "assets/uk.jpg"
 
 ---
 
