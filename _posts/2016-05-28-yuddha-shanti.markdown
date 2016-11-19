@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "ಯುದ್ಧ ಶಾಂತಿ"
-date:   2016-05-28
-description: War and Peace. A Poem!
-thumbnail:  yuddha-shanti.jpeg
-categories: acchakannada
 
-# Information for the author block
-author: Adarsh
+layout: post
+title:  "bayyiri.jpg"
+date:   2016-05-28
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada War Peace yuddha shanthi Love
+cover:  "assets/yuddha-shanti.jpeg"
+
 ---
 <p align="center">ನೂರಾರು ಮನೆಗಳು, ನೂರಾರು ಮನಗಳು<br>
 ಒಂದೊಂದು ಮನೆಯಲ್ಲೂ ಒಂದೊಂದು ರೀತಿಗಳು<br><!--more-->
