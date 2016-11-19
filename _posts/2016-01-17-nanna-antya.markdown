@@ -6,7 +6,7 @@ date:   2016-01-17
 author: Adarsh
 categories: Poem
 tags:	Acchakannada Kannada Kavana Poem end
-cover:  "assets/instacode.png"
+cover:  "/assets/nanna-antya.jpg "
 
 ---
 <p align="center">ಅನುದಿನದ ಹುಡುಕಾಟಕ್ಕೆ ಕೊನೆ ನನ್ನ ಅಂತ್ಯ   <br>
