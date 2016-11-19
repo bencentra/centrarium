@@ -2,6 +2,8 @@
 gems:
   # - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
+  
+gems: [jekyll-paginate]
 
 exclude:
   - "/vendor/"
