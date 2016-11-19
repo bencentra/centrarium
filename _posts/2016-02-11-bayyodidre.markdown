@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "bayyiri.jpg"
+title:  "ಬಯ್ಯೋದಿದ್ರೆ ಅಚ್ಚಕನ್ನಡದಲ್ಲೇ ಬಯ್ದುಬಿಡ್ರಿ…!"
 date:   2016-02-11
 author: Deepak basrur
 categories: Story
