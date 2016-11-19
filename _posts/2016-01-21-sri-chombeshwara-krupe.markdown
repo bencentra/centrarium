@@ -6,7 +6,7 @@ date:   2016-01-21
 author: Deepak Basrur
 categories: Story
 tags:	Acchakannada Kannada story
-cover:  "assets/instacode.png"
+cover:  "assets/sri-chombeshwara-krupe.jpg"
 
 ---
 
