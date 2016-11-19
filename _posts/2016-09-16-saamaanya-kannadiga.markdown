@@ -1,13 +1,13 @@
 ---
+
 layout: post
 title:  "ಸಾಮಾನ್ಯ ಕನ್ನಡಿಗ"
 date:   2016-09-16
-description: saamaanya kannadiga. A Poem!
-thumbnail: samanya-kannadiga.jpeg
-categories: acchakannada
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada Kavana poem jeevana
+cover:  "assets/samanya-kannadiga.jpeg"
 
-# Information for the author block
-author: Adarsh
 ---
 <p align="center">ಮಲಗಿದ್ದ ಜನರ ಬಡಿದೇಳಿಸುವನು ಸಾಮಾನ್ಯ ಕನ್ನಡಿಗನು<br>
 ಛಲವಾದಿ, ಹಠವಾದಿ ಹೊಸ ಲೋಕದ ಪ್ರವಾದಿ ಸಾಮಾನ್ಯ ಕನ್ನಡಿಗನು!<br><br><!--more-->
