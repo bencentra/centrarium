@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "ಅಲ್ಪತೃಪ್ತಿ ಮತ್ತು ಸಾಧನೆ"
-date:   2016-08-04
-description: alpatrutpi mattu saadhane. A Poem!
-thumbnail: alpatrupti.jpeg 
-categories: acchakannada
 
-# Information for the author block
-author: Adarsh
+layout: post
+title: "ಅಲ್ಪತೃಪ್ತಿ ಮತ್ತು ಸಾಧನೆ"
+date: 2016-08-01
+author: Adarsha
+categories: Discussion
+tags:	Acchakannada Kannada Tatva Philosophy
+cover: "assets/alpatrupti.jpeg"
+
 ---
 ತುಂಬಾ ದೊಡ್ಡ ಸಾಧನೆ ಮಾಡಬೇಕಾ ಅಥವಾ ಏನೂ ಮಾಡದೇ ಆರಾಮಾಗಿ ಇರಬೇಕಾ?<!--more-->
 
