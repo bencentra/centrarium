@@ -1,17 +1,7 @@
 ---
 layout: page
-title: About
+title: ಅಚ್ಚಕನ್ನಡದ ಹೃದಯದಲ್ಲಿ
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
-
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
-
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+<p align="justify"> ಸಾವಿರಾರು ವರುಷಗಳ ಕರ್ನಾಟಕದ ಇತಿಹಾಸದಲಿ ಕನ್ನಡಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿ ಕನ್ನಡದ ಹೆಸರು ಬೆಳೆಸಿ, ಕನ್ನಡದ ತೂಕ ಹೆಚ್ಚಿಸಿದವರು ಅನೇಕರು. ಅವರಂತೆ ಕರ್ನಾಟಕಕ್ಕಾಗಿ, ಕನ್ನಡಕ್ಕಾಗಿ ನಮ್ಮ ಗೆಳೆಯರ ಬಳಗದಿಂದ ಸಣ್ಣ ಸಾಹಿತ್ಯ ಚಳುವಳಿ ನಡೆಸುವ ಉದ್ದೇಶದಿಂದ ಈ ಬ್ಲಾಗ್ ಅನ್ನು ಆರಂಭಿಸಿದ್ದೇವೆ. ಇಲ್ಲಿ ಬರೆಯೋದೆಲ್ಲ ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳು. ಇದರ ಮೂಲಕ ನಮ್ಮ ಕೈಲಾದಷ್ಟು ಕನ್ನಡ ಕಟ್ಟುವ, ಕನ್ನಡ ಬೆಳೆಸುವ ಕೆಲಸ ನಡೆಸುವುದು ನಮ್ಮ ಗುರಿಯಾಗಿದೆ.</p>
