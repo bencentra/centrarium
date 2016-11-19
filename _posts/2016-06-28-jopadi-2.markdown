@@ -1,13 +1,13 @@
 ---
+
 layout: post
 title:  "ಜೋಪಡಿ – ೨"
 date:   2016-06-28
-description: Story of the people part two!
-thumbnail: jopadi.jpg 
-categories: acchakannada
+author: Deepak basrur
+categories: Story
+tags:	Acchakannada Kannada story
+cover:  "assets/jopadi.jpg"
 
-# Information for the author block
-author: Deepak
 ---
 
 (ಜೋಪಡಿ-೧ ರಿಂದ ಮುಂದುವರೆದದ್ದು)
