@@ -3,7 +3,7 @@
 layout: post
 title:  "ಆರಂಭ"
 date:   2016-01-04
-author: Adarsh
+author: Adarsha
 categories: Acchakannada
 tags:	Acchakannada beginning
 cover:  "/assets/aarambha.jpg"
