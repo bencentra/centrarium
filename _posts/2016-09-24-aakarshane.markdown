@@ -3,12 +3,10 @@
 layout: post
 title:  "ಆಕರ್ಷಣೆ"
 date:   2016-09-24
-description: Aakarshane. A Poem!
-thumbnail: aakarshane.jpg
-categories: acchakannada
-
-# Information for the author block
-author: Adarsh
+author: Adarsha
+categories: Poem
+tags:	Acchakannada Kannada Kavana divine seleta
+cover:  "assets/aakarshane.jpg"
 
 ---
 <p align="center">ಇರುಳನು ತಳ್ಳಲು ಬೆಳಕಿದು ಸೋತಿದೆ<br>
