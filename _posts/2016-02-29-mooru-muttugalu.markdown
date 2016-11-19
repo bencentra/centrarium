@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "mooru-muttugalu.jpg"
+title:  "ಮೂರು ಮುತ್ತುಗಳು"
 date:   2016-02-29
 author: Deepak basrur
 categories: Acchakannada
