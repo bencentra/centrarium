@@ -3,7 +3,7 @@
 layout: post
 title:  "ನನ್ನ ಅಂತ್ಯ"
 date:   2016-01-17
-author: Adarsh
+author: Adarsha
 categories: Poem
 tags:	Acchakannada Kannada Kavana Poem end
 cover:  "/assets/nanna-antya.jpg "
