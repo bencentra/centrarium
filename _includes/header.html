@@ -1,8 +1,8 @@
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
-    <a href="{{ site.baseurl }}" class="logo">
+    <a href="{{ site.url }}" class="logo">
     	{% if site.logo %}
-      <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
+      <img src="{{ site.logo | prepend: site.url }}" alt="{{ site.title }}">
       {% else %}
       <span>{{ site.title }}</span>
       {% endif %}
@@ -14,7 +14,7 @@
       <ul id="js-navigation-menu" class="navigation-menu show">
       	{% for page in site.pages %}
           {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | remove_first: '/' | prepend: site.baseurl }}">{{ page.title }}</a>
+          <li class="nav-link"><a href="{{ page.url | remove_first: '/' | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </ul>
