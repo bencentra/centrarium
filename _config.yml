@@ -18,7 +18,7 @@ name: Adarsh Kannada
 description: > 
   ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳು.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://adarshkannada.github.io/savehaklu" # the base hostname & protocol for your site
+url: "http://acchakannada.com" # the base hostname & protocol for your site
 cover: "assets/acchakannada.jpg"
 logo: "assets/logo.png"
 
