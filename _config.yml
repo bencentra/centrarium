@@ -19,8 +19,8 @@ description: >
   ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳು.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://acchakannada.com" # the base hostname & protocol for your site
-cover: "assets/acchakannada.jpg"
-logo: "assets/logo.png"
+cover: "/assets/acchakannada.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
