@@ -6,7 +6,7 @@ date:   2016-11-29
 author: Adarsha
 categories: Acchakannada
 tags:	AcchaKannada Kannada kathe Love Manassu story Ulidavaru Kandante village 
-cover:  "assets/aarambha.jpg"
+cover:  "assets/bus-payana.jpg"
 
 ---
 
