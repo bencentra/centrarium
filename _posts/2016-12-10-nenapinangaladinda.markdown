@@ -6,7 +6,7 @@ date:   2016-12-10
 author: Archana Bavimane
 categories: Acchakannada
 tags:	AcchaKannada anubhava Articles childhood Discussion Experience Jeevana Kannada Kannadiga Life Manassu story
-cover:  "assets/aarambha.jpg"
+cover:  "assets/nenapinangala.jpg"
 
 ---
 
