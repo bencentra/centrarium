@@ -1,12 +1,12 @@
 ---
 
 layout: post
-title:  "ನಾವು ನಾವೇನೆ"
-date:   2016-12-14
-author: Deepak Basrur
-categories: Mahabharatha
-tags:	AcchaKannada Articles Jeevana Kannada Life Manassu story Tatva Truth Ulidavaru Kandante Way
-cover:  "assets/naavu-naavene.jpeg"
+title:  "ಪ್ರವರ"
+date:   2016-12-24
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada history itihaasa Kannada Kavana lineage Love peace Poem pravara war
+cover:  "assets/pravara-acchakannada-poem.jpg"
 
 ---
 
