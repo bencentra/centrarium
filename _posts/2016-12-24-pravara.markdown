@@ -1,3 +1,14 @@
+---
+
+layout: post
+title:  "ನಾವು ನಾವೇನೆ"
+date:   2016-12-14
+author: Deepak Basrur
+categories: Mahabharatha
+tags:	AcchaKannada Articles Jeevana Kannada Life Manassu story Tatva Truth Ulidavaru Kandante Way
+cover:  "assets/naavu-naavene.jpeg"
+
+---
 
 <p align="center">ಅಂತ್ಯದಲ್ಲಿ ನಡುಗುವುದು ಯುಗಗಳಿಂದ ನಿಂತಿದ್ದ ಗೋಪುರ,</p>
 <p align="center">ಅದರಡಿಯಲ್ಲಿ ಕಳೆದು ಹೋಗುವುದು ನಮ್ಮಯ ಪ್ರವರ;</p>
