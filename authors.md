@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authors
+title: ಬರೆದವರು
 permalink: /article-authors/
 ---
 
