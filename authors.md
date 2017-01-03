@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Authors
-permalink: /authors/
+permalink: /article-authors/
 ---
 
 # A list of authors here
