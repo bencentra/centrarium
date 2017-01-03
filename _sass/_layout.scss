@@ -88,7 +88,7 @@ pre code.hljs {
 		padding: 3em 1em;
 		&.has-cover {
 			background-color: rgba(0,0,0,0.2);
-			padding: 6em 1em !important;
+			padding: 3em 1em !important;
 			@include media($tablet) {
 				padding: 12em 1em !important;
 			}
