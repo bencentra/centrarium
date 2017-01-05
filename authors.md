@@ -12,5 +12,5 @@ I am from Shivamogga, Karnataka. Very much interested in Kannada literature, Pho
 ## ಅಮೃತ್ ಸಾಗರ್
 An author is narrowly defined as the originator of any written work and can thus also be described as a writer (with any distinction primarily being an implication that an author is a writer of one or more major works, such as books or plays). <span class="read-more-target"> More broadly defined, an author is "the person who originated or gave existence to anything" and whose authorship determines responsibility for what was created.
 
-## ದೀಪಕ್ ಬಸ್ರುರು
+## ದೀಪಕ್ ಬಸ್ರೂರು
 An author is narrowly defined as the originator of any written work and can thus also be described as a writer (with any distinction primarily being an implication that an author is a writer of one or more major works, such as books or plays). <span class="read-more-target"> More broadly defined, an author is "the person who originated or gave existence to anything" and whose authorship determines responsibility for what was created
