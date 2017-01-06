@@ -23,8 +23,4 @@ cover:  "assets/nanna-antya.jpg "
 <p align="center">- ಆದರ್ಶ</p>
 
 
-<video width="320" height="240" poster="https://nallikayi.com/assets/anthya-adarshk.png" controls>
-    <source src="https://nallikayi.com/audio/antya-adarshk.mp3" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-Visit: <a href="https://nallikayi.com">Nallikayi</a>
+<p align="center"> <a href="https://nallikayi.com/episode-20-anthya/">ಈ ಕವನವನ್ನು ಧ್ವನಿ ರೂಪವನ್ನು ಇಲ್ಲಿ ಕೇಳಬಹುದು</a></p>
