@@ -21,3 +21,10 @@ cover:  "assets/nanna-antya.jpg "
 ನನ್ನೆಲ್ಲ ಹುಡುಕಾಟವೇ ನೀ ನನ್ನ ಅಂತ್ಯ, ನನ್ನ ಅಂತ್ಯ!</p><br>
     
 <p align="center">- ಆದರ್ಶ</p>
+
+
+<video width="320" height="240" poster="https://nallikayi.com/assets/anthya-adarshk.png" controls>
+    <source src="https://nallikayi.com/audio/antya-adarshk.mp3" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+Visit: <a href="https://nallikayi.com">Nallikayi</a>
