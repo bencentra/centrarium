@@ -16,7 +16,7 @@ subtitle: "ಕನ್ನಡದ ನಿತ್ಯ ಉತ್ಸವ"
 email: adarshkannada@gmail.com
 name: Adarsh Kannada
 description: > 
-  ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳು.
+  ಇದು ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳ ಕನ್ನಡಿ.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://acchakannada.com" # the base hostname & protocol for your site
 cover: "/assets/acchakannada.jpg"
@@ -80,9 +80,9 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: adarsh.kannada
-    url: https://www.facebook.com/adarsh.kannada
-    desc: Friend me on Facebook
+    username: AcchaKannada
+    url: https://www.facebook.com/AcchaKannada
+    desc: The Official Page of AcchaKannada Blog.
     share: true
 
   #- name: GitHub
@@ -103,7 +103,7 @@ social:
     icon: google-plus
     username: 
     url: 
-    desc: Add me to your Circles
+    desc: Add acchakannada to your Circles
     share: true
 
   - name: YouTube
@@ -125,7 +125,7 @@ social:
     username: 
     url: 
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
