@@ -71,12 +71,12 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  #- name: Twitter
-    #icon: twitter
-    #username: TheBenCentra
-    #url: https://twitter.com/TheBenCentra
-    #desc: Follow me on Twitter
-    #share: true
+  - name: Twitter
+    icon: twitter
+    username:
+    url: 
+    desc: Share on Twitter
+    share: true
 
   - name: Facebook
     icon: facebook
@@ -103,7 +103,7 @@ social:
     icon: google-plus
     username: 
     url: 
-    desc: Add acchakannada to your Circles
+    desc: Share on Google Plus
     share: true
 
   - name: YouTube
