@@ -10,7 +10,7 @@
       <ul class="pages">
         {% for page in site.pages %}
         {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | remove_first: '/' | prepend: site.baseurl }}">{{ page.title }}</a>
+          <li class="nav-link"><a href="{{site.baseurl}}/{{ page.url }}">{{ page.title }}</a>
         {% endif %}
         {% endfor %}
       </ul>
