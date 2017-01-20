@@ -7,6 +7,7 @@ author: Adarsha
 categories: Poem
 tags:	Acchakannada Poem friendship sneha geltana
 cover:  "assets/ondu-hejje.jpg"
+description: ondu hejje! a poem on friendship.
 
 ---
 
