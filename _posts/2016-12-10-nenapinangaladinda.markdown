@@ -4,7 +4,7 @@ layout: post
 title:  "ನೆನಪಿನಂಗಳದಿಂದ"
 date:   2016-12-10
 author: Archana Bavimane
-categories: Acchakannada
+categories: Experience
 tags:	AcchaKannada anubhava Articles childhood Discussion Experience Jeevana Kannada Kannadiga Life Manassu story
 cover:  "assets/nenapinangala.jpg"
 
