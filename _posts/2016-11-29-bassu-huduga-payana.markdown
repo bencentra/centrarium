@@ -4,7 +4,7 @@ layout: post
 title:  "ಬಸ್ಸು, ಹುಡುಗ, ಒಂದು ಪಯಣ!"
 date:   2016-11-29
 author: Adarsha
-categories: Acchakannada
+categories: Experience
 tags:	AcchaKannada Kannada kathe Love Manassu story Ulidavaru Kandante village 
 cover:  "assets/bus-payana.jpg"
 
