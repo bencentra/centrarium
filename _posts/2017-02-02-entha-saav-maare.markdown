@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "ಎಂಥ ಸಾವ್ ಮಾರ್ರೆ"
+title: "ಎಂತ ಸಾವ್ ಮರ್ರೆ"
 date: 2017-02-02
 author: Deepak Basrur
 categories: Story
