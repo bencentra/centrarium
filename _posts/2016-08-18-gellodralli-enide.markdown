@@ -20,4 +20,4 @@ cover:  "assets/solodrallide.jpg"
 
 <br><p align ="center">ಏನೇ ಆಗಲಿ ಗೆಲ್ಲೋಣ, ನಿಧಾನಕ್ಕೆ ಗೆಲ್ಲೋಣ, ಮತ್ತೆ ಸೋಲದಿದ್ದ ಹಾಗೆ ಗೆಲ್ಲೋಣ.</p>
 
-<p align="center">– ದೀಪಕ್  ಬಸ್ರೂರು</p>
+<p align ="center">– ದೀಪಕ್  ಬಸ್ರೂರು</p>
