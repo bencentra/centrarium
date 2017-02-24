@@ -3,7 +3,7 @@
 layout: post
 title:  "ಪ್ರೀತಿ ಗೀತಿ ಇತ್ಯಾದಿ"
 date:   2016-11-19
-author: Deepak basrur
+author: Deepak Basrur
 categories: Story
 tags:	Acchakannada Kannada story Jeevana Boys Girls
 cover:  "assets/preeti-geeti.jpg"

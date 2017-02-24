@@ -3,7 +3,7 @@
 layout: post
 title:  "ಬಯ್ಯೋದಿದ್ರೆ ಅಚ್ಚಕನ್ನಡದಲ್ಲೇ ಬಯ್ದುಬಿಡ್ರಿ…!"
 date:   2016-02-11
-author: Deepak basrur
+author: Deepak Basrur
 categories: Story
 tags:	Acchakannada story articles hucchu love prestige
 cover:  "assets/bayyiri.jpg"

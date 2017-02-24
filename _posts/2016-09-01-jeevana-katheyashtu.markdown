@@ -3,7 +3,7 @@
 layout: post
 title:  "ಜೀವನ ಕಥೆಯಷ್ಟು ಈಜಿಯಾಗಿರಬಾರದಿತ್ತ, ಸ್ಪೀಡಾಗಿರಬಾರದಿತ್ತ!"
 date:   2016-09-01
-author: Deepak basrur
+author: Deepak Basrur
 categories: Story
 tags:	Acchakannada Kannada story Tatva Jeevana
 cover:  "assets/jeevana-katheyashtu.jpg"

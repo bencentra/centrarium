@@ -3,7 +3,7 @@
 layout: post
 title:  "ಗೆಲ್ಲೋದ್ರಲ್ಲಿ ಏನಿದೆ ರೀ? ಇರೋದೆಲ್ಲ ಸೋಲೋದ್ರಲ್ಲೇ!!"
 date:   2016-08-18
-author: Deepak basrur
+author: Deepak Basrur
 categories: Discussion
 tags:	Acchakannada Kannada Tatva Jeevana Win Lose
 cover:  "assets/solodrallide.jpg"

@@ -3,7 +3,7 @@
 layout: post
 title:  "ಜೋಪಡಿ – ೨"
 date:   2016-06-28
-author: Deepak basrur
+author: Deepak Basrur
 categories: Story
 tags:	Acchakannada Kannada story
 cover:  "assets/jopadi.jpg"

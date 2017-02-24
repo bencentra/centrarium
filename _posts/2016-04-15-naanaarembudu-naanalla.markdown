@@ -3,7 +3,7 @@
 layout: post
 title:  "ನಾನಾರೆಂಬುದು ನಾನಲ್ಲ"
 date:   2016-04-15
-author: Deepak basrur
+author: Deepak Basrur
 categories: Discussion
 tags:	Acchakannada Kannada Story anger
 cover:  "assets/naanarembudu.jpeg"
