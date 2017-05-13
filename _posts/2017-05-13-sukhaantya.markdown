@@ -6,7 +6,7 @@ date: 2017-05-13
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem Happy ending Life Truth
-cover: "assets/sukhaantya-acchakannada.jpg"
+cover: "assets/sukhaantya-acchakannada.jpeg"
 description: ಜೀವನಕ್ಕೆ ಇರುವುದು ಒಂದೇ ಸುಖಾಂತ್ಯ!
 
 ---
