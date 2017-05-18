@@ -5,7 +5,7 @@ date: 2017-05-18
 author: Deepak basrur
 categories: Experience
 tags: AcchaKannada Kannada Life Truth College Friends Exam Viva Fun
-cover: "assets/viva-acchakannada.jpg"
+cover: "assets/viva-acchakannada.JPG"
 description: ನನ್ನ ಕಾಲೇಜಿನ ದಿನಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಲ್ಯಾಬ್ ವೈವಾ ದಲ್ಲಿ ಕೂತಿದ್ದು ದೀಕ್ಷಿತಾ ನಾಯ್ಡು ಜೊತೆ.
 ---
 
