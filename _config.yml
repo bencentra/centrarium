@@ -16,7 +16,7 @@ subtitle: "ಕನ್ನಡದ ನಿತ್ಯ ಉತ್ಸವ"
 email: adarshkannada@gmail.com
 name: Adarsh Kannada
 description: > 
-  ಇದು ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳ ಕನ್ನಡಿ.
+  A Kannada Blog. ಇದು ನಮ್ಮ ಜೀವನಕ್ಕೆ ಸಿಕ್ಕ ಅನುಭವ, ಒಡನಾಡಿಗಳು, ಸುತ್ತಲ ಪರಿಸರ ಕೊಟ್ಟ ವಿಷಯಗಳ ಕನ್ನಡಿ.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://acchakannada.com" # the base hostname & protocol for your site
 cover: "/assets/acchakannada.jpg"
