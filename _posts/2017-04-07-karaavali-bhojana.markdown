@@ -5,7 +5,7 @@ title:  "ಕರಾವಳಿ ಭೋಜನ"
 date:   2017-04-07
 author: Adarsha
 categories: Experience
-tags:	AcchaKannada Kannada anubhava experience udupi kundapura oota foodstyle brahamana
+tags:	AcchaKannada Kannada anubhava experience udupi kundapura oota foodstyle brahmana
 cover:  "assets/karavali-bhojana-acchakannada.jpg"
 description: ಒಂದು ಕರಾವಳಿಯ ಮದುವೆ ಊಟದ ಅನುಭವದ ಕಥೆ!
 ---
