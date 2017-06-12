@@ -5,7 +5,7 @@ title: "ಎಂದೂ ಮುಗಿಯದ ನಿದಿರೆ"
 date: 2017-06-04
 author: Adarsha
 categories: Poem
-tags:	AcchaKannada Kannada Love Life preeti jeevana Karnataka India Blog death saavu end
+tags: AcchaKannada Kannada Love Life preeti jeevana Karnataka India Blog death saavu end
 cover: "assets/endu-mugiyada-nidire-acchakannada.jpg"
 description: ಎಂದೂ ಮುಗಿಯದ ನಿದಿರೆ! ಒಂದು ಕವನ.
 
