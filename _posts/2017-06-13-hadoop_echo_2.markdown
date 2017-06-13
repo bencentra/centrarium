@@ -6,6 +6,8 @@ author: Beom
 categories: Big_Data
 ---
 
+![[그림]하둡 에코시스템 2.0](https://github.com/ntmaster84/ntmaster84.github.io/blob/master/_posts/resource/hadoop_eco_2.0.jpg?raw=true)
+
 코디네이터
 
 - Zookeeper(http://zookeeper.apache.org)
