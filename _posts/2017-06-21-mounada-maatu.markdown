@@ -6,7 +6,7 @@ date: 2017-06-21
 author: Sowmya Purad
 categories: Poem
 tags: AcchaKannada Kannada Poem Mouna Silence Heart Guri Goal Life
-cover: "assets/mounada-maatu-acchakannada.JPEG"
+cover: "assets/mounada-maatu-acchakannada.jpeg"
 description: ಮೌನದಲ್ಲಿ ನುಡಿದ ಮಾತು!
 
 ---
