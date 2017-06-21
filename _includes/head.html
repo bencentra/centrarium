@@ -42,7 +42,7 @@
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="{% if page.cover %}/{{ page.cover}}{% endif %}" />
+  <meta property="og:image" content="{% if page.cover %}{{site.url}}/{{ page.cover}}{% endif %}" />
 	
   <!-- Twitter: card tags 
   <meta name="twitter:card" content="summary">
@@ -52,7 +52,8 @@
   <meta name="twitter:url" content="{{ site.url }}">
 -->
 
-  {% if protocols.os_repo and protocols.os_rcs_type and protocols.os_src %}
+   <!-- {% if protocols.os_repo and protocols.os_rcs_type and protocols.os_src %} -->
+	
   <!-- Open Source Protocol -->
   <link rel="profile" href="http://osprotocol.com" />
   <meta property="os:repo" content="{{ protocols.os_repo }}" />
