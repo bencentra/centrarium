@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ಮೌನದ ಮಾತ"
+title: "ಮೌನದ ಮಾತು"
 date: 2017-06-21
 author: Sowmya Purad
 categories: Poem
