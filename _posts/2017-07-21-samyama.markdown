@@ -1,0 +1,19 @@
+---
+
+layout: post
+title: "ಸಂಯಮ"
+date: 2017-07-21
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem patience samyama life peace shanthi
+cover: "assets/samyama-acchakannada.jpeg"
+description: ಸಂಯಮ ಕವನ!
+---
+
+<p align = "center">ಸಂತೇಲಿ ಸುಮ್ಮನೆ ನಿಂತು ಸುತ್ತ ನೋಡುವಂಥ ಸಂಯಮ<br>
+ಜಾತ್ರೆಯಲ್ಲೂ ನಿಧಾನವಾಗಿ ನಡೆಯುವಂಥ ಸಂಯಮ<br>
+ಮಾನಸ ಧರೆಯೊಳಗಿನ ಕ್ಷೋಭೆಯನ್ನೇ ತಣಿಸುವಂಥ ಸಂಯಮ<br>
+ಕನಸ ಕ್ರೂರ ಕಿರುಚಾಟವನ್ನು ಮರೆಸುವಂಥ ಸಂಯಮ<br>
+ಸಂಯಮ ಬೇಕು ಸಂಯಮ<br>
+ಮುಗ್ಧ ಮನಸ್ಸಿನ ಮೌನದ ಮಾತನ್ನು ಆಲಿಸಲು ಕಿವಿಯಾಗುವಂಥ ಸಂಯಮ!<br>
+</p><br>
