@@ -5,7 +5,7 @@ date: 2017-08-25
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana Love Boy Girl Romance
-cover: "assets/naduve-antaravirali-acchakannada"
+cover: "assets/naduve-antaravirali-acchakannada.jpg"
 description: ನಡುವೆ ಅಂತರವಿರಲಿ ಹುಡುಗಿ, ಹತ್ತಿರವಾದರೆ ನೀನು ಜೀವವೆಲ್ಲ ಹೋಗುತ್ತೆ ಗುಡುಗಿ!
 ---
 
