@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ನಿನದೇ ನೆನಪಲ್ಲಿ"
-date: 2017-09-010
+date: 2017-09-10
 author: Pranitha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana Love Travel Agumbe shivamogga Rains Green Cloud Memories
