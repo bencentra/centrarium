@@ -6,7 +6,7 @@ author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana Love Boy Girl Marriage Life Truth Freedom
 cover: "assets/jaarubande-acchakannada.jpg"
-description: 
+description:
 ---
 
 <p align="center">ತತ್ವ ಸತ್ವ ಸೇರಿಕೊಂಡ ತಲೆಯ ಒಳಗೆ ಉಂಟು ಪ್ರಳಯ<br>
@@ -16,8 +16,10 @@ description:
 ಏರುಪೇರಿನ ಜಗವು ಇದು ಹುಟ್ಟಿ ಏತಕೆ ನೀನು ಬಂದೆ?<br>
 ಹೋಗಿಬರುವ ಜನರ ಮಾತ ಕೇಳಿ ಆಯಿತು ತಲೆಯು ಜಾರು ಬಂಡೆ!</p>
 
-<p align="center">ಪೋಲಿ ಕನಸಿನ ಆಸೆ ಏತಕೆ, ಪ್ರೀತಿ ಕಳಿಸುವುದು ನಿನ್ನ ಪಾತಾಳಕೆ,<br>
-ಅಂಟಿಕೊಂಡಿತು ವಯಸ್ಸಿಗೆ ಮೋಹವು, ಇನ್ನು ಎಲ್ಲಿದೆ ವೇಗಕೆ ಹಿಡಿತವು!<br>
+<p align="center">ಪೋಲಿ ಕನಸಿನ ಆಸೆ ಏತಕೆ,<br>
+  ಪ್ರೀತಿ ಕಳಿಸುವುದು ನಿನ್ನ ಪಾತಾಳಕೆ,<br>
+ಅಂಟಿಕೊಂಡಿತು ವಯಸ್ಸಿಗೆ ಮೋಹವು,<br>
+  ಇನ್ನು ಎಲ್ಲಿದೆ ವೇಗಕೆ ಹಿಡಿತವು!<br>
 ಏರುಪೇರಿನ ಹುಡುಗಿ ಹೃದಯ, ಅದರ ಹಿಂದೇಕೆ ನೀ ಹೋದೆ?<br>
 ಹೋಗಿಬರುವ ಹುಡುಗಿಯ ನೋಡಿ ಆಗಿದೆ ತಲೆಯು ಈಗ ಜಾರು ಬಂಡೆ</p>
 
