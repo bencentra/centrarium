@@ -6,7 +6,7 @@ author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana Love Boy Girl Peace Content Happy accha kannada
 cover: "assets/mukta-acchakannada.jpg"
-description: ನಿನ್ನ ಕಂಗಳ ಕಪ್ಪಿನ ಮೋಹಕೆ ಬಲಿಯಾಗಿ ಪಡುವಣಕೆ ತಿರುಗಿದೆ ಈ ಸೂರ್ಯನ ನಡಿಗೆ!
+description: ಹರಿದಾಗ ನೀನು ನನ್ನ ಸುತ್ತ, ಏಳು ಬೀಳು ಇರದೆ ಆಗುವೆನು ಮುಕ್ತ!
 ---
 
 <p align ="center">ಹರಿದಾಗ ನೀನು ನನ್ನ ಸುತ್ತ, ಏಳು ಬೀಳು ಇರದೆ ಆಗುವೆನು ಮುಕ್ತ!</p>
