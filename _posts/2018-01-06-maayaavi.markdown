@@ -1,0 +1,25 @@
+---
+layout: post
+title: "ಮಾಯಾವಿ"
+date: 2017-01-06
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana Love Boy Girl Peace Content Happy accha kannada maayaavi magician magic
+cover: "assets/maayaavi-acchakannada.jpg"
+description: ನನ್ನ ಎದೆಯ ಬಡಿತ ನುಡಿಸುವ ಹುಡುಗಿ, ನೀನು ಕಣೆ ಮಾಯಾವಿ!
+---
+
+<p align ="center">ಇರುಳ ಕಳೆದು, ಬೆಳಕ ಸುರಿದು, ಮೇಲೆ ಬರುವ ಸೂರ್ಯ ಪ್ರಭಾವಿ,<br>
+ನನ್ನ ಬಾಳಿಗೆ ಬೆಳಕು ಚೆಲ್ಲುತ ಬಂದಿರುವ ಹುಡುಗಿ, ನೀನು ಕಣೆ ಮಾಯಾವಿ!</p>
+
+<p align ="center">ಹುಣ್ಣಿಮೆಯ ರಾತ್ರಿಯಲಿ, ಚಂದ್ರ ಮಾಡುವ ಮೋಡಿಯಲಿ,<br>
+ಅಬ್ಬರದಿ ತೇಲಿ ಬಂದಿದೆ ಸಾಗರದಲೆಯ ಮನವಿ,<br>
+ನೀ ಬರುವ ಹೊತ್ತಲ್ಲಿ, ನನ್ನ ಮನದ ಮೂಲೆಯಲಿ,<br>
+ನಿನ್ನ ಗೆಜ್ಜೆ ತಂದ ಸ್ವರ ಹೇಳಿದೆ ಹುಡುಗಿ, ನೀನು ಕಣೆ ಮಾಯಾವಿ!</p>
+
+<p align ="center">ಅರಳಿದ ಹೂವಿನ ಪರಿಮಳ, ತುಂಬುತ ನನ್ನ ಮನೆಯ ಅಂಗಳ,<br>
+ಮನೆ - ಮನ ಸೂರೆ ಮಾಡಿದ ಪ್ರಭಾವಿ,<br>
+ನಿನ್ನ ಮನದ ಗುಣ, ನನ್ನ ಎದೆಯ ಪ್ರಾಣ,<br>
+ನನ್ನ ಎದೆಯ ಬಡಿತ ನುಡಿಸುವ ಹುಡುಗಿ, ನೀನು ಕಣೆ ಮಾಯಾವಿ!<br></p>
+
+<p align ="center">- ಆದರ್ಶ</p>
