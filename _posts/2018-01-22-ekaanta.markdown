@@ -1,0 +1,28 @@
+---
+layout: post
+title: "ಏಕಾಂತ"
+date: 2018-01-22
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana Lone single happy life guri goal travel journey payana
+cover: "assets/ekaanta-acchakannada.jpg"
+description: ಏಕಾಂಗಿಯ ಸಂಚಾರಕೆ ಏಕಾಂತವೇ ಸಂಭಾವನೆ, ಎಲ್ಲಕ್ಕೂ ಮಿಗಿಲಾದದ್ದು ನಾನು ಸ್ವತಂತ್ರನೆಂಬ ಭಾವನೆ!
+---
+
+<p align ="center">ಏಕಾಂಗಿಯ ಸಂಚಾರಕೆ ಏಕಾಂತವೇ ಸಂಭಾವನೆ,<br>
+ಈ ರೀತಿಯ ಉತ್ಸಾಹದಿ ಮನ ತುಂಬಿದೆ ಹೊಸ ಭಾವನೆ.</p>
+
+<p align ="center">ಮನವೀಗ ಬಯಕೆಗಳ ಪರಿಚಾರಕವಾಗಿದೆ,<br>
+ತುಡಿತಗಳ ಪೂರೈಸಲು ಸಂಚಾರಕೆ ನಡೆದಿದೆ.<br>
+ಹಾದೀಲಿ ತಂಗಾಳಿಯು ತೇಲಾಡುತ ಬೀಸಿದೆ,<br>
+ಊರಿರುವ  ದಿಕ್ಕು ಇಂದು ಮಾಯವಾಗಿದೆ!</p>
+
+<p align ="center">ತಲುಪಿದೆ ಮನವು ಕೊನೆಯಿಲ್ಲದ ತೀರವನ್ನು,<br>
+ತಣಿಸುತಿದೆ ಇರುಳ ಸಾಗರದಲೆ ಈ ನನ್ನ ಮನವನ್ನು.<br>
+ಉರುಳಿದೆ ಈಗ ಮರಳಿನ ಕೋಟೆ,<br>
+ಬಿಡುಗಡೆಗೆ ಶುರು ಈಗ ಮನದಲ್ಲಿ ಬೇಟೆ!</p>
+
+<p align ="center">ಏಕಾಂಗಿಯ ಸಂಚಾರಕೆ ಏಕಾಂತವೇ ಸಂಭಾವನೆ,<br>
+ಎಲ್ಲಕ್ಕೂ ಮಿಗಿಲಾದದ್ದು ನಾನು ಸ್ವತಂತ್ರನೆಂಬ ಭಾವನೆ!</p>
+
+<p align ="center">- ಆದರ್ಶ</p>
