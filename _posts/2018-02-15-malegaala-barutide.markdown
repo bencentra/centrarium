@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ಮಳೆಗಾಲ ಬರುತಿದೆ"
-date: 2017-02-15
+date: 2018-02-15
 author: Adarsha
 categories: Experience
 tags: AcchaKannada Kannada Life nature prakruthi humans manushyaru rainyseason malegaala village GOT karnataka malenaadu
