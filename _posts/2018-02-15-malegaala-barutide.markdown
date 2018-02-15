@@ -6,7 +6,7 @@ author: Adarsha
 categories: Experience
 tags: AcchaKannada Kannada Life nature prakruthi humans manushyaru rainyseason malegaala village GOT karnataka malenaadu
 cover: "assets/malegaala-barutide-acchakannada.jpg"
-description: ಮಳೆಗಾಲ ಬರುತಿದೆ!
+description: ಆ ದಿನಕ್ಕೆ ನನಗೆ ಅದು ನಡುಕ ಹುಟ್ತಿಸಿದಂಥ ಸೊಗಸಾದ ಮಳೆಯಾಗಿತ್ತು.
 ---
 <p align ="justify">ನಾನು ಹುಟ್ಟಿದ ವರುಷ ನಮ್ಮೂರ ಕೆರೆಯ ಕೊಡಿ ಬಿದ್ದಿತ್ತಂತೆ. ಅದಾದ ನಂತರ ನಾನು ಕಣ್ಣು ಬಿಟ್ಟು ಓಡಾಡುವ ಹಾಗಾದಾಗ ಕೆರೆ ತುಂಬಿ ಕೋಡಿ ಬಿದ್ದ ಸುದ್ದಿಯನ್ನ ಕೇಳಲಿಲ್ಲ. ಆದ್ರೆ ಜೋರು ಅನ್ನುವಂತ ಮಳೆ ಬಿದ್ದಿದ್ದನ್ನು ಊರಲ್ಲಿ ನಮ್ಮ ಮನೆಯ ಕಿಟಕಿಯ ಗೂಡಲ್ಲಿ ಕುಳಿತುಕೊಂಡು ನೋಡಿದ್ದೆ. ಒಂದು ಇನ್ನೂರು ಮೀಟರ್ ದೂರದ ಸಣ್ಣ ಹಳ್ಳದಲ್ಲಿ ಭರ್ಜರಿಯಾಗಿ ಮಳೆ ನೀರು ಹರಿಯುತ್ತಿತ್ತು. ಆ ದಿನಕ್ಕೆ ನನಗೆ ಅದು ನಡುಕ ಹುಟ್ತಿಸಿದಂಥ ಸೊಗಸಾದ ಮಳೆಯಾಗಿತ್ತು. ಆದರು ಕೆರೆ ತುಂಬಿರಲಿಲ್ಲ.</p>
 
