@@ -3,7 +3,7 @@ layout: post
 title: "ಸಣ್ಣ ಉಳಿತಾಯ"
 date: 2018-03-18
 author: Adarsha
-categories: Experience
+categories: Discussion
 tags: AcchaKannada Kannada Life nature prakruthi humans manushyaru rainyseason malegaala savewater neeru
 cover: "assets/sanna-ulitaaya-acchakannada.jpg"
 description: ಜೀವನಾನ ಇವತ್ತು ಅನುಭವಿಸಬೇಕು ಅಂತ ನಮ್ಮ ಜನ ತಮ್ಮ ಮುಂದಿನ ತಲೆಮಾರಿಗೂ ಕರಗದಷ್ಟು ದುಡ್ಡು ಕೂಡಿಡುವ ಸಂಸ್ಕೃತಿ ಬೆಳೆಸಿಕೊಂಡು, ಮುಂದೆ ನಾವು ಇರ್ತೀವೋ ಇಲ್ಲವೋ ಅಂತ ಎಲ್ಲ ನೀರನ್ನು ಇಂದು ತಾವೇ ಅನುಭವಿಸುವ ಅಭ್ಯಾಸ ಮಾಡಿಕೊಂಡು ಬದುಕುತ್ತಿದ್ದಾರೆ
