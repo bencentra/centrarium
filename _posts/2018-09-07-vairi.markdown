@@ -1,0 +1,25 @@
+---
+layout: post
+title: "ವೈರಿ"
+date: 2018-09-07
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life jeevana mind manassu heart enemy thoughts yochane war yuddha
+cover: "assets/vairi-acchakannada.jpg"
+description: ಮನಸ್ಸಿಗೆ ಎಂದಿಗೂ ನೂರಾರು ದಾರಿ, ಎಲ್ಲಕ್ಕೂ ಎಂದಿಗೂ ನಮ್ಮ ಭಾವನೆಗಳೇ ವೈರಿ.
+---
+
+<p align ="center">ಮನಸ್ಸಿನ ನೂರು ಕಾರ್ಯವೈಖರಿ<br>
+ಎಲ್ಲಕ್ಕೂ ನಮ್ಮ ಹೃದಯವೇ ವೈರಿ</p>
+<p align ="center">ಹೋದರೆ ಮನಸ್ಸು ನಮ್ಮ ಹಿಡಿತವ ಮೀರಿ,<br>
+ಆಗುವವು ನಮಗೆ ನಮ್ಮ ಭಾವನೆಗಳೇ ವೈರಿ.<br>
+ಉದರದಲ್ಲೀಗ ನಿಲ್ಲದ ಯೋಚನಾ ಲಹರಿ,<br>
+ಭಾವನೆಗಳೇ ನಡೆಸಿವೆ ಈಗ ಮಹಾಯುದ್ಧದ ತಯಾರಿ.</p>
+<p align ="center">ಮಾಡುವ ಕೆಲಸಕ್ಕೆ ಅಡೆತಡೆ ಸಾವಿರ,<br>
+ಮಾಡುವ ಮೊದಲು ಯೋಚನೆಗಳ ಅಬ್ಬರ.<br>
+ಹಿಡಿತವೇ ಇಲ್ಲದ ಮನದಲ್ಲಿ ನಮ್ಮ ಯೋಚನೆಗಳೇ ನಮಗೆ ಪ್ರಹರಿ,<br>
+ಎಲ್ಲವೂ ನಮ್ಮ ಭಾವನೆಗಳ ಕಾರ್ಯವೈಖರಿ!</p>
+<p align ="center">ಮನಸ್ಸಿಗೆ ಎಂದಿಗೂ ನೂರಾರು ದಾರಿ,<br>
+ಎಲ್ಲಕ್ಕೂ ಎಂದಿಗೂ ನಮ್ಮ ಭಾವನೆಗಳೇ ವೈರಿ.</p>
+
+<p align ="center">- ಆದರ್ಶ</p>
