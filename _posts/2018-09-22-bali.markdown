@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ವೈರಿ"
+title: "ಬಲಿ"
 date: 2018-09-22
 author: Adarsha
 categories: Poem
