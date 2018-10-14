@@ -4,7 +4,7 @@ title: "ಆ ನಗು"
 date: 2018-10-14
 author: Adarsha
 categories: Poem
-tags:	AcchaKannada Kannada Poem kavana life jeevana mind manassu heart thoughts yochane war yuddha girl marriage
+tags:	AcchaKannada Kannada Poem kavana life heart girl smile happiness nagu santasa beauty chanda
 cover: "assets/aa-nagu-acchakannada.jpg"
 description: ಆ ನಗು, ಅದೇ ನಗು, ಅದಕ್ಕೆ ಯಾವಾಗಲೂ ಅದೇ ಸಾಟಿ; ಎಲ್ಲೇ ಹೋದರೂ, ಯಾರನ್ನೇ ಕಂಡರು, ಹಿಂದೆಂದೂ ಕಂಡಿರಲಿಲ್ಲ ಇಂಥಾದ್ದೊಂದು ಧಾಟಿ!
 ---
