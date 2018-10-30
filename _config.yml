@@ -19,8 +19,8 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+url: "https://jhnbrn90.github.io" # the base hostname & protocol for your site
+cover: "/assets/group_photo.png"
 logo: "/assets/logo.png"
 
 # Build settings
