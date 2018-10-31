@@ -5,7 +5,7 @@ date: 2018-10-31
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life philosophy motherland taayinaadu mannu Karnataka India
-cover: "assets/aa-nagu-acchakannada.jpg"
+cover: "assets/mannu-acchakannada.png"
 description: ಮರಳಿ ಮಣ್ಣಿಗೆ ಪಯಣ ಸಾಗಿದೆ ಎಲ್ಲ ಬಂಧಗಳ ತೊರೆದು, ಮರಳಿ ಮಣ್ಣಿಗೆ ಪಯಣ ಸಾಗಿದೆ ಎಲ್ಲ ಋಣಗಳು ಮುಗಿದು.
 ---
 
