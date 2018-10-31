@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ಮಣ್ಣು"
+title: "ಮರಳಿ ಮಣ್ಣಿಗೆ"
 date: 2018-10-31
 author: Adarsha
 categories: Poem
