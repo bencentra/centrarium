@@ -175,3 +175,5 @@ protocols:
     os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
     os_rcs_type: "git"
     os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+
+theme: jekyll-theme-cayman
