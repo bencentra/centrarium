@@ -1,0 +1,28 @@
+---
+layout: post
+title: "ತೀರ"
+date: 2018-12-01
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life Karnataka India Love feelings heartbreak preethi Girl
+cover: "assets/teera-acchakannada.jpg"
+description: ಅರಿವು ಇರದೇ ಪ್ರೀತಿ ಇರುವಾಗ; ನಾನೊಂದು ತೀರ, ನೀನೊಂದು ತೀರ;
+---
+
+<p align ="center">ಮಾತೇ ಬಾರದೆ ನುಡಿಮುತ್ತು ಸುರಿವಾಗ,</br>
+ಕಥೆಯೇ ಇರದೇ ಸ್ವಾರಸ್ಯ ಸಿಗುವಾಗ,</br>
+ಅರಿವು ಇರದೇ ಪ್ರೀತಿ ಇರುವಾಗ,</br>
+ನಾನೊಂದು ತೀರ, ನೀನೊಂದು ತೀರ!</p><!--more-->
+
+<p align ="center">ಕಲ್ಪನೆ ಇರದೇ ಕನಸೊಂದು ಕಂಡಾಗ,</br>
+ಕಾರಣ ಇರದೇ ಭಾವುಕಳಾದಾಗ,</br>
+ನನ್ನನ್ನೇ ಮರೆತು ನಿನ್ನನ್ನು ನೆನೆದಾಗ,</br>
+ನಾನೊಂದು ತೀರ, ನೀನೊಂದು ತೀರ!</p>
+
+<p align ="center">ನಿನ್ನ ನೆನಪಾಗಿ ನಾನು ಕಣ್ಣೀರು ಇಡುವಾಗ,</br>
+ನನ್ನ ನೆನಪೇ ಇರದೇ ನೀನಿಂದು ಇರುವಾಗ,</br>
+ನಿನ್ನ ದಾರಿ ಕಾಣುತ ನಾ ಕಲ್ಲಂತೆ ನಿಂತಾಗ,</br>
+ನಾನೊಂದು ತೀರ, ನೀನೊಂದು ತೀರಾ!</p>
+
+
+<p align ="center">- ಆದರ್ಶ</p>
