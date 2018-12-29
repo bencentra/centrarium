@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ನೂರು ಕನಸು"
-date: 2018-12-01
+date: 2018-29-01
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life Karnataka India Love Goal Achivement Dreams Path Life guri kanasu aim
