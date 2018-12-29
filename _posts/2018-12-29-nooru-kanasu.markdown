@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ತೀರ"
+title: "ನೂರು ಕನಸು"
 date: 2018-12-01
 author: Adarsha
 categories: Poem
