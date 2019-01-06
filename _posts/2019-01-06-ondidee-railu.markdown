@@ -5,7 +5,7 @@ title: "ಒಂದಿಡೀ ರೈಲು"
 date: 2019-01-06
 author: Adarsha
 categories: Story
-tags: AcchaKannada Kannada Accident Life Karnataka India Blog train railu shivamogga travel
+tags: AcchaKannada Kannada Accident Life Karnataka India Blog train railu shivamogga travel mistake tappu adventure sahasa night journey trains
 cover: "assets/ondidee-railu-acchakannada.jpg"
 description: ಶಿವಮೊಗ್ಗಕ್ಕೆ ಹೋಗುತ್ತೆ ಅಂತ ನಾನು ಹತ್ತಿ ಕೂತ ರೈಲು ಧಾರವಾಡದ ಕಡೆ ಹೊರಟ ಕಥೆ. 
 
