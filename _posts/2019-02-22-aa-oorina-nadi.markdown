@@ -4,7 +4,7 @@ layout: post
 title: "ಆ ಊರಿನ ನದಿ"
 date: 2019-02-22
 author: Deepak Basrur
-categories: Experience
+categories: Story
 tags: AcchaKannada Kannada Life Karnataka India Blog travel nature philosopher river nadi routinelife
 cover: "assets/nadi.jpg"
 description: ಅವನ ಊರಿನ ನದಿಯೇ ಅವನಿಗೆ ಸ್ಫೂರ್ತಿ. ಹಳ್ಳ, ದಿಣ್ಣೆಗಳನ್ನೆಲ್ಲಾ ಇಳಿದು, ಅಡ್ಡ ಬಂದ ಬಂಡೆಗಳನ್ನೇಲ್ಲ ದಾಟಿ, ಸಿಕ್ಕ ಅಡಚಣೆಗಳನ್ನೇಲ್ಲ ಮೀರಿ ಅದು ತನ್ನ ಗುರಿಯೆಡೆಗೆ ನುಗ್ಗುತ್ತಿರುವ ರೀತಿಯೇ ಅವನಿಗೆ ಒಂದು ಅಚ್ಚರಿಯಾಗಿತ್ತು.
