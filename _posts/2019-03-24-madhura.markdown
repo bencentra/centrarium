@@ -1,0 +1,22 @@
+---
+layout: post
+title: "ಮಧುರ"
+date: 2019-03-24
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life Nature Marrage Relationship Love Life maduve preethi jeevana happiness 
+cover: "assets/madhura-acchakannada.jpg"
+description: ಬದಲಾಗದಿರಲಿ ನಿಮ್ಮ ಒಲವು, ಇನ್ನು ಮುಂದೆ ಎಲ್ಲವೂ ಮಧುರ.
+
+---
+
+<p align ="center">ಬಂದು ಹೋಗೊ ಬಂಧಗಳಲ್ಲಿ ಯಾವುದು ಚರ? ಯಾವುದು ಸ್ಥಿರ?<br>
+ಜೊತೆಯಾಗಿ ಸದಾ ಬಳಿಯಿರಲು ನೀನು, ಇನ್ನು ಮುಂದೆ ಎಲ್ಲವೂ ಮಧುರ.</p><!--more-->
+
+<p align ="center">ಬಂದು ಹೋಗೊ ಬಯಕೆಗಳಲ್ಲಿ ಯಾವುದು ಕೆಡಕು? ಯಾವುದು ಒಳಿತು?<br>
+ಇನ್ನಾವ ಆಸೆಯೂ ಬೇಡ ನನಗೆ, ನೀನೆ ಬೇಕೆಂಬ ಯೋಚನೆಯ ಹೊರತು.</p>
+
+<p align ="center">ಬದಲಾಗುವ ಬಾಳಿನಲ್ಲಿ ಯಾವುದು ಚರ? ಯಾವುದು ಸ್ಥಿರ?<br>
+ಬದಲಾಗದಿರಲಿ ನಮ್ಮ ಒಲವು, ಇನ್ನು ಮುಂದೆ ಎಲ್ಲವೂ ಮಧುರ.</p>
+
+<p align ="center">- ಆದರ್ಶ</p>
