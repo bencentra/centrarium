@@ -5,7 +5,7 @@ date: 2019-03-24
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life Nature Marrage Relationship Love Life maduve preethi jeevana happiness 
-cover: "assets/heddaari-acchakannada.jpg"
+cover: "assets/madhura-acchakannada.jpg"
 description: ಬದಲಾಗದಿರಲಿ ನಿಮ್ಮ ಒಲವು, ಇನ್ನು ಮುಂದೆ ಎಲ್ಲವೂ ಮಧುರ.
 
 ---
