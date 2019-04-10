@@ -5,7 +5,7 @@ date: 2019-04-10
 author: Deepak Basrur
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life Nature Marrage Relationship Love Life maduve preethi jeevana happiness 
-cover: "assets/madhura-acchakannada.jpg"
+cover: "assets/sumadhura-acchakannada.jpg"
 description: ಕಣ್ಣಲ್ಲೇ ಮಾತು ಸಾಕು, ಸ್ವಲ್ಪ ನಾವು ಸರಿ ಹೋಗಬೇಕು; ಬರೀ ಕೈ ಕಿರು ಬೆರಳುಗಳಲ್ಲ, ಎರಡೆರಡು ಕೈಗಳು ಒಂದಾಗಬೇಕು..!
 
 ---
