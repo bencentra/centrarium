@@ -1,0 +1,28 @@
+---
+layout: post
+title: "ಗಹನ"
+date: 2019-05-03
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life Nature Marrage Relationship Love Life maduve preethi jeevana happiness 
+cover: "assets/gahana-acchakannada.jpg"
+description: ತುಂಬಾ ಗಹನ ನನ್ನ ಪ್ರೀತಿ, ಜಗತ್ತಿನ ಕೊನೆಯ ದಾರಿಯ ರೀತಿ.
+
+---
+
+<p align ="center">ತುಂಬಾ ಗಹನ ನನ್ನ ಪ್ರೀತಿ,<br>
+ಜಗತ್ತಿನ ಕೊನೆಯ ದಾರಿಯ ರೀತಿ.<br>
+ಆಚೀಚೆ ನೋಡುವ ಅವಕಾಶವಿಲ್ಲ,<br>
+ತಾನಾಗೆ ಆವರಿಸಿ ನಿಂತಿದೆ ಪ್ರೀತಿಯು ನನ್ನ ಸುತ್ತೆಲ್ಲ.</p><!--more-->
+
+<p align ="center">ಹಾಸ್ಯವೇ ಇಲ್ಲದ ಹಸನಾದ ಪ್ರೀತಿ,<br>
+ಹುರುಪಲಿ ಹರಿಯುವುದೆಂಬ ನಯವಾದ ಭೀತಿ.<br>
+ಮೀಟುತಿಹುದು ಹೃದಯದಿ ಭಾವನಾ ತಂತಿ,<br>
+ತುಂಬಾ ಗಹನವಾದದ್ದು ನನ್ನ ಪ್ರೀತಿ.</p>
+
+<p align ="center">ಅಚ್ಚರಿಯೇ ಇಲ್ಲ ಅಚ್ಚಳಿಯದಿದು,<br>
+ಮನದಾವರಣದಿ ಅಂಕುಷಕ್ಕೆ ಸಿಲುಕದ್ದು.<br>
+ಬದಲಾವಣೆಗೆ ಬಾರದು ನನ್ನ ಪ್ರೀತಿ,<br>
+ಎಲ್ಲಕ್ಕೂ ಗಹನವಾದ ವಿಷಯದ ರೀತಿ.</p>
+
+<p align ="center">- ಆದರ್ಶ</p>
