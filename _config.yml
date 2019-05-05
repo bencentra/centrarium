@@ -21,7 +21,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://acchakannada.com" # the base hostname & protocol for your site
 cover: "/assets/ekaanta-acchakannada.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/logo-bluee.png"
 
 # Build settings
 markdown: kramdown
