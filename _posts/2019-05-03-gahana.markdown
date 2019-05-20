@@ -5,7 +5,7 @@ date: 2019-05-03
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life Nature Marrage Relationship Love Life maduve preethi jeevana happiness 
-cover: "assets/hasirininda-neeli-acchakannada.jpg"
+cover: "assets/gahana-acchakannada.jpg"
 description: ತುಂಬಾ ಗಹನ ನನ್ನ ಪ್ರೀತಿ, ಜಗತ್ತಿನ ಕೊನೆಯ ದಾರಿಯ ರೀತಿ.
 
 ---
