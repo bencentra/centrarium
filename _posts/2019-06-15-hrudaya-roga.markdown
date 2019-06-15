@@ -4,9 +4,10 @@ title: "ಹೃದಯ ರೋಗ"
 date: 2019-06-15
 author: Adarsha
 categories: Poem
-tags:	AcchaKannada Kannada Poem kavana life love preethi relationship sambandha breakup sorrow sadness
+tags:	AcchaKannada Kannada Poem kavana life Nature jeevana sorrow relationship preethi love failure sadness
 cover: "assets/kelada-shabda-acchakannada.jpg"
-description:ಅರಿವಿಗೆ ಬಾರದಾಗಿದೆ ಮನದ ಯಾವ ಭಾವನೆಯು ಈಗ, ಬಂದು ಕುಂತಂತಿದೆ ನನ್ನಲ್ಲಿ ಇಂದು ಯಾವುದೋ ಸಾಮೆಯ ಹೃದಯ ರೋಗ. 
+description: ಅರಿವಿಗೆ ಬಾರದಾಗಿದೆ ಮನದ ಯಾವ ಭಾವನೆಯು ಈಗ, ಬಂದು ಕುಂತಂತಿದೆ ನನ್ನಲ್ಲಿ ಇಂದು ಯಾವುದೋ ಸಾಮೆಯ ಹೃದಯ ರೋಗ.
+
 ---
 
 <p align ="center">ಯಾವ ಸೀಮೆಯ ಹೃದಯ ರೋಗ<br>
