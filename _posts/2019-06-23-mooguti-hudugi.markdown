@@ -6,7 +6,7 @@ date: 2019-06-23
 author: Deepak basrur
 categories: Experience
 tags:	Acchakannada Kannada Story Kathe Girl marriage life jeevana kanasu Love Preethi Dream maduve
-cover: "assets/nenapina-maatu-acchakannada.jpg"
+cover: "assets/mooguti-hudugi-acchakannada.jpg"
 description: ನಿನ್ನ ಕೈ ಹಿಡಿದ ಸುಳ್ಳು ಯೋಚನೆಯ ಚಿತ್ರದ ಮುಂದೆ, ನನ್ನ ಕಣ್ಣಿನ ಅಂಚಿನಲ್ಲಿ ನೀರು ಇರುತ್ತೆ.
 
 ---
