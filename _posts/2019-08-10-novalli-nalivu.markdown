@@ -6,7 +6,7 @@ author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life Nature jeevana sorrow failure sadness novu santasa santosha
 cover: "assets/novalli-nalivu-acchakannada.jpg"
-description: ಎತ್ತ ಹೋದರೂ ಬದುಕು ಒಂದೇ, ನೋವು ನಲಿವಿನ ಸಾಗರ, ಹೇಗೇ ಇದ್ದರೂ ಸಾಲದು ನಮಗೆ, ಬೇರೆ ಬಯಕೆಗಳೇ ನಮಗೆ ಸಡಗರ.
+description: ಎತ್ತ ಹೋದರೂ ಬದುಕು ಒಂದೇ, ನೋವು ನಲಿವಿನ ಸಾಗರ!
 
 ---
 
