@@ -9,7 +9,7 @@
       <p><strong>Site Map</strong></p>
       <ul class="pages">
         {% for page in site.pages %}
-        {% if page.title and page.main_nav != false %}
+        {% if page.title and page.main_nav == true %}
           <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
         {% endif %}
         {% endfor %}

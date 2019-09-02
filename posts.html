@@ -2,6 +2,7 @@
 layout: page
 title: "Posts"
 permalink: /posts/
+main_nav: true
 ---
 
 {% for category in site.categories %}
