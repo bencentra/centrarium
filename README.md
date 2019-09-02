@@ -50,6 +50,10 @@ gem install bundler
 bundle install
 ```
 
+## Updating Header and Footer Links
+
+Links in the header and footer are auto-generated. Links will be made for all files marked `category: page`, that have a title, and have the custom `main_nav` front-matter variable set to `true`. You can modify the rules for link generation in `_layouts/nav_links.html`.
+
 ## Updating Styles
 
 If you want change the CSS of the theme, you'll probably want to check out these files in the `_sass/` directory:
@@ -88,9 +92,11 @@ All configuration options can be found in `_config.yml`.
 ### Build Settings
 
 * __markdown:__ Markdown parsing engine. Default is kramdown.
-* __paginate:__ Number of posts to include on one page.
-* __paginate_path:__ URL structure for pages.
 * __inter_post_navigation:__ Whether to render links to the next and previous post on each post.
+
+### Pagination settings
+
+See the documentation for [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration) for more details.
 
 ### Archive Settings
 
