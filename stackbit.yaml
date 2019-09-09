@@ -192,7 +192,7 @@ models:
     type: page
     label: Basic Page
     match: "*.md"
-    exclude:
+    excludePages:
       - LICENSE.md
       - README.md
     fields:
