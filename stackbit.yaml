@@ -6,6 +6,9 @@ uploadDir: assets
 staticDir: ""
 pagesDir: ""
 dataDir: ""
+excludePages:
+  - LICENSE.md
+  - README.md
 models:
   config:
     type: data
@@ -192,9 +195,6 @@ models:
     type: page
     label: Basic Page
     match: "*.md"
-    excludePages:
-      - LICENSE.md
-      - README.md
     fields:
       - type: string
         name: layout
@@ -231,6 +231,13 @@ models:
       - type: string
         name: categories
         label: Categories
+      - type: string
+        name: tags
+        label: Tags
+      - type: image
+        name: cover
+        label: Cover Image
+
 
 
 
