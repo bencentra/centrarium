@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Merassom
-subtitle: "Merassom"
+title: Merassom Tech Blog
+subtitle: "Data Engineering"
 email: phj0860@gmail.com
 name: merassom
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Merassom Data Engineering Blog
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://merassom.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -75,12 +75,12 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: true
+#   - name: Twitter
+#     icon: twitter
+#     username: TheBenCentra
+#     url: https://twitter.com/TheBenCentra
+#     desc: Follow me on Twitter
+#     share: true
 
   - name: Facebook
     icon: facebook
