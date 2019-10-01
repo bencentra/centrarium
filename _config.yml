@@ -103,13 +103,6 @@ social:
     desc: Connect with me on LinkedIn
     share: true
 
-  - name: Google+
-    icon: google-plus
-    username:
-    url:
-    desc: Add me to your Circles
-    share: true
-
   - name: YouTube
     icon: youtube
     username:
@@ -164,13 +157,6 @@ social:
     username:
     url:
     desc: Follow me on Vimeo
-    share: false
-
-  - name: Vine
-    icon: vine
-    username:
-    url:
-    desc: Follow me on Vine
     share: false
 
   - name: Reddit
