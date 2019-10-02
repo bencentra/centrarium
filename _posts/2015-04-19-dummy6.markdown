@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dummy Post 6"
-date:   2015-04-18 08:43:59
+date:   2015-04-19 08:43:59
 author: Ben Centra
 categories: Dummy
 tags: lorem ipsum
