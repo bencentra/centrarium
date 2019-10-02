@@ -34,6 +34,14 @@ code {
 	padding: 0 3px;
 }
 
+blockquote {
+	color: $medium-gray;
+	font-style: italic;
+	border-left: 2px solid $light-gray;
+	margin-left: 0;
+	padding-left: 3em;
+}
+
 pre code.hljs {
 	font-size: modular-scale(-1);
 }
@@ -103,6 +111,12 @@ pre code.hljs {
 	box-shadow: 0 2px $highlight-color;
 	padding: 0 1em;
 	margin: 0;
+	// Remove this to make header scrollable again
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: $white;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
 	*/
@@ -194,6 +208,8 @@ pre code.hljs {
 *	Body
 */
 .page-content {
+	// Remove this to make header scrollable again
+	margin-top: 66px;
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
