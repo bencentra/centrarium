@@ -79,6 +79,9 @@ models:
           - type: string
             name: permalink
             label: Permalink
+          - type: boolean
+            name: sort_reverse
+            label: Sort Reverse
       - type: object
         name: jekyll-archives
         label: Jekyll Archives 
