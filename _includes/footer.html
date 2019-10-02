@@ -24,7 +24,7 @@
         </li>
 
         {% for social in site.social %}
-          {% if social.url != null %}
+          {% if social.url != "" %}
           <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
               <i class="fa fa-{{ social.icon }}"></i>
