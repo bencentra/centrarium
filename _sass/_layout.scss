@@ -77,6 +77,11 @@ pre code.hljs {
   }
 }
 
+.tooltip {
+	border-bottom: 1px dotted $medium-gray;
+}
+
+
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
