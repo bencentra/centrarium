@@ -42,7 +42,7 @@ layout: default
 {% endif %}
 
 <section class="rss">
-  <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
+  <p class="rss-subscribe text"><strong>Subscribe via <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>{% if site.emailfeedurl %} or <a href="{{ site.emailfeedurl }}">email</a>{% endif %}</strong></p>
 </section>
 
 <section class="share">

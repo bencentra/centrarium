@@ -52,7 +52,7 @@ bundle install
 
 ## Stackbit Deploy
 
-This theme is ready to import into Stackbit. This theme can be deployed to Netlify and you can connect any headless CMS including Forestry, NetlifyCMS, DatoCMS or Contentful. 
+This theme is ready to import into Stackbit. This theme can be deployed to Netlify and you can connect any headless CMS including Forestry, NetlifyCMS, DatoCMS or Contentful.
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/bencentra/centrarium)
 
@@ -161,6 +161,10 @@ If you want to disable Disqus for only a specific page, add __disqus_disabled: t
 You can enable basic [Google Analytics][ga] pageview tracking by including your site's tracking ID:
 
 * __ga_tracking_id__: The Tracking ID for your website. You can find it on your Google Analytics dashboard. If the property is set, Google Analytics will be added to the footer of each page.
+
+### Email subscription link
+
+If you'd like to link to an email subscription page alongside the default RSS link, you can include it in the configuration.
 
 ### Social Settings
 
