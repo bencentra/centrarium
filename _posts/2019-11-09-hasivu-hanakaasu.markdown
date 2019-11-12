@@ -4,7 +4,7 @@ layout: post
 title: "ಹಸಿವು ಮತ್ತು ಹಣಕಾಸು"
 date: 2019-11-09
 author: Adarsha
-categories: Dsicussion
+categories: Discussion
 tags: AcchaKannada Kannada Life Karnataka India Blog Money Finance Economics
 cover: "assets/hasivu-hanakaasu-acchakannada.jpg"
 description: “ಒಂದಲ್ಲ ಒಂದು ಹಸಿವು ನಮ್ಮನ್ನ ಮತ್ತು ನಮ್ಮ ಸಮಾಜವನ್ನ ಯಾವತ್ತಿಗೂ ಜಡತೆಗೆ ಹೋಗಲು, ಜಡತೆಯಲ್ಲಿ ಉಳಿಯಲು ಬಿಡುವುದಿಲ್ಲ.”
