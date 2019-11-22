@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಬಯಕೆ"
+date: 2019-11-22
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life Nature jeevana bayake aase desire philosophy tatva
+cover: "assets/bayake-acchakannada.jpg"
+description: ಅಳಿಯುವ ಜೀವನದಿ ಉಳಿಯುವ ಯೋಚನೆ, ಬಯಕೆಯ ಬೇಲಿಯೊಳಗೆ ಅನುದಿನವೂ ಯಾತನೆ;
+---
+
+<p align ="center">ನಾವಿಲ್ಲಿಗೆ ಬರೋದೆ ಹೋಗೋಕೆ,<br>
+ಮತ್ಯಾಕೆ ನಮಗಿಲ್ಲಿನ ಸಾವಿರಾರು ಬಯಕೆ;<br>
+ಯೋಚನೆಗಳಿಗಿಲ್ಲಿ ಇಲ್ಲ ಯಾವುದೇ ಅಂಕೆ,<br>
+ನಡೆದು ಹೋಗುವ ದಾರಿಯಲ್ಲಿ ನಮಗೆಲ್ಲ ನಿಲ್ಲುವ ಹರಕೆ.</p><!--more-->
+
+<p align ="center">ಇಂದು ಇರದಿದ್ದರೆ ನಾಳೆ ನಾವೇ ಇಲ್ಲ,<br>
+ನಾವಿಲ್ಲ ಅಂದರೆ ನಾಳೇನೂ ಇರೋದಿಲ್ಲ;<br>
+ಇಂದು ನಾಳಿನ ನಡುವೆ ಈ ಬಯಕೆಗಳೇ ಎಲ್ಲ,<br>
+ಬಯಕೆಯ ಬಯಲೊಳಗೆ ತಿರುಗುತಿದೆ ಈ ಜೀವನವೆಲ್ಲ.</p>
+
+<p align ="center">ಅಳಿಯುವ ಜೀವನದಿ ಉಳಿಯುವ ಯೋಚನೆ,<br>
+ಬಯಕೆಯ ಬೇಲಿಯೊಳಗೆ ಅನುದಿನವೂ ಯಾತನೆ;<br>
+ನಾವಿಲ್ಲಿಗೆ ಬರೋದೆ ಮಲಗೋಕೆ,<br>
+ಮತ್ಯಾಕೆ ನಮಗೆ ಎದ್ದು ನಿಲ್ಲುವ ಚಿಂತೆ.</p>
+
+<p align ="center">- ಆದರ್ಶ</p>
