@@ -6,7 +6,7 @@ date: 2020-02-08
 author: Deepak basrur
 categories: Story
 tags:	Acchakannada Kannada Story Kathe life jeevana comedy tragedy money unemployment employment
-cover: "assets/nijavaada-jeevana-acchakannada.jpg.jpg"
+cover: "assets/nijavaada-jeevana-acchakannada.jpg"
 description: "ಬಾತ್ರೂಮಿನಲ್ಲಿ ಕೂತಿದ್ದಾಗ ಅವನಿಗೆ ಒಂದು ಪ್ರಶ್ನೆ ಕಾಡೋಕೆ ಶುರು ಆಯ್ತು.. ಅಷ್ಟಕ್ಕೂ ಯಾರಿಗೋಸ್ಕರ ನಾನು ಬದುಕಿರ್ಬೇಕು.. ಯಾರು ನಿಜವಾಗಲೂ ನನ್ನ ಪ್ರೀತಿಸ್ತಾ ಇದ್ದಾರೆ.. ನಾನ್ ಬದ್ಕೋದು ಯಾರಿಗೆ ಬೇಕು ಎಂದು.."
 
 ---
