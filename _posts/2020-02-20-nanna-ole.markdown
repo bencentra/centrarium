@@ -5,7 +5,7 @@ date: 2020-02-20
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life jeevana boys karnataka aim guri fire force
-cover: "assets/yuddha-acchakannada.jpg"
+cover: "assets/nanna-ole-acchakannada.jpg"
 description: ಹಾದಿಗೊಂದು ತಿರುವಿದೆ, ನಿಂತು ನೋಡುವ ಇಂದು, ದೂರದೂರಲಿ ನಿಂತು ಕರೆದಿದೆ ಬದುಕ ಗುರಿಯ ಬಿಂದು.
 ---
 
