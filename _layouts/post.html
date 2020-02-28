@@ -36,13 +36,13 @@ layout: default
 {% if site.jekyll-archives %}
 {% if page.tags.size > 0 %}
 <section class="tags">
-  <strong>Nálepky:</strong> {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
+  Nálepky: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
 </section>
 {% endif %}
 {% endif %}
 
 <section class="rss">
-  <p class="rss-subscribe text"><strong>Odebírat <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></strong></p>
+  <p class="rss-subscribe text">Odebírat <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></p>
 </section>
 
 <section class="share">

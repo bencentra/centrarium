@@ -292,9 +292,12 @@ pre code.hljs {
 			padding: 1em 0;
 		}
 		.tags {
+			color: $medium-gray;
 			font-size: 0.9em;
 		}
 		.rss {
+		  color: $medium-gray;
+		  font-size: 0.9em;
 			margin: 1em 0 0 0;
 			@include span-columns(12);
 			@include media ($tablet) {
@@ -303,7 +306,8 @@ pre code.hljs {
 			}
 		}
 		.share {
-			font-weight: bold;
+			color: $medium-gray;
+      font-size: 0.9em;
 			margin: 0 0 1em 0;
 			@include span-columns(12);
 			@include media ($tablet) {
