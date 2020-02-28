@@ -8,5 +8,7 @@ _site
 .sass-cache
 
 # Bundler
-.bundle/
+bundle/
 vendor/
+.idea/
+*.iml

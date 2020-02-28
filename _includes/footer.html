@@ -6,7 +6,7 @@
 
     <div class="site-navigation">
 
-      <p><strong>Site Map</strong></p>
+      <p><strong>Mapa webu</strong></p>
       <ul class="pages">
 				{% include nav_links.html %}
       </ul>
@@ -14,7 +14,7 @@
 
     <div class="site-contact">
 
-      <p><strong>Contact</strong></p>
+      <p><strong>Kontakt</strong></p>
       <ul class="social-media-list">
         <li>
           <a href="mailto:{{ site.email }}">
@@ -34,11 +34,17 @@
           {% endif %}
         {% endfor %}
 
+				<li class="rss-subscribe">
+					<a href="{{ "/feed.xml" | prepend: site.baseurl }}">
+						<i class="fa fa-rss"></i>
+						<span>Odebírat RSS</span>
+					</a>
+				</li>
       </ul>
     </div>
 
     <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
+			<p class="text"><strong>O nás</strong></p>
       <p class="text">{{ site.description }}</p>
     </div>
 
