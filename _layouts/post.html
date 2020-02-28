@@ -7,7 +7,7 @@ layout: default
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
       <h1 class="title">{{ page.title }}</h1>
-      <p class="info">by <strong>{{ page.author }}</strong></p>
+      <p class="info">autor <strong>{{ page.author }}</strong></p>
     </header>
   </div>
 </div>
@@ -36,17 +36,17 @@ layout: default
 {% if site.jekyll-archives %}
 {% if page.tags.size > 0 %}
 <section class="tags">
-  <strong>Tags:</strong> {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
+  <strong>Nálepky:</strong> {% for tag in page.tags %}<a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>{% if forloop.last == false %},&nbsp;{% endif %}{% endfor %}
 </section>
 {% endif %}
 {% endif %}
 
 <section class="rss">
-  <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
+  <p class="rss-subscribe text"><strong>Odebírat <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a></strong></p>
 </section>
 
 <section class="share">
-  <span>Share: </span>
+  <span>Sdílet: </span>
   {% for social in site.social %}
     {% capture full_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
     {% if social.name == "Twitter" and social.share == true %}
