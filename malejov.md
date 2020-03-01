@@ -19,7 +19,6 @@ Později les odkoupil od benediktinů král Ferdinand I., aby zde roku 1534 vybu
 
 Název našeho lesního klubu odkazuje na původní les, ale zároveň logo odkazuje i na letohrádek Hvězda v podobě korun stromů. Nepřicházíme do pozůstatků lesa proto, abychom jej kultivovali a obdělávali, ale abychom byli sami kultivováni a vzděláváni pobytem v přírodě. Přitom ovšem nechceme nostalgicky a naivně usilovat o návrat k divoké přírodě, ale spíše se učit žít s ní v rovnováze na místě, kde můžeme čerpat z tradice dlouhé tři čtvrtě tisíciletí.
 
-￼
 K geniu loci obory Hvězda patří nejen hledání rovnováhy mezi přírodou a člověkem, ale také duchovní tradice staršího [břevnovského kláštera][brevnov] a mladší [libocké farnosti][farnost], která nám ostatně poskytuje zázemí ve farním centru Malejov.
 
 ![Logo Lesního klubu Malejov](/assets/article_images/logo.png)
