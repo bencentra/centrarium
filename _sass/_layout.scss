@@ -85,6 +85,8 @@ pre code.hljs {
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
+    padding-top: 7em;
+    padding-bottom: 7em;
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
@@ -100,7 +102,6 @@ pre code.hljs {
 	.scrim {
 		padding: 3em 1em;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
 			padding: 6em 1em !important;
 			@include media($tablet) {
 				padding: 9em 1em !important;
@@ -266,8 +267,6 @@ pre code.hljs {
 				font-style: italic;
 				font-size: modular-scale(1);
 			}
-			padding-top: 7em;
-			padding-bottom: 7em;
 		}
 	}
 	img {
