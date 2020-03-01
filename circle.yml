@@ -1,7 +1,0 @@
-machine:
-  ruby:
-    version:
-      2.2.2
-test:
-  override:
-    - bundle exec jekyll build

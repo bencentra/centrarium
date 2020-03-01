@@ -1,18 +1,41 @@
 ---
 layout: page
-title: About
+title: Základní informace
 permalink: /about/
+cover: /assets/article_images/ornitologicka_prochazka.jpg
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+Kdo jsme a kam směřujeme
+------------------------
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Jsme lesní klub, který postupně krystalizuje z přátelských setkávání rodičů a dětí v oboře Hvězda. Jak děti rostou, roste i naše touha a odvaha vytvářet pro ně prostor, v němž by mohly navazovat první přátelství, poznávat „velký svět“ za hranicemi své vlastní rodiny, učit se nejen znát, ale i mít rád prostředí, v němž žijí.
+[Více...](../kdo-jsme/)
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+![Ornitologická procházka](/assets/article_images/ornitologicka_prochazka.jpg)
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Proč Malejov?
+-------------
+
+Malejov byl název původního lesa, který byl v 16. století přeměněn na oboru Hvězda. K místu našeho setkávání tak již dlouhá staletí patří hledání rovnovážného vztahu člověka s přírodou.
+[Více...](../malejov/)
+
+![Letohrádek hvězda](/assets/article_images/hvezda_letohradek.jpg)
+
+
+Kontakt
+-------
+
+- Lesní klub Malejov, z. s.
+- IČO: 08377049
+- Předsednictvo: Mgr. Natalie Baránková, Bc. Tereza Skalická
+- E-mail: [LKMalejov@gmail.com](mailto:LKMalejov@gmail.com)
+- Telefon: +420 739 717 431
+- Facebook: [https://www.facebook.com/LKMalejov](https://www.facebook.com/LKMalejov)
+
+
+Stanovy spolku
+--------------
+
+[Stanovy zapsaného spolku Lesní klub Malejov](../stanovy/)

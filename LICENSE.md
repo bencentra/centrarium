@@ -1,6 +1,14 @@
-The MIT License (MIT)
+The website of Lesní klub Malejov, z. s., is licenced under MIT License (MIT)
+
+Copyright (c) 2020 Michal Turek
+
+
+The centrarium Jekyll theme is licenced under MIT License (MIT)
 
 Copyright (c) 2015 Ben Centra
+
+
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
