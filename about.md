@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Základní informace
+title: O nás
 permalink: /about/
 cover: /assets/article_images/ornitologicka_prochazka.jpg
 main_nav: true
