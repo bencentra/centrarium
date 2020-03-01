@@ -67,7 +67,7 @@ pagination:
       <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
     </span>
 		{% endif %}
-		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		<span class="page-number">Stránka {{ paginator.page }} z {{ paginator.total_pages }}</span>
 		{% if paginator.next_page %}
 		<a class="newer-posts" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
       <span class="fa-stack fa-lg">

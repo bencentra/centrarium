@@ -49,14 +49,12 @@ Install and update dependencies.
     docker run --rm -it \
         --volume "$PWD:/srv/jekyll" \
         --volume "$PWD/bundle:/usr/local/bundle" \
-        --publish 4000:4000 \
         jekyll/jekyll:3.8.5 \
         bundle install
 
     docker run --rm -it \
         --volume "$PWD:/srv/jekyll" \
         --volume "$PWD/bundle:/usr/local/bundle" \
-        --publish 4000:4000 \
         jekyll/jekyll:3.8.5 \
         bundle update
 
