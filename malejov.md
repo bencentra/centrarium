@@ -2,6 +2,7 @@
 layout: page
 title: Malejov...
 permalink: /malejov/
+footer_nav: true
 ---
 
 Ještě ve středověku se na místě dnešní obory Hvězda nacházel les nazývaný Malejov. Roku 993 jej kníže Boleslav II. daroval nově založenému Břevnovskému klášteru. Nejpozději od poloviny 14. století se v klášteře konaly slavnosti sv. Markéty a světská část oslav se konala právě v lese Malejov.

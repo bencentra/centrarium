@@ -3,6 +3,7 @@ layout: page
 title: "Aktuality"
 permalink: /posts/
 main_nav: true
+footer_nav: true
 ---
 
 {% for category in site.categories %}
