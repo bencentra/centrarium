@@ -115,6 +115,7 @@ pre code.hljs {
 */
 .navigation {
 	box-shadow: 0 2px $highlight-color;
+	font-weight: bold;
 	padding: 0 1em;
 	margin: 0;
 	// Remove this to make header scrollable again
@@ -379,7 +380,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: $highlight-color;
+	background-color: $footer-color;
 	color: $white;
 	a {
 	  color: $link-color;
