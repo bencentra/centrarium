@@ -13,7 +13,8 @@ Kontakt
 
 - Lesní klub Malejov, z. s.
 - IČO: 08377049
+- Sídlo spolku: U Stanice 593/7, Praha 6 - Liboc, 161 00
 - Předsednictvo: Mgr. Natalie Baránková, Bc. Tereza Skalická
 - E-mail: [LKMalejov@gmail.com](mailto:LKMalejov@gmail.com)
-- Telefon: +420 739 717 431
+- Telefon: +420 739 717 431 (Mgr. Natalie Baránková)
 - Facebook: [https://www.facebook.com/LKMalejov](https://www.facebook.com/LKMalejov)
