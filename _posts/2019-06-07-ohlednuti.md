@@ -2,7 +2,6 @@
 layout: post
 title:  Ohlédnutí za uplynulým rokem
 author: Daniel Baránek
-date:   2019-06-07 23:55:46 -0100
 tags:   ohlednutí
 cover:  /assets/article_images/hromada_sterku.jpg
 ---

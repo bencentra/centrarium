@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Máte chuť nás podpořit?
-author: Daniel Baránek
-date:   2020-02-26 22:14:46 -0100
+author: Lesní klub Malejov
+tags:   hledáme
 cover:  /assets/article_images/kostel_namesti.jpg
 ---
 
