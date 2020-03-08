@@ -243,6 +243,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
   jekyll-paginate
   jekyll-sitemap
 
