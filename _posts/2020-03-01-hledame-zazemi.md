@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Hledáme nové zázemí
-author: Tereza Skalická
 tags:   hledáme
 cover:  /assets/article_images/praha_liboc_letohradek_hvezda_vecer.jpg
 ---

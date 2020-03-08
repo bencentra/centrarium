@@ -23,7 +23,7 @@ layout: default
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </section>
     <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+      <div class="post-date">{{ post.date | date: "%d.%m.%Y" }}</div>
       <div class="post-categories">
       {% if post.categories.size > 0 %}in {% for cat in post.categories %}
         {% if site.jekyll-archives %}

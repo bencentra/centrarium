@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Adventní pozdrav
-author: Lesní klub Malejov
 cover:  /assets/header_image.jpg
 ---
 

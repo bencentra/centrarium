@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Máte chuť nás podpořit?
-author: Lesní klub Malejov
 tags:   hledáme
 cover:  /assets/article_images/kostel_namesti.jpg
 ---

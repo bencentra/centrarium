@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Pilotní provoz
-author: Lesní klub Malejov
 cover:  /assets/header_image.jpg
 ---
 

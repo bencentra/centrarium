@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Hledáme posily
-author: Lesní klub Malejov
 tags:   hledáme
 cover:  /assets/header_image.jpg
 ---
