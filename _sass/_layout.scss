@@ -227,6 +227,12 @@ pre code.hljs {
 		@include outer-container;
 		padding: 1em;
 	}
+
+	.site-description {
+	    font-style: italic;
+	    padding: 3em;
+	}
+
 	/*
 	*	index.html
 	*/
