@@ -2,7 +2,6 @@
 layout: post
 title:  Ohlédnutí za uplynulým rokem
 tags:   ohlednutí
-cover:  /assets/article_images/hromada_sterku.jpg
 ---
 
 Pravidelné pondělní setkávání, návštěva u hasičů, zimní bruslení, hromada štěrku, skřítčí kutáliště.

@@ -2,7 +2,6 @@
 layout: page
 title: O nás
 permalink: /about/
-cover: /assets/article_images/zimni_brusleni.jpg
 main_nav: true
 footer_nav: true
 ---

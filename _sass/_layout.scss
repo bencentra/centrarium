@@ -90,13 +90,13 @@ pre code.hljs {
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;
-    padding-top: 7em;
-    padding-bottom: 7em;
 	&.has-cover {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
 		background-size: cover;
+		padding-top: 7em;
+		padding-bottom: 7em;
 		.title {
 			font-size: modular-scale(6);
 		}

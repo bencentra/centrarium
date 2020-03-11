@@ -2,7 +2,6 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
-cover: /assets/article_images/ornitologicka_prochazka.jpg
 main_nav: true
 footer_nav: true
 ---

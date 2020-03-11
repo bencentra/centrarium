@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Adventní pozdrav
-cover:  /assets/header_image.jpg
 ---
 
 Uprostřed adventu posíláme pozdrav z Malejova a přidáváme hudební pozdrav pro všechny, kteří si na koledy ještě rádi počkají do Vánoc.
