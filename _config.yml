@@ -6,6 +6,7 @@ plugins:
 exclude:
   - "/vendor/"
   - bundle
+  - CNAME
   - docker-compose.yaml
   - Gemfile
   - Gemfile.lock
