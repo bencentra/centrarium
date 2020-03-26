@@ -13,6 +13,7 @@ footer_nav: true
 - E-mail: [LKMalejov@gmail.com](mailto:LKMalejov@gmail.com)
 - Telefon: +420 739 717 431 (Mgr. Natalie Baránková)
 - Facebook: [https://www.facebook.com/LKMalejov](https://www.facebook.com/LKMalejov)
+- Jsme členy [Asociace lesních MŠ](https://www.lesnims.cz/lesni-klub-malejov.html).
 
 <p style="text-align: center; font-style: italic;">
 <iframe style="border:none" src="https://en.frame.mapy.cz/s/godatejugo" width="700" height="466" frameborder="0"></iframe>
