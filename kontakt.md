@@ -2,8 +2,6 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
-main_nav: true
-footer_nav: true
 ---
 
 - Lesní klub Malejov, z. s.
@@ -17,7 +15,7 @@ footer_nav: true
 
 <p style="text-align: center; font-style: italic;">
 <iframe style="border:none" src="https://en.frame.mapy.cz/s/godatejugo" width="700" height="466" frameborder="0"></iframe>
-<a href="https://en.mapy.cz/s/bunedotufu">Zázemí pro děti (zvětšit mapu)</a>
+<a href="https://en.mapy.cz/s/bunedotufu">Současné zázemí pro děti (zvětšit mapu)</a>
 </p>
 
 ![Panorama kostela](/assets/article_images/kostel.jpg)

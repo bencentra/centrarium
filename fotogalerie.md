@@ -2,8 +2,6 @@
 layout: page
 title: Fotogalerie
 permalink: /fotogalerie/
-main_nav: true
-footer_nav: true
 ---
 
 ![Zábava v listí](/assets/gallery/2019-09-05_11-59-58.jpg)

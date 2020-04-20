@@ -2,7 +2,6 @@
 layout: page
 title: Stanovy spolku
 permalink: /stanovy/
-footer_nav: true
 ---
 
 ## § 1 | Název, forma a sídlo

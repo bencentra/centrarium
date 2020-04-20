@@ -2,8 +2,6 @@
 layout: page
 title: O nás
 permalink: /about/
-main_nav: true
-footer_nav: true
 ---
 
 Jsme lesní klub, který postupně krystalizuje z přátelských setkávání rodičů a dětí v Oboře Hvězda. Jak děti rostou, roste i naše touha a odvaha vytvářet pro ně prostor, v němž by mohly navazovat první přátelství, poznávat „velký svět“ za hranicemi své vlastní rodiny, učit se nejen znát, ale i mít rád prostředí, v němž žijí.

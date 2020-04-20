@@ -1,7 +1,6 @@
-{% for page in site.pages %}
-	{% if page.title and page.footer_nav == true %}
-	<li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-	{% endif %}
-{% endfor %}
-
-<li class="nav-link"><a href="{{ "/" | prepend: site.baseurl }}">Aktuality</a>
+<li class="nav-link"><a href="{{ "/" | prepend: site.baseurl }}">Aktuality</a></li>
+<li class="nav-link"><a href="{{ "/about/" | prepend: site.baseurl }}">O nás</a></li>
+<li class="nav-link"><a href="{{ "/fotogalerie/" | prepend: site.baseurl }}">Fotogalerie</a></li>
+<li class="nav-link"><a href="{{ "/kontakt/" | prepend: site.baseurl }}">Kontakt</a></li>
+<li class="nav-link"><a href="{{ "/faq/" | prepend: site.baseurl }}">Časté otázky</a></li>
+<li class="nav-link"><a href="{{ "/stanovy/" | prepend: site.baseurl }}">Stanovy spolku</a></li>
