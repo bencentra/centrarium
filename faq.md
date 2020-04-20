@@ -46,12 +46,7 @@ Na budování a zvelebování zázemí se snažíme získat finance z grantů a 
 
 ### Jaká je provozní doba klubu?
 
-Klub bude ve školním 2020/2021 fungovat čtyři dny v týdnu - od pondělí do čtvrtka od 9 do 16 hodin. Nabízíme čtyřdenní a dvoudenní docházku. Pátek bude vyhrazen pro komunitní setkávání dětí a rodičů.
-
-
-### Jaká je výše měsíčních příspěvků?
-
-Cena za čtyřdenní docházku nepřesáhne 6 600 Kč měsíčně. Je třeba také počítat s příspěvkem do investičního fondu, který činí 1000 Kč ročně.
+Klub bude ve školním 2020/2021 fungovat čtyři dny v týdnu - od pondělí do čtvrtka od 8 do 16 hodin. Nabízíme čtyřdenní a dvoudenní docházku. Pátek bude vyhrazen pro komunitní setkávání dětí a rodičů.
 
 
 ### Moje dítě nemá zkušenost s pobytem v kolektivu beze mne. Co s tím?
