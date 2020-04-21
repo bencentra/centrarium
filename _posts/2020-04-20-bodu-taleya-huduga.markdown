@@ -3,7 +3,7 @@ layout: post
 title: "ಬೋಡು ತಲೆಯ ಹುಡುಗ"
 date: 2020-04-20
 author: Chethan
-categories: Story
+categories: Experience
 tags:	Acchakannada Kannada Story Kathe life jeevana reality nija jeevana Karnataka Travel Trek Hiking Aarohana
 cover: "assets/bodu-taleya-huduga-acchakannada.jpg"
 description: ಕೊಲ್ಲೂರಿನ ಕಡೆಗೆ ಹೊರಟಿದ್ದ ಆ ಗಾಡಿ, ರಿಪ್ಪನ್ ಪೇಟೆಯ ಮೂಲಕ, ಹೊಸನಗರ ತಲುಪಿ, ನಗರ, ನಿಟ್ಟೂರಿನ ಮೇಲೆ ಕೊಡಚಾದ್ರಿಯಲ್ಲಿ ನಮ್ಮನ್ನ ಇಳಿಸಿ ಮುಂದಕ್ಕೆ ಹೋಗಬೇಕಿತ್ತು.
