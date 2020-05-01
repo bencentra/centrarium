@@ -12,7 +12,7 @@ We provide an avenue for you to showcase your best writeups of whatsoever genres
 To publish with us, please get in touch using the form below or mailing hello@writershub.com.ng
 
 Thanks!
-
+<fieldset>
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
@@ -27,6 +27,7 @@ Thanks!
     <button type="submit">Send</button>
   </p>
 </form>
+</fieldset>
 
 
 [centrarium]: https://github.com/bencentra/centrarium
