@@ -12,7 +12,7 @@ exclude:
 title: Writers hub
 subtitle: "Showcasing your best writings!"
 email: hello@writershub.com.ng
-name: Ben Centra
+name: Olowoyo Oluwaloseyi
 description: >
   Let your voice be heard.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: Oluwaloseyi
+    url: https://twitter.com/loh_sheyi
     desc: Follow me on Twitter
     share: true
 
