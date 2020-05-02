@@ -102,7 +102,7 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
@@ -120,7 +120,7 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: "thewriters__hub"
+    username: "The writers hub"
     url: "https://www.instagram.com/thewriters__hub/"
     desc: Follow me on Instagram
     share: true
