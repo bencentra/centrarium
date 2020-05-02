@@ -5,7 +5,7 @@ date:   2020-05-01T19:52:52-05:00
 author: Olowoyo Oluwaloseyi
 categories: inspiration
 tags:	inspiration welcome
-#cover:  "/assets/instacode.png"
+cover:  "/assets/header2.jpg"
 ---
 
 
