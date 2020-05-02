@@ -3,8 +3,8 @@ layout: post
 title:  "The importance of time!"
 date:   2020-05-01T19:52:52-05:00
 author: Olowoyo Oluwaloseyi
-categories: inspiration
-tags:	inspiration welcome
+categories: education
+tags:	education welcome
 cover:  "/assets/header2.jpg"
 ---
 
