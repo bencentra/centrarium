@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Writers hub
-subtitle: "Showcasing your best writings!"
+title: "The writers hub"
+subtitle: "A melting pot for writers"
 email: hello@thewritershub.com.ng
 name: Olowoyo Oluwaloseyi
 description: >
