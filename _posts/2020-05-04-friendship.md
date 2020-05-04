@@ -2,7 +2,7 @@
 layout: post
 title:  "The reality of friendship!"
 date:   2020-05-04T17:40:52-05:00
-author: Olowoyo Oluwaloseyi
+author: Idris Seun
 categories: non-fiction
 tags:	non-fiction
 cover:  "/assets/reality_header.jpeg"
