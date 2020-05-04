@@ -5,7 +5,7 @@ date:   2020-05-04T17:40:52-05:00
 author: Olowoyo Oluwaloseyi
 categories: education
 tags:	education welcome
-#cover:  "/assets/header2.jpg"
+cover:  "/assets/reality_header.jpeg"
 ---
 
 
