@@ -4,7 +4,7 @@ title:  "The pandemic"
 date:   2020-05-07T17:10:52-05:00
 author: Shoyombo Hannah
 categories: non-fiction
-tags:	non-fiction
+tags:	poem
 cover:  "/assets/pandemic_header.jpeg"
 ---
 
