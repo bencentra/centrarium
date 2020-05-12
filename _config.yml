@@ -11,10 +11,10 @@ exclude:
 # Site settings
 title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+email: yolanda9421@gmail.com
+name: Robin Liu
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  "Come up higher, then shalt thou have glory."
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -79,13 +79,13 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url: https://twitter.com/halofit5
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: yolanda9421
     url: ""
     desc: Friend me on Facebook
     share: true
