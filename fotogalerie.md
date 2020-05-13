@@ -24,7 +24,7 @@ permalink: /fotogalerie/
 
 ![Dřevěná cesta](/assets/gallery/2019-11-13_10-08-24.jpg)
 
-![Hrátky v kaluži za deště](/assets/gallery/2019-11-13_11-27-47.jpg)
+![Hrátky v kaluži](/assets/gallery/2019-11-13_11-27-47.jpg)
 
 ![Zastávka u rybníka Terezka](/assets/gallery/2019-11-14_10-04-03.jpg)
 

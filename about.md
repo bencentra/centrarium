@@ -38,9 +38,7 @@ Ještě ve středověku se na místě dnešní obory Hvězda nacházel les nazý
 
 Později les odkoupil od benediktinů král Ferdinand I., aby zde roku 1534 vybudoval oboru. Roku 1555 Ferdinand Tyrolský položil základní kámen letohrádku Hvězda, po němž se pak obora začala nazývat.
 
-![Letohrádek hvězda](/assets/article_images/hvezda_letohradek.jpg)
-
-*Obora s letohrádkem Hvězda na konci 19. století*
+![Obora s letohrádkem Hvězda na konci 19. století](/assets/article_images/hvezda_letohradek.jpg)
 
 Název našeho lesního klubu odkazuje na původní les, ale zároveň logo odkazuje i na letohrádek Hvězda v podobě korun stromů. Nepřicházíme do pozůstatků lesa proto, abychom jej kultivovali a obdělávali, ale abychom byli sami kultivováni a vzděláváni pobytem v přírodě. Přitom ovšem nechceme nostalgicky a naivně usilovat o návrat k divoké přírodě, ale spíše se učit žít s ní v rovnováze na místě, kde můžeme čerpat z tradice dlouhé tři čtvrtě tisíciletí.
 
