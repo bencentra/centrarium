@@ -17,6 +17,8 @@ Dětství jsem trávila v lese u rybníka, kde mě taťka učil rybařit a pozn�
 
 Ahoj, jmenuju se Eva, to jméno prý znamená živa a s tímto živem v sobě se neustále vyrovnávám. Skrze různé cesty přes výuku v hudebce, výchovu synů a dcery, asistování v základní škole, obchodování se zelenými potravinami, které mám stále ráda, mě to přivedlo až do lesní školky, kterou jsem si ze srdce přála pro svoje čtyři děti. Miluju vytváření hudby jakýmkoliv způsobem a pozorování jejích blahodárných relaxačních účinků. Ale nejbližší je mi hudba skrze příčnou flétnu, hru jsem studovala na Pražské konzervatoři a AMU, pak skrze kytaru i zpěv. Miluju svobodu. Svobodu poznávání nejvíc. A tu bych chtěla dopřát při svém průvodcování dětem v lesní školce Malejov.
 
+![Eva Svitáková](/assets/tym/eva.jpg)
+
 
 ### Zuzana Herzingerová, průvodkyně
 
