@@ -39,7 +39,7 @@ public class MyFrame extends JFrame {
 
 ###  Capture
 
-<a href="Choi-kwang-hyun.github.io/assets/gui_result11.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
+<a href="Choi-kwang-hyun.github.io/assets/gui_result11.jpg" >
   <img src="Choi-kwang-hyun.github.io/assets/gui_result11.jpg"  title="Swing Frame">
 </a>
 
