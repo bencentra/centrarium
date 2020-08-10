@@ -40,5 +40,4 @@ public class MyFrame extends JFrame {
 ###  Capture
 
 
-  <img src="Choi-kwang-hyun.github.io/assets/gui_result.PNG"  title="Swing Frame">
-</a>
+  <img src="Choi-kwang-hyun.github.io/assets/gui_result11.jpg"  title="Swing Frame">
