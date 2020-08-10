@@ -38,3 +38,7 @@ public class MyFrame extends JFrame {
 감사합니다.
 
 ###  Capture
+
+
+  <img src="Choi-kwang-hyun.github.io/assets/gui_result.PNG"  title="Swing Frame">
+</a>
