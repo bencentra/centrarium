@@ -54,14 +54,14 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
+  - cat: Jekyll
     desc: "Posts describing Jekyll setup techniques."
 
   - cat: Exercise
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: "Just exercise everything."
 
   - cat: Project
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: "Testing page with small project."
 
 # Social icons and sharing options
 #
