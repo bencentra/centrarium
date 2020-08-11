@@ -7,6 +7,14 @@ plugins:
 
 exclude:
   - "/vendor/"
+  - "posts.html"
+  - Gemfile
+  - Gemfile.lock
+  - README
+  - deploy
+  - LICENSE.md
+  - circle.yml
+
 
 # Site settings
 title: Choi's Blog
