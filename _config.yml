@@ -62,13 +62,13 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
+  - cat: Jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: exercise
+  - cat: Exercise
     desc: "Just exercise everything."
 
-  - cat: project
+  - cat: Project
     desc: "Testing page with small project."
 
 # Social icons and sharing options
