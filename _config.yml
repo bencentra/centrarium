@@ -18,7 +18,7 @@ description: >
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
@@ -54,13 +54,13 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Jekyll
+  - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
-  - cat: Exercise
+  - cat: exercise
     desc: "Just exercise everything."
 
-  - cat: Project
+  - cat: project
     desc: "Testing page with small project."
 
 # Social icons and sharing options
