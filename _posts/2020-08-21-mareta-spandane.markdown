@@ -5,7 +5,7 @@ date: 2020-08-21
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana sad reality stuck nomovement
-cover: "assets/mareta-spandane-acchakannada.jpg"
+cover: "assets/mareta-spandane.jpg"
 description: ಹೇಗೆ ತಾನೇ ಸಾಗಬೇಕು ಇನ್ನು, ಎಲ್ಲವನು ಕಳೆದುಕೊಂಡ ಬದುಕು? ಕೈಯ್ಯ ಚಾಚಿ ಬೇಡಿದರೂನು, ಸಿಗದು ಈಗ ಒಲವ ಸರಕು.
 ---
 
