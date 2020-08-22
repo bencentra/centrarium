@@ -44,6 +44,13 @@ Rodič dítěte, které navštěvuje klub, se stane členem našeho spolku a pla
 Na budování a zvelebování zázemí se snažíme získat finance z grantů a darů. 
 
 
+
+
+### Jaká je výše měsíčních příspěvků?
+
+Cena za dvoudenní docházku činí 3500 Kč a za čtyřdenní 6 800 Kč.
+
+
 ### Jaká je provozní doba klubu?
 
 Klub bude ve školním 2020/2021 fungovat čtyři dny v týdnu - od pondělí do čtvrtka od 8 do 16 hodin. Nabízíme čtyřdenní a dvoudenní docházku. Pátek bude vyhrazen pro komunitní setkávání dětí a rodičů.
