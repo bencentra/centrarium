@@ -53,4 +53,6 @@ description:  ಜೀವನದಲ್ಲಿ ಮೊದಲೆ ಲಂಗು ಲಗಾ
 
 <p align ="justify"> ಅದೇ ದಿನವೇ ನಿಶ್ಚಿತಾರ್ಥವು ಸಾಧಾರಣವಾಗಿ ನಡೆದೇ ಬಿಡ್ತು. ಈಗ ಆ ದಿನವನ್ನ ನೆನೆದ್ರೆ, ನಮ್ಮ ಜೀವನದ ಜಂಟಿ ಹುಚ್ಚಾಟಗಳ ಉತ್ಸವಕ್ಕೆ, ಚಾಲನೆ ದೊರಕಿದಂತಿದೆ. </p>
 
+<p align ="center"> <a href="https://acchakannada.com/story/2020/09/03/kruthi-nannavalu-2.html">ಭಾಗ ಎರೆಡು</a> </p>
+
 <p align ="center"> - ಚೇತನ್</p>
