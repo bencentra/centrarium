@@ -16,6 +16,13 @@ layout: default
     <p class="site-description">{{ site.description }}</p>
     <hr>
 
+    <style>
+        .donio { width: 100%; height: 520px; border: 2px solid silver; padding: 1em; }
+        .donio:hover { border: 2px solid grey; }
+    </style>
+    <iframe class="donio" src="https://www.donio.cz/widget/527" ></iframe>
+    <hr>
+
 <ul class="post-list">
   {% for post in paginator.posts %}
   <li>
