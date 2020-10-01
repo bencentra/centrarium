@@ -44,7 +44,7 @@ Spolek je dobrovolným, neziskovým, nevládním svazkem fyzických osob, který
 2. Členové spolku se rozlišují:
     1. rodinný člen je osoba, která je zákonným zástupcem dítěte, které se účastní aktivit pořádaných spolkem,
     2. podporující člen je osoba, která se ztotožňuje s cíli a činností spolku.
-3. Řádné a podporující členství vzniká dnem, kdy rada spolku rozhodne o přijetí žadatele na základě jeho písemné přihlášky. Přihláška musí obsahovat jméno a příjmení žadatele, adresu trvalého bydliště, případně také adresu pro doručování písemností, dále přihláška musí obsahovat datum narození, telefonické spojení, e- mailovou adresu a vlastnoruční podpis. Rada spolku o přijetí žadatele rozhoduje na své nejbližší schůzi po dni podání přihlášky.
+3. Řádné a podporující členství vzniká dnem, kdy rada spolku rozhodne o přijetí žadatele na základě jeho písemné přihlášky. Přihláška musí obsahovat jméno a příjmení žadatele, adresu trvalého bydliště, případně také adresu pro doručování písemností, dále přihláška musí obsahovat datum narození, telefonické spojení, e-mailovou adresu a vlastnoruční podpis. Rada spolku o přijetí žadatele rozhoduje na své nejbližší schůzi po dni podání přihlášky.
 4. Spolek vede neveřejný seznam členů, za jehož vedení odpovídá předsednictvo spolku. Seznam je neveřejný a je přístupný pouze členům rady spolku.
 5. Osobní údaje členů v rozsahu uvedeném v odst. 3 se uchovávají po dobu tří let od skončení členství, pokud bývalý člen výslovně nepožádá o okamžitý výmaz. Při výmazu se nicméně ponechávají osobní údaje v rozsahu jméno, příjmení a datum narození; tyto údaje se archivují za účelem případného vystavení potvrzení o členství (§ 236 odst. 2 občanského zákoníku).
 
