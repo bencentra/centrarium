@@ -1,4 +1,5 @@
 # Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
+An Amazing Theme is just a few steps away.
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
