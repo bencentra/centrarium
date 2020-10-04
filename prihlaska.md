@@ -4,6 +4,6 @@ title: Přihláška
 permalink: /prihlaska/
 ---
 
-Je nám líto, ale kapacita pro školní rok 2020 je už zaplněná. **Nicméně se stále můžete přihlásit na [čekací listinu](https://forms.gle/Fta3xf4JYUKvRP1q7) jako náhradníci.** Pokud by se uvolnilo nějaké místo, kontaktujeme Vás.
+Pro školní rok 2020/2021 nám **zbývá ještě jedno volné místo**. Přihlásit se můžete přes naši [čekací listinu](https://forms.gle/Fta3xf4JYUKvRP1q7), obratem se vám ozveme a domluvíme si s vámi schůzku.
 
-![Fronta...](/assets/gallery/2019-11-13_10-08-24.jpg)
+![Výprava...](/assets/gallery/2019-11-13_10-08-24.jpg)
