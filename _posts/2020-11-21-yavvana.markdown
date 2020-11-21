@@ -1,0 +1,32 @@
+---
+layout: post
+title: "ಯವ್ವನ"
+date: 2020-10-21
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana youth yavvana happiness santosha
+cover: "assets/yavvana-acchakannada.jpg"
+description: ಮನದ ಒಳಗೆ ತುಂಬಿ ಕತ್ತಲೆ, ಬೆಳಕು ಹರಿಯೆ ಎಲ್ಲ ಬೆತ್ತಲೆ!
+---
+
+<p align ="center"> ಚಿಗುರಿತೀಗ ಒಂದು ರಾಗ, <br>
+ಯವ್ವನದಲ್ಲಿ ಎಂಥ ವೇಗ, <br>
+ಅನುದಿನವೂ ಮನದಲಿ ಮೂಡಿದೆ ಈಗ, <br>
+ಯವ್ವನ ತಂದಂಥ ಹೊಸ ಆವೇಗ. </p>
+
+<p align ="center"> ಮನದ ಒಳಗೆ ತುಂಬಿ ಕತ್ತಲೆ, <br>
+ಬೆಳಕು ಹರಿಯೆ ಎಲ್ಲ ಬೆತ್ತಲೆ, <br>
+ಹರೆಯವು ಕಾತರದಿ ಬಂದ ಬೆನ್ನಲ್ಲೆ, <br>
+ಸ್ವರ್ಗ ಕೈಗೆಟಕುವುದು ಕುಂತು ಕುಂತಲ್ಲೆ. </p>
+
+<p align ="center"> ಎದ್ದು ಬಿದ್ದರೂ ಎಲ್ಲ ಸೊಗಸು, <br>
+ಹಿಡಿದರೂನೂ ತಡೆಯದ ಬಿರುಸು, <br>
+ಬೇಲಿ ಹಾರೆ ನಲಿವುದು ಈಗ, <br>
+ಅನುದಿನವೂ ನಮ್ಮ ಮನಸ್ಸು. </p>
+
+<p align ="center"> ಯವ್ವನ ಇದು ತುಂಬಾ ಚುರುಕು, <br>
+ಚೆಲ್ಲುತಿರುವುದು ನಿತ್ಯ ಬೆಳಕು, <br>
+ಕಾಮನ ಹಬ್ಬದಂತೆ ಬರುವ ವಯಸ್ಸು, <br>
+ಎಂದಿಗೂ ಹೀಗೆ ತುಂಬಿರಬೇಕು. </p>
+
+<p align ="center"> - ಆದರ್ಶ</p>
