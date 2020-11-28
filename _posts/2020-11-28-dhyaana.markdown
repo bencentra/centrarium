@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಧ್ಯಾನ"
+date: 2020-11-28
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana youth yavvana happiness santosha peace dhyaana meditation shaanti
+cover: "assets/dhyaana-acchakannada.jpg"
+description: ನಿಂತಲ್ಲೆ ನಾನು ಜಗವನ್ನ ಮರೆತು, ನನ್ನೊಳಗಿನ ನನ್ನನ್ನು ನನ್ನಲ್ಲೆ ಅರಿತು, ಆ ಘಳಿಗೆಗೆ ಮನಸ್ಸಿಗೆ ಏನೊ ಸಮಾಧಾನ.
+---
+
+<p align ="center"> ನಿಂತಲ್ಲೆ ನಾನು ಜಗವನ್ನ ಮರೆತು, <br>
+ನನ್ನೊಳಗಿನ ನನ್ನನ್ನು ನನ್ನಲ್ಲೆ ಅರಿತು, <br>
+ಆ ಘಳಿಗೆಗೆ ಮನಸ್ಸಿಗೆ ಏನೊ ಸಮಾಧಾನ, <br>
+ಉಚ್ಚೆ ಹೊಯ್ಯುವುದು ನನಗೊಂದು ದಿವ್ಯ ಧ್ಯಾನ. </p>
+
+<p align ="center"> ಪರಿಸರದ ಅರಿವಿಲ್ಲ, ಹೊತ್ತಿನ ಪರಿವಿಲ್ಲ, <br>
+ಬದುಕಿನ ತುಂಬೆಲ್ಲ ಬರಿ ಅಜ್ಞಾನ. <br>
+ಎಲ್ಲವೂ ನಶ್ವರ, ಬೇಕಿಲ್ಲ ಎಚ್ಚರ, <br>
+ಉಚ್ಚೆ ಹೊಯ್ಯುವುದೇ ನನಗೊಂದು ಪರಮಧ್ಯಾನ. </p>
+
+<p align ="center"> ಸುತ್ತೆಲ್ಲ ತುಂಬಿದೆ ಗಿಜುಗುಡುವ ಜಗವು, <br>
+ಬೇಕು ನಮಗಂತು ಏಕಾಂತದ ವರವು. <br>
+ಯಾರ ಜೊತೆಯೂ ಬೇಕಿಲ್ಲ ಎಂಬ ನಿಜದ ಮನನ, <br>
+ಉಚ್ಚೆ ಹೊಯ್ಯುವುದು ನನಗೊಂದು ನಿತ್ಯ ಧ್ಯಾನ. </p>
+
+<p align ="center"> - ಆದರ್ಶ</p>
