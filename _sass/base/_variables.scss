@@ -43,7 +43,7 @@ $bc-red: #bc0000;
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
 $action-color: #454b53;
-$highlight-color: tint($action-color, 33%);
+$highlight-color: tint(#454b53, 33%);
 
 // Border
 $base-border-color: $light-gray;
