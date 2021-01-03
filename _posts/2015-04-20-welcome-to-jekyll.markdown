@@ -28,6 +28,12 @@ You can use [highlight.js][highlight] to add syntax highlight code snippets:
 
 Use the [Liquid][liquid] `{% raw %}{% highlight <language> %}{% endraw %}` tag to add syntax highlighting to code snippets.
 
+```swift
+let exam
+```
+
+> exam
+
 For instance, this template...
 {% highlight html %}
 {% raw %}{% highlight javascript %}    
