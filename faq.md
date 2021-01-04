@@ -48,7 +48,7 @@ Na budování a zvelebování zázemí se snažíme získat finance z grantů a 
 
 ### Jaká je výše měsíčních příspěvků?
 
-Cena za dvoudenní docházku činí 3500 Kč a za čtyřdenní 6 800 Kč.
+Cena za dvoudenní docházku činí 3800 Kč a za čtyřdenní 6950 Kč.
 
 
 ### Jaká je provozní doba klubu?
