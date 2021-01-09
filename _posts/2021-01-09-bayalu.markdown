@@ -5,13 +5,13 @@ date: 2021-01-09
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana youth yavvana happiness santosha peace dhyaana meditation shaanti
-cover: "assets/"
-description: 
+cover: "assets/bayalu-acchakannada.jpeg"
+description: ನನ್ನೊಳಗಿನ ನೋವು ನಲಿವು ಉಕ್ಕಿ ಹೊರ ಬರಲು, ಆ ಹೊತ್ತಿಗೆ ಜಗದ ಮುಂದೆ ನಾನೇ ಬಯಲು.
 ---
 
 <p align ="center"> ಜಗವ ನೋಡಲು ನಾ ಹೊರಗಿಡೆ ಅಂಗಾಲು, <br>
 ಎತ್ತ ನೋಡಿದರೂ ಬರೀ ಬಯಲು. <br>
-ನನ್ನೊಳಗಿನ ನೋವು ನಲಿವು, ಉಕ್ಕಿ ಹೊರ ಬರಲು, <br>
+ನನ್ನೊಳಗಿನ ನೋವು ನಲಿವು ಉಕ್ಕಿ ಹೊರ ಬರಲು, <br>
 ಆ ಹೊತ್ತಿಗೆ ಜಗದ ಮುಂದೆ ನಾನೇ ಬಯಲು. </p>
 
  <p align ="center">ದೂರದೂರಕೆ ನೋಟ ಹರಿಸಿದೆಡೆ, <br>
