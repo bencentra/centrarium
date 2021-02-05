@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಮುಳುಗಡೆ"
+date: 2021-02-06
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana relationship friendship
+cover: "assets/mulugade-acchakannada.jpg"
+description: ನಮ್ಮ ಬಂಧನದೆ ಸಿಗದಿರೆ ನಮಗೆ ಬಿಡುಗಡೆ, ಜೀವನ ಕೈಗೆ ಸಿಗದಂಗೆ ಮುಳುಗಡೆ.
+---
+
+<p align ="center"> ಒಂದೊಂದು ಯೋಚನೆ ಒಂದೊಂದು ಕಡೆ, <br>
+ನೀನೊಂದು ಕಡೆ, ನಾನೊಂದು ಕಡೆ. <br>
+ನಮ್ಮ ಬಂಧನದೆ ಸಿಗದಿರೆ ನಮಗೆ ಬಿಡುಗಡೆ, <br>
+ಜೀವನ ಕೈಗೆ ಸಿಗದಂಗೆ ಮುಳುಗಡೆ. </p>
+
+<p align ="center"> ಗಾಳಿಯು ಎಲ್ಲೊ, ದೋಣಿಯು ಎಲ್ಲೊ, <br>
+ನಿಂತಲ್ಲೆ ಜೀವನ ನಿಂತಂತಿದೆ, <br>
+ಸಾಗುವ ಅಲೆಗಳ ತಡೆದರೆ ಗೋಡೆ, <br>
+ಜೀವನ ಕೈಗೆ ಸಿಗದಂಗೆ ಮುಳುಗಡೆ. </p>
+
+<p align ="center"> ನಿತ್ಯವೂ ನೂತನ ಮೈಲಿಗಲ್ಲು, <br>
+ಹೋಲಿಕೆ ಸಿಗದು ಯಾವುದರಲ್ಲು. <br>
+ಗಾಳಿಯು ಬೆಂಕಿಯು ಸೇರಿದ ಕಡೆ, <br>
+ಅಲ್ಲಿಯೆ ನಮ್ಮ ಬಾಂಧವ್ಯದ ಮುಳುಗಡೆ. </p>
+
+<p align ="center"> - ಆದರ್ಶ</p>
