@@ -10,9 +10,7 @@ Jsme lesní klub, který postupně krystalizuje z přátelských setkávání ro
 
 Lesní klub Malejov je komunitní dětský klub nabízející předškolní výchovu a vzdělávání pro malou skupinu dětí od dvou do šesti let. Svými principy se hlásí ke konceptu vzdělávání pro trvale udržitelný rozvoj a důraz klade na výchovu v přímém kontaktu s přírodou. Ve svých hodnotách a postojích čerpá z křesťanských tradic (tematický program v období Vánoc a Velikonoc, apod.), zároveň však vědomě překračuje hranice náboženství a vyznání: nechceme se uzavírat do své sociální, náboženské, a ani jiné názorové bubliny. Naopak odlišnost našich členů vnímáme jako zdroj obohacení pro komunitu a jako pobídku k dialogu, k bytí na společné cestě.
 
-Ve školním roce 2019/2020 probíhá pilotní provoz klubu v rozsahu 2 dny (středa a čtvrtek) 9 – 15 hodin, klub navštěvuje deset dětí ve věku 2 – 5 let. V příštím školním roce 2020/2021 plánujeme plný provoz lesního klubu od pondělí do čtvrtku pro 15 dětí a dva pedagogy. 
-
-Zázemí nacházíme ve farním centru Malejov v Liboci, důraz však klademe především na výchovu v přímém kontaktu s přírodou, proto trávíme většinu společného času venku. Poznáváme oboru v různých obdobích a proměnách jejího života, víme dobře, co je to bláto, led a sníh, radujeme se z příchodu jara a pak ze stínu a chladu, o který se s námi les dělí v létě.
+Zázemí nacházíme naší komunitní zahradě, jejímž srdcem je jurta. Důraz klademe především na výchovu v přímém kontaktu s přírodou, proto trávíme většinu společného času venku. Poznáváme oboru v různých obdobích a proměnách jejího života, víme dobře, co je to bláto, led a sníh, radujeme se z příchodu jara a pak ze stínu a chladu, o který se s námi les dělí v létě.
 
 Kromě přímého kontaktu s přírodou je pro nás důležitý také osobností přístup k dítěti. Každý člen naší komunity, dítě i dospělý, je naprosto jedinečný: má jinou povahu, temperament, jiné kořeny. Někdy je těžké spolu vyjít, zároveň však právě skrze poznávání sebe a druhých rosteme, skrze vytyčování vlastních hranic a zároveň překračování svých individuálních potřeb zrajeme a tvoříme něco nového.
 
@@ -23,8 +21,6 @@ V průběhu dne klademe důraz na pevné body programu (ranní a odpolední kruh
 ![Ornitologická procházka](/assets/article_images/ornitologicka_prochazka.jpg)
 
 Charakter naší komunity ovlivňuje také prostor, v němž se scházíme: kolem lesa stojí zeď, která jej chrání a odděluje od ruchu města, zároveň však do obory vede dostatek cest, kudy můžete vejít. Taková je i naše komunita, jsme dostatečně malá “smečka”, která poskytuje nám i dětem bezpečný prostor pro vytváření přátelství, zároveň však, pokud budete chtít a najdete k nám cestu, můžete vejít některou z bran a přidat se.
-
-Do skupiny lesního klubu ještě můžeme na rok 2019/2020 přijmout dva až tři kamarády ve věku 2 až 7 let.
 
 Zachováme i komunitní setkávání rodičů s menšími (i úplně nejmenšími) dětmi, která jsou otevřená všem zájemcům.
 
