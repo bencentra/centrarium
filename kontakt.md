@@ -17,3 +17,5 @@ permalink: /kontakt/
 <iframe style="border:none" src="https://en.frame.mapy.cz/s/meculadufe" width="700" height="466" frameborder="0"></iframe>
 <a href="https://en.mapy.cz/s/meculadufe">Současné zázemí pro děti (zvětšit mapu)</a>
 </p>
+
+![Jurta](/assets/jurta.jpg)
