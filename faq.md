@@ -28,6 +28,13 @@ Na pozemku roste mnoho stromů a keřů: vzrostlé duby, javor, jasany, jabloně
 Dbáme na to, abychom v provozu lesního klubu vytvořili prostor pro srozumitelný denní řád. Mnohé činnosti (ranní kruh, odchod do obory, jídlo, spánek, rozloučení před odchodem domů) máme spojené s rituály, které řídí pedagog. Děti je možné do klubu přivést mezi 8–9 hodinou. V tento čas, než se všichni sejdeme, je prostor pro jednoduché vyrábění, malování nebo práci se dřevem. V 9.05 se všichni v ranním kruhu přivítáme, zpíváme písničky, hrajeme na hudební nástroje, říkáme básničky a hrajeme krátké pohybové hry. Poté kolem 9.30 vyrážíme do obory, máme tu několik prochozených cestiček a několik “svých míst”, kde můžeme pozorovat koloběh přírody. V oboře kolem desáté hodiny svačíme. V lese se se snažíme dětem dopřát prostor pro volnou hru, kterou považujeme za velký poklad v životě předškolních dětí. Na oběd se vracíme do jurty. Kolem 12.30 je možné vyzvednout děti, které v Malejově netráví celý den. Mladší děti si jdou po obědě odpočinout a spát, starší děti se věnují klidové činnosti (čtení, předškolní aktivity, tvoření). Ve 14.45 se všichni scházíme v závěrečném kruhu, kde si sdělujeme dojmy z prožitého dne a kde se loučíme. Rodiče si děti vyzvedávají mezi 15. až 16. hodinou, najdou nás u jurty, kde si hrajeme anebo zahradničíme. 
 
 
+### Co bude moje dítě celý den jíst?
+
+Děti si nosí vlastní jídlo z domova. Svačinu a pití mají uložené na cestách v batůžku, teplý oběd v termosce si nechávají ráno v jurtě. S každým jídlem si tak vybalí kousek domova a zároveň mohou ochutnat, co dobrého mají ostatní kamarádi.
+
+Nicméně stravování se každý rok probíráme s rodiči znovu, a pokud si většina bude přát obědy dovážet, zařídíme to.
+
+
 ### Píšete, že čerpáte z křesťanské spirituality, co konkrétně to znamená? Jste křesťanská školka?
 
 Začátek naší komunity je spojený s katolickou farností sv. Fabiána a Šebastiána v Liboci, nejdříve se ve Hvězdě začaly scházet maminky s dětmi, které se znaly z kostela. Postupem času se k nám přidali další kamarádi, známí a sousedé. Považujeme za velmi důležité, že je naše komunita různorodá a otevřená různým životním zkušenostem.
