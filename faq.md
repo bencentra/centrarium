@@ -48,12 +48,14 @@ Před jídlem s dětmi zpíváme děkovnou písničku, vyprávíme si vánoční
 
 Rodič dítěte, které navštěvuje klub, se stane členem našeho spolku a platí členské příspěvky. Provoz klubu je hrazen výhradně z členských příspěvků.
 
-Na budování a zvelebování zázemí získáváme finance z grantů a darů.
+Na budování a zvelebování zázemí získáváme finance zejména z grantů a darů.
 
 
 ### Jaká je výše měsíčních příspěvků?
 
 Cena za dvoudenní docházku činí 3800 Kč a za čtyřdenní 6950 Kč.
+
+Cena pro školní rok 2021/2022 činí 4000 Kč za dvoudenní docházku s možností náhrad a 7600 Kč za čtyřdenní docházku.
 
 
 ### Jaká je provozní doba klubu?
