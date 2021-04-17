@@ -18,5 +18,4 @@ Přihlašování do klubu proto letos probíhá takto:
 3) Přihlašte se na konzultaci přes aplikaci [calendly](https://calendly.com/lkmalejov/konzultace-pro-nove-rodice?month=2021-05). Schůzky budou probíhat na začátku května dle aktuálních vládních nařízení buď individuálně osobně anebo online. Pokud by se vám termín nehodil, napište mi a domluvíme se invididuálně.
 
 
-
 ![Výprava...](/assets/gallery/2019-11-13_10-08-24.jpg)
