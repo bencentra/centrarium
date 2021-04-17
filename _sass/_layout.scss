@@ -146,7 +146,7 @@ pre code.hljs {
   }
   // Nav menu
   .navigation-wrapper {
-  	@include outer-container(49em);
+  	@include outer-container(50em);
     @include clearfix;
     position: relative;
   }
@@ -206,7 +206,7 @@ pre code.hljs {
   	a {
 	    display: inline-block;
 	    @include media ($tablet) {
-	      padding-right: 1.5em;
+	      padding-right: 0.7em;
 	    }
 	  }
 	  &:last-child a {
@@ -226,6 +226,7 @@ pre code.hljs {
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
+		min-height: 30em;
 	}
 
 	.site-description {
