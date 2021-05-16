@@ -5,7 +5,7 @@ date: 2021-05-16
 author: Adarsha
 categories: Discussion
 tags:	AcchaKannada Kannada Life Karnataka India paradox nature science physics research analogy
-cover: "assets/ParadoxInNature.jpg"
+cover: "assets/nature-paradox.jpg"
 description: ಒಂದು ರೀತಿಯಲ್ಲಿ ನಮ್ಮನ್ನ ಹುಟ್ಟಿಸಿದ ಪ್ರಕೃತಿಯು ತನ್ನ ಮೂಲಕವೇ ನಮ್ಮ ಅಂತ್ಯಕ್ಕೂ ದಾರಿಮಾಡಿಕೊಟ್ಟಿದೆ.
 ---
 
