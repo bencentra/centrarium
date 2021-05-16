@@ -2,7 +2,7 @@
 
 layout: post
 title: "ಪ್ರಕೃತಿಯಲ್ಲಿನ ವಿರೋಧಾಭಾಸ"
-date: 2020-05-16
+date: 2021-05-16
 author: Adarsha
 categories: Story
 tags: AcchaKannada Kannada Life Karnataka India paradox nature science physics research analogy
