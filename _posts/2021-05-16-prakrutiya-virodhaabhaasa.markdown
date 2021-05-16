@@ -23,4 +23,4 @@ description: “ಒಂದು ರೀತಿಯಲ್ಲಿ ನಮ್ಮನ್ನ �
 <p align = "center">  The Paradox in Nature. </p><br>
 <p align = "center"> - ಆದರ್ಶ </p>
 
-<a href="https://observer.com/2020/10/spacex-starlink-satellite-collision-risk-space-debris/"> ಹೆಚ್ಚಿನ ಓದಿಗೆ </a>
+<a href="https://observer.com/2020/10/spacex-starlink-satellite-collision-risk-space-debris/"> Additonal Reading </a>
