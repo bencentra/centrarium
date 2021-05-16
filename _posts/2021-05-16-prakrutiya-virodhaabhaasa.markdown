@@ -22,5 +22,3 @@ description: “ಒಂದು ರೀತಿಯಲ್ಲಿ ನಮ್ಮನ್ನ �
 <p align = "center"> ಪ್ರಕೃತಿಯಿಂದಲೇ ಹುಟ್ಟು, ಪ್ರಕೃತಿಯಿಂದಲೇ ಸಾವೂ ಸಹ. ಇದು ಪ್ರಕೃತಿಯಲ್ಲಿನ ವಿರೋಧಾಭಾಸ. </p>
 <p align = "center">  The Paradox in Nature. </p><br>
 <p align = "center"> - ಆದರ್ಶ </p>
-
-<a href="https://observer.com/2020/10/spacex-starlink-satellite-collision-risk-space-debris/"> Additonal Reading </a>
