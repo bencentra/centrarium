@@ -24,4 +24,3 @@ description: “ಒಂದು ರೀತಿಯಲ್ಲಿ ನಮ್ಮನ್ನ �
 <p align = "center"> - ಆದರ್ಶ </p>
 
 [ಹೆಚ್ಚಿನ ಓದಿಗೆ](https://observer.com/2020/10/spacex-starlink-satellite-collision-risk-space-debris/)
-
