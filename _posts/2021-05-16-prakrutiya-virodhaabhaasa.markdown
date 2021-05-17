@@ -25,4 +25,4 @@ description: ಒಂದು ರೀತಿಯಲ್ಲಿ ನಮ್ಮನ್ನ ಹ�
 
 ಹೆಚ್ಚಿನ ಓದಿಗೆ <br>
 <a  style="color:blue;" target="_blank" rel="noopener noreferrer" href="https://observer.com/2020/10/spacex-starlink-satellite-collision-risk-space-debris/"> ೧. ಸ್ಪೇಸ್ ಜಂಕ್ </a> <br>
-<a  style="color:blue;" target="_blank" rel="noopener noreferrer" href="http://totalkannada.com/bhinna-bimba--29268?ver=4276801261">೨. ಭಿನ್ನ ಬಿಂಬ </a>
+<a  style="color:blue;" target="_blank" rel="noopener noreferrer" href="http://totalkannada.com/bhinna-bimba--29268?ver=4276801261">೨. ಸಾವು: ಜೀವವಿಕಾಸದ ದೃಷ್ಟಿಯಲ್ಲಿ - ಭಿನ್ನ ಬಿಂಬ </a>
