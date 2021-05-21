@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ಮಾನವನಾಗಬೇಡ"
-date: 2021-02-21
+date: 2021-05-21
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana maanava dharma humanity samskruti culture
