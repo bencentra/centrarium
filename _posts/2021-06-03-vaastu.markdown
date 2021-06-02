@@ -1,0 +1,26 @@
+---
+layout: post
+title: "ವಾಸ್ತು"
+date: 2021-06-03
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana philosophy heart manassu
+cover: "assets/vaastu-acchakannada.jpeg"
+description: ಒಳ್ಳೆದು ಕೆಟ್ಟದ್ದು ಏನೆ ಬರಲಿ, ಒಪ್ಪಿಕೊಂಡಿತ್ತು ನನ್ನ ಮನದ ವಾಸ್ತು.
+---
+<p align ="center"> ಮನದ ಮೂಲೆಯಲ್ಲಿ ನಿಂತು, <br>
+ಎಲ್ಲದಕ್ಕೂ ಅಂತು ಅಸ್ತು, <br>
+ಒಳ್ಳೆದು ಕೆಟ್ಟದ್ದು ಏನೆ ಬರಲಿ, <br>
+ಒಪ್ಪಿಕೊಂಡಿತ್ತು ನನ್ನ ಮನದ ವಾಸ್ತು. </p>
+
+<p align ="center"> ಏರಿದಂತೆ ಎದೆಯ ಬಡಿತ, <br>
+ಏರುಪೇರಾಯ್ತು ಕಾಲ ಕುಣಿತ. <br>
+ನೂರು ನಡುಕ ಒಳಕ್ಕೆ ಬಂತು, <br>
+ಎಲ್ಲ ಒಳ್ಳೆದಕ್ಕಂತು, ನನ್ನ ಮನದ ವಾಸ್ತು. </p>
+
+<p align ="center"> ನೂರು ಜನರ ಒಲುಮೆ ಇರಲಿ, <br>
+ನೂರು ಜನ ಬೈದು ಬಿಡಲಿ, <br>
+ಎಲ್ಲವೂ ಒಂದೆ ಯಾವತ್ತು. <br>
+ನಿನ್ನ ಪಾಡಿಗೆ ನೀನಿರು, ಅನ್ನೋದು ಈ ಮನದ ವಾಸ್ತು. </p>
+
+<p align ="center"> - ಆದರ್ಶ</p>
