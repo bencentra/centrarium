@@ -86,27 +86,6 @@ social:
     desc: The Official Page of AcchaKannada Blog.
     share: true
 
-  #- name: GitHub
-   # icon: github
-    #username: bencentra
-    #3url: https://github.com/bencentra
-    #desc: Fork me on GitHub
-    #share: false
-
-  #- name: LinkedIn
-    #icon: linkedin
-    #username: Ben Centra
-    #3url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    #desc: Connect with me on LinkedIn
-    #share: true
-
-  - name: Google+
-    icon: google-plus
-    username: 
-    url: 
-    desc: Share on Google Plus
-    share: true
-
   - name: YouTube
     icon: youtube
     username: 
@@ -121,13 +100,6 @@ social:
     desc: Follow me on Instagram
     share: false
 
-  - name: Pinterest
-    icon: pinterest
-    username: 
-    url: 
-    desc: Follow me on Pinterest
-    share: false
-
   - name: SoundCloud
     icon: soundcloud
     username: 
@@ -135,40 +107,7 @@ social:
     desc: Follow me on SoundCloud
     share: false
 
-  - name: Tumblr
-    icon: tumblr
-    username: 
-    url: 
-    desc: Follow me on Tumblr
-    share: false
 
-  - name: Steam
-    icon: steam
-    username: 
-    url: 
-    desc: Friend me on Steam
-    share: false
-
-  - name: Dribbble
-    icon: dribbble
-    username: 
-    url: 
-    desc: Follow me on Dribble
-    share: false
-
-  - name: Vimeo
-    icon: vimeo-square
-    username: 
-    url: 
-    desc: Follow me on Vimeo
-    share: false
-
-  - name: Vine
-    icon: vine
-    username: 
-    url: 
-    desc: Follow me on Vine
-    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
