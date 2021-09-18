@@ -5,7 +5,7 @@ date: 2021-09-18
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana philosophy heart manassu
-cover: "assets/meduvaagali-acchakannada.jpg.jpg"
+cover: "assets/meduvaagali-acchakannada.jpg"
 description: ದೂರದೂರಕೆ ಪಯಣವೇಕೆ, ಮನದೊಳಕೆ ಬಾ ಮರಳಿ.
 ---
 
