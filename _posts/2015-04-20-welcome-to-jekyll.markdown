@@ -97,7 +97,9 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
 <script>
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt Expat
 window.tooltips = window.tooltips || []
 window.tooltips.push(['#someId', { content: "This is the text of the tooltip!" }])
 window.tooltips.push(['#someOtherId', { content: "{% include tooltips/example.html %}", placement: "right" }])
+// @license-end
 </script>
