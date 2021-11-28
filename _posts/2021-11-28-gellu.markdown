@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಗೆಲ್ಲು"
+date: 2021-11-28
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana philosophy heart manassu gellu win
+cover: "assets/gellu-acchakannada.jpg"
+description: ನೂರು ಕಡೆ ಸೋತರೂ ಮತ್ತೊಂದು ಕಡೆ ನಿಲ್ಲು, ಸಮವಾಗಿ ಇರುವ ಹಾದಿ ಸಿಗದು ನಿನಗೆಲ್ಲು.
+---
+
+<p align ="center"> ಒಂದು ಕಡೆ ಸೋತರೂ ಇನ್ನೊಂದು ಕಡೆ ಗೆಲ್ಲು, <br>
+ಒಂದೇ ಹಾದಿ ಇರುವ ಊರು, ಸಿಗದು ಇಲ್ಲಿ ಎಲ್ಲು. <br>
+ಎದುರು ಬರಲಿ ಎಡಬಿಡದೆ ಸಾವಿರಾರು ಕಲ್ಲು, <br>
+ಅವುಗಳ ಮೇಲೆ ಬೀಳದೆ, ಧೃಡವಾಗಿ ನೀನು ನಿಲ್ಲು. </p>
+
+<p align ="center"> ನಿತ್ಯವೂ ನೂತನ ನೋವು ಬರಲಿ, <br>
+ಅದುವೇ ಬದುಕಿನ ಕೊನೆಯೇ ಇರಲಿ, <br>
+ಕಡೆಯ ಯತ್ನವ ನಿಲ್ಲಿಸದೇ ಕೈಚೆಲ್ಲಿ, <br>
+ಅಲ್ಲೆ ನಿಲಬೇಕಿದೆ, ಧೃಡವಾಗಿ ನಿನ್ನಲ್ಲಿ. </p>
+
+<p align ="center"> ನೂರು ಕಡೆ ಸೋತರೂ ಮತ್ತೊಂದು ಕಡೆ ನಿಲ್ಲು, <br>
+ಸಮವಾಗಿ ಇರುವ ಹಾದಿ ಸಿಗದು ನಿನಗೆಲ್ಲು. <br>
+ಉರಿದುಬಿಡಲಿ ಚಿಲುಮೆ ನಿನ್ನಯ ಮನದಲ್ಲಿ, <br>
+ಧೃಡವಾಗಿ ನಿಂತಿರು, ಸಮಯದ ಕೊನೆಯಲ್ಲು. </p>
+
+<p align ="center"> - ಆದರ್ಶ</p>
