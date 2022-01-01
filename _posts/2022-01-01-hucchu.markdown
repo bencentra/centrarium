@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಹುಚ್ಚು"
+date: 2022-01-01
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana philosophy heart manassu gellu win
+cover: "assets/hucchu-acchakannada.jpg"
+description: ಒಲವು ಗೆಲ್ಲಲಿ, ಮನವು ಸೋಲಲಿ, ಬರಡು ಮನದಲ್ಲಿ ಸದಾ ಕರುಣೆವೊಂದಿಲಿ.
+---
+
+<p align ="center"> ಹೃದಯ ಇಲ್ಲಿದೆ, ಬೆಂಕಿ ಹಚ್ಚು, <br>
+ಪ್ರೀತಿಯಲ್ಲಿದೆ ಎಲ್ಲ ಹುಚ್ಚು. <br>
+ಮನದಲ್ಲಿ ಕವನ ಬಂದಂತೆ ಗೀಚು, <br>
+ಪ್ರೀತಿಲಿ ತೇಲಾಡುವ ಗೀಳೇ ಹೆಚ್ಚು. </p>
+
+<p align ="center"> ಊರು ಯಾವುದು, ಹೋಗು ಹೊರಗೆ, <br>
+ಮನವು ನಿಂತಲ್ಲಿನ ಜನರೂ ಓರೆಗೆ, <br>
+ದಿಕ್ಕು ಯಾವು ಮನದ ಒಲವಿಗೆ, <br>
+ಕನಸು ಬೀಳುವುದೆ ಕೇಳಿದ ಆ ಕಣಿಗೆ? </p>
+
+<p align ="center"> ಕಾಡು  ಇದು ಮನದ ಹುಚ್ಚು, <br>
+ತಿರುಗಿ ನೋಡದೆ ಬೆಂಕಿ ಹಚ್ಚು. <br>
+ಒಲವು ಗೆಲ್ಲಲಿ, ಮನವು ಸೋಲಲಿ, <br>
+ಬರಡು ಮನದಲ್ಲಿ ಸದಾ ಕರುಣೆತುಂಬಿರಲಿ. </p>
+
+<p align ="center"> - ಆದರ್ಶ</p>
