@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಗಬ್ಬು"
+date: 2022-01-23
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana philosophy heart manassu gellu win
+cover: "assets/gabbu-acchakannada.jpg"
+description: ಜಗವಿದು ಎಚ್ಚರದ ಭ್ರಮೆಯಲ್ಲಿ ಮುಳುಗಿ, ಉಳಿದಿಹದು ಕತ್ತಲೆಯ ಕೋಣೆಯಲ್ಲಿ ಮಲಗಿ.
+---
+
+<p align ="center"> ಜಗವಿದು ಎಚ್ಚರದ ಭ್ರಮೆಯಲ್ಲಿ ಮುಳುಗಿ, <br>
+ಉಳಿದಿಹದು ಕತ್ತಲೆಯ ಕೋಣೆಯಲ್ಲಿ ಮಲಗಿ. <br>
+ಎಲ್ಲಿಯೊ ಯಾವುದೊ ಹೊಸ ದಿನದೆಣಿಕೆಯ ಹುರುಪು, <br>
+ಇಲ್ಲಿಹುದು ಅದರ ಸುಳ್ಳಿನ ಹೊಳಪು. </p>
+
+<p align ="center"> ಬಿತ್ತರಿಸು ಲೋಕವೇ ನಿನ್ನೊಳಗಿನ ಗಾರುಡಿ, <br>
+ಬಿಗಿಹಿಡಿ ಜನ ನೋಡುವ ದಾರಿಗೆ ಕನ್ನಡಿ . <br>
+ಎಲ್ಲಿಯೊ ಯಾವುದೋ ಊರಿನ ಅಣಕು, <br>
+ಇಲ್ಲಿಹುದು ಅದರ ಸುಳ್ಳಿನ ತುಣುಕು. </p>
+
+<p align ="center"> ಜಗವಿದು ಹುಚ್ಚಿನ ಅಲೆಯಲ್ಲಿ ಮುಳುಗಿ, <br>
+ಉಳಿದಿಹದು ಹರಿದ ಬಟ್ಟೆ ತೊಟ್ಟು ತಾನಾಗಿ. <br>
+ಎಲ್ಲಿಯೊ ಯಾವುದೋ ಹೊಸ ಯುಗದ ಮಬ್ಬು, <br>
+ಇಲ್ಲಿಹುದು ಅದರ ಸುಳ್ಳಿನ ಗಬ್ಬು. </p>
+
+<p align ="center"> - ಆದರ್ಶ</p>
