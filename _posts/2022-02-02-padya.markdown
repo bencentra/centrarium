@@ -1,0 +1,28 @@
+---
+layout: post
+title: "ಪದ್ಯ"
+date: 2022-02-02
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana philosophy heart manassu kavana poem
+cover: "assets/padya-acchakannada.jpg"
+description: ನೂರು ದಾರಿ ಸವೆಸಿ ಬಂದ, ನೂರು ಸಾರಿ ಬದುಕಿ ತಂದ ಕವನ.
+---
+
+<p align = "center"> ಮನವು ಯೋಚನೆಗಳಲಿ ಮಿಂದು, <br>
+ಪದಗಳನು ತಿದ್ದಿ ತೇಯ್ದು, <br>
+ಚಂದ ಮಾಡಿ ಬರೆದಾಗಲೇನೆ, <br>
+ಸೊಗಸಾದ ಕವನವೆಂದು ಹೇಳೋದು. </p>
+
+<p align = "center"> ಒಳಗಿನದ್ದೆಲ್ಲ ಹೊರಕ್ಕೆ ಹಾಕಿ, <br>
+ಹೊರಗಿನದ್ದೆಲ್ಲ ಒಳಕ್ಕೆ ತುಂಬಿ, <br>
+ಅರ್ಥ ನೀಡಿ ಬರೆದಾಗಲೇನೆ, <br>
+ಹಿರಿದಾಗ ಕವನವೆಂದು ಹಾಡೋದು. </p>
+
+<p align = "center"> ನೂರು ದಾರಿ ಸವೆಸಿ ಬಂದ, <br>
+ನೂರು ಸಾರಿ ಬದುಕಿ ತಂದ, <br>
+ತುಂಬು ಅನುಭವ ನೀಡುವುದಕೆ, <br>
+ಜೊತೆಯಾದ ಕವನವನ್ನ ಓದೋದು. </p>
+
+
+<p align ="center"> - ಆದರ್ಶ</p>
