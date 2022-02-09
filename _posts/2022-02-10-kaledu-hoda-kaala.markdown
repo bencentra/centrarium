@@ -3,7 +3,7 @@ layout: post
 title: "ಕಾಳೆದು ಹೋದ ಕಾಲ"
 date: 2022-02-10
 author: Chethan
-categories: Story
+categories: Experience
 tags:	Acchakannada Kannada Story Kathe life jeevana Karnataka college kannadastory
 cover: "assets/kaledu-hoda-kaala-acchakannada.jpg"
 description: ಆ ಒಂದು ಪುಟ್ಟ ಪ್ರವಾಸದಲ್ಲಿ ಎಷ್ಟೆಲ್ಲ ಅಪೇಕ್ಷಿಸದ ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ತಗಲಾಕ್ಕೊಂಡಿದ್ವಿ ಅಂದ್ರೆ!
