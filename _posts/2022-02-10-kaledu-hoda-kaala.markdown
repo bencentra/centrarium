@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ಕಾಳೆದು ಹೋದ ಕಾಲ"
+title: "ಕಳೆದು ಹೋದ ಕಾಲ"
 date: 2022-02-10
 author: Chethan
 categories: Experience
