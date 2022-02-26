@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ಪದ್ಯ"
+title: "ಎದೆಯನಪ್ಪಿದ"
 date: 2022-02-26
 author: Adarsha
 categories: Poem
