@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "ದೀಪಾವಳಿ"
+title: "ಹಾಫ್ ಟಿಕೆಟ್"
 date: 2022-05-03
 author: Deepak Basrur
 categories: Story
