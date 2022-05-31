@@ -1,0 +1,28 @@
+---
+layout: post
+title: "ಅನುಭವ"
+date: 2022-05-31
+author: Adarsha
+categories: Poem
+tags:	AcchaKannada Kannada Poem kavana life India Karnataka jeevana philosophy heart manassu kavana poem
+cover: "assets/anubhava-acchakannada.jpg"
+description: ಬೀಜ ಇಟ್ಟು, ಗೊಬ್ಬರ ಹಾಕಿ, ಮಣ್ಣು ಮುಚ್ಚಿ, ನೀರ ಬಿಡಿ, ಗಿಡ ಹುಟ್ಟಿದಮೇಲೆ ಅದನ್ನ, ಅದರ ಅನುಭವಕೆ ಬಿಡಿ.
+---
+
+<p align = "center"> ಬೀಜ ಇಟ್ಟು, ಗೊಬ್ಬರ ಹಾಕಿ, <br>
+ಮಣ್ಣು ಮುಚ್ಚಿ, ನೀರ ಬಿಡಿ, <br>
+ಗಿಡ ಹುಟ್ಟಿದಮೇಲೆ ಅದನ್ನ, ಅದರ ಅನುಭವಕೆ ಬಿಡಿ. </p>
+
+<p align = "center"> ಪ್ರಾಣಿ, ಹಕ್ಕಿ, ಹುಳು, ತಿನ್ನಲಿ, <br>
+ಬೆಳೆಯದಂಗೆ ಸೊರಗಲಿ, <br>
+ಅದರ ಜೀವ ಅದರದು, ತಾನೇ ಹೋರಾಡಲು ಬಿಡಿ. </p>
+
+<p align = "center"> ಬೆಳೆದು ನಿಂತು ಹೆಮ್ಮರವಾಗಲಿ, <br>
+ನಿತ್ಯ ನೂರು ಹಣ್ಣು ಬಿಡಲಿ, <br>
+ಆದರ ಹಣೆಬರಹ ಅದರದು, ಅದರ ಅನುಭಕೆ ಬಿಡಿ. </p>
+
+<p align = "center"> ಬೆಳೆದ ಮರ ಬಾಗದು, <br>
+ಬೇಕೆಂದಾಗ ಹಣ್ಣು ಕೊಡದು, <br>
+ಕಾಲ ಬಂದಾಗ ಬರುವುದು, ಬದುಕ ಅನುಭವಿಸಲು ಬಿಡಿ. </p>
+
+<p align ="center"> - ಆದರ್ಶ </p>
