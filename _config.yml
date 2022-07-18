@@ -1,20 +1,22 @@
 # External gems
-gems:
-  # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
 
+plugins:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  
 exclude:
   - "/vendor/"
 
 # Site settings
 title: heeiny's codebook
-subtitle: "Bigdata, Machinelearning, AI"
+subtitle: "bigdata, machine learning, AI"
 email: heein55@gmail.com
-name: heeiny
+name: Heeiny Kim
 description: > 
   A simple yet classy theme for your Jekyll website or blog.
-baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
-url: "http://heeiny.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gurofinance.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
@@ -25,16 +27,16 @@ paginate_path: "/page:num/"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives: 
-   enabled: 
-     - categories
-     - tags
-   layout: 'archive'
-   permalinks:
-     category: '/category/:name/'
-     tag: '/tag/:name/'
+  enabled: 
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+ disqus_shortname: bencentra
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -79,15 +81,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: taekyoungkim
+    url: https://github.com/taekyoungkim
     desc: Fork me on GitHub
     share: false
 
-  - name: heeinyChoi
+  - name: LinkedIn
     icon: linkedin
     username: Ben Centra
-    url: https://www.linkedin.com/feed/
+    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
     share: true
 
