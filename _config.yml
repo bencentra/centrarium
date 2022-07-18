@@ -7,14 +7,14 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: heeiny's codebook
+subtitle: "Bigdata, Machinelearning, AI"
+email: heein55@gmail.com
+name: heeiny
 description: > 
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://heeiny.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
@@ -84,10 +84,10 @@ social:
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
+  - name: heeinyChoi
     icon: linkedin
     username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    url: https://www.linkedin.com/feed/
     desc: Connect with me on LinkedIn
     share: true
 
