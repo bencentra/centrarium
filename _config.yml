@@ -1,20 +1,22 @@
 # External gems
-gems:
-  # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
 
+plugins:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  
 exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: heeiny's codebook
+subtitle: "bigdata, machine learning, AI"
+email: heein55@gmail.com
+name: Heeiny Kim
 description: > 
   A simple yet classy theme for your Jekyll website or blog.
-baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gurofinance.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
 
@@ -24,17 +26,17 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
-# jekyll-archives: 
-#   enabled: 
-#     - categories
-#     - tags
-#   layout: 'archive'
-#   permalinks:
-#     category: '/category/:name/'
-#     tag: '/tag/:name/'
+jekyll-archives: 
+  enabled: 
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+ disqus_shortname: bencentra
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -79,8 +81,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: taekyoungkim
+    url: https://github.com/taekyoungkim
     desc: Fork me on GitHub
     share: false
 
