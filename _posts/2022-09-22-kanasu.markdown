@@ -1,0 +1,27 @@
+---
+layout: post
+title: "ಕನಸು"
+date: 2022-09-22
+author: Adarsha
+categories: Poem
+tags: AcchaKannada Kannada Poem Heart Life philosophy happy kavana summer besige dream kanasu
+cover: "assets/kanasu-acchakannada.jpg"
+description: ಇರುಳೆ ಹೊತ್ತಿ ಉರಿದಿದೆ ಈಗ, ತೆಗೆದಾಗ ಕನಸಿನ ಕೋಣೆಯ ಬೀಗ.
+---
+
+<p align ="center"> ಬಾಗಿಲು ಮುಚ್ಚಿ, ಕೋಣೆಯ ಹೊಕ್ಕು, <br>
+ಕನಸಿನ ದೀಪ ಹಚ್ಚಿ, ಚೆಲ್ಲಿದೆ ಬೆಳಕು. <br>
+ಇರುಳೆ ಹೊತ್ತಿ ಉರಿದಿದೆ ಈಗ, <br>
+ತೆಗೆದಾಗ ಕನಸಿನ ಕೋಣೆಯ ಬೀಗ. </p>
+
+<p align ="center"> ಕತ್ತಲೆಯಲ್ಲಿ ಕಂಗಳು ಅರಳಿ, <br>
+ದಣಿದ ಜೀವಕೆ ಹೊಸತನ ತುಂಬಿದೆ. <br>
+ನಿದ್ದೆಯಲಿ ಬದುಕಿಗೆ ಎದೆಬಡಿತ ಮರಳಿ, <br>
+ಮಣಿದ ಮನಸ್ಸಿಗೆ ಸಾನ್ತ್ವಾನ ಹೇಳಿದೆ. </p>
+
+<p align ="center"> ಎದ್ದಾಗ ಮುಂಜಾನೆ ಲೋಕವೇ ಹೊಸದು, <br>
+ಹಗಲಿಗೆ ಕನಸೇ ಅಂಕಿತ. <br>
+ನಡೆದಾಗ ಅನುದಿನವು ದಣಿವೆ ಇರದು, <br>
+ಹೆಗಲಿಗೇರಿ ನನಸಿನ ಸ್ವಾಗತ </p>
+
+<p align ="center">- ಆದರ್ಶ</p>
