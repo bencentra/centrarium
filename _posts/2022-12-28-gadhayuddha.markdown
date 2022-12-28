@@ -3,10 +3,10 @@
 layout: post
 title: "ಗಧಾಯುದ್ಧ"
 date: 2022-12-28
-author: Deepak Basrur
+author: Adarsha
 categories: Story
 tags: AcchaKannada Kannada Life Karnataka India life work jeevana story mahabharatha gadhayuddha ranna ponna janna
-cover: "assets/"
+cover: "assets/gadhayuddha.jpg"
 description: ಮಹಾಭಾರತದ ಕೊನೆ ದಿನ, ಅವತ್ತಿನ ದಿನ ಭೀಮ, ದುರ್ಯೋಧನನ ಎತ್ಲಿಲ್ಲ ಅಂದ್ರೆ ದ್ರೌಪದಿ ಮನೆ ಒಳಗ್ ಬಿಟ್ಕಳಲ್ಲ ಅಂತ ಹೇಳಿರ್ತಾಳೆ.
 
 ---
@@ -52,7 +52,7 @@ description: ಮಹಾಭಾರತದ ಕೊನೆ ದಿನ, ಅವತ್ತಿ
 
 ಅಷ್ಟೇ! ದುರ್ಯೋಧನ ಇವ ಇನ್ ಏನ್ ಹೇಳ್ತಾನ್ ಗುರು ಅಂತ ಎದ್ನೋ ಬಿದ್ನೋ  ಅಂತ ಆಚೆ ಓಡಿ ಬರ್ತಾನೆ... ಹೊರಗೆ ಗಾಬರಿಯಲ್ಲಿ ಆಕಡೆ ಈಕಡೆ ನೋಡಿ,  ಸಿಂಹಘರ್ಜನೆಯಲ್ಲಿ "ಭೀಮಾ !" ಅಂತಾನೆ. 
 ಆಗ ಭೀಮ
->"ತಡಿ ಗುರು, ನಂದು ಆಮೇಲಿಟ್ಕಳನ, ಮೊದ್ಲು ಈವಯ್ಯ ಮೋದಿ ಏನ್ ಹೇಳ್ತಾನೆ ಕೇಳನ" ಅಂತಾನೆ.
+>"ತಡಿ ಗುರು, ನಂದು ಆಮೇಲಿಟ್ಕಳನ, ಮೊದ್ಲು ಈವಯ್ಯ ಏನ್ ಹೇಳ್ತಾನೆ ಕೇಳನ" ಅಂತಾನೆ.
 
 <p align="center"> ಇದ್ರು ನಂತರ ಆಗಿದ್ದು ಇತಿಹಾಸದ ಕಥೆ. ದುರ್ಯೋಧನ ಸೋತ, ಭೀಮ ದ್ರೌಪದಿಗೆ ಕೊಟ್ಟ ಮಾತು ಉಳಿಸ್ಕೊಳ್ತಾನೆ.. </p>
 <p align="center"> ಆದರ್ಶ, ದೀಪಕ್ ಬಸ್ರೂರು </p>
