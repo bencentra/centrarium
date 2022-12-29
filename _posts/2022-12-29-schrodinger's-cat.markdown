@@ -2,7 +2,7 @@
 
 layout: post
 title: "ಶ್ರೋಡಿಂಗರ್ ನ ಬೆಕ್ಕು"
-date: 2022-12-28
+date: 2022-12-29
 author: Adarsha
 categories: Story
 tags: AcchaKannada Kannada Life Karnataka India discussion schrodingerscat, science, theory
