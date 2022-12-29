@@ -7,7 +7,7 @@ author: Adarsha
 categories: Story
 tags: AcchaKannada Kannada Life Karnataka India discussion schrodingerscat, science, theory
 cover: "assets/cat-acchakannada.jpg"
-description: ಹಾಗೆಯೇ ಜನರ ವಾಡಿಕೆಗಳು, ಯೋಚನೆಗಳು, ನಿಜ-ಸುಳ್ಳು, ಜಾಣ-ದಡ್ಡ ಎರಡೂ ಆಗಿರಬಹುದು. ನಾವು ಅವುಗಳ ಬಿಚ್ಚಿ ನೋಡುವವರೆಗೆ.
+description: ಜನರ ವಾಡಿಕೆಗಳು, ಯೋಚನೆಗಳು, ನಿಜ-ಸುಳ್ಳು, ಜಾಣ-ದಡ್ಡ ಎರಡೂ ಆಗಿರಬಹುದು. ನಾವು ಅವುಗಳ ಬಿಚ್ಚಿ ನೋಡುವವರೆಗೆ.
 
 ---
 
