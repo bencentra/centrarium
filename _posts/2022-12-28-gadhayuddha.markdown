@@ -4,7 +4,7 @@ layout: post
 title: "ಗಧಾಯುದ್ಧ"
 date: 2022-12-28
 author: Adarsha
-categories: Story
+categories: Mahabharatha
 tags: AcchaKannada Kannada Life Karnataka India life work jeevana story mahabharatha gadhayuddha ranna ponna janna
 cover: "assets/gadhayuddha.jpg"
 description: ಮಹಾಭಾರತದ ಕೊನೆ ದಿನ, ಅವತ್ತಿನ ದಿನ ಭೀಮ, ದುರ್ಯೋಧನನ ಎತ್ಲಿಲ್ಲ ಅಂದ್ರೆ ದ್ರೌಪದಿ ಮನೆ ಒಳಗ್ ಬಿಟ್ಕಳಲ್ಲ ಅಂತ ಹೇಳಿರ್ತಾಳೆ.
