@@ -4,7 +4,7 @@ layout: post
 title: "ಶ್ರೋಡಿಂಗರ್ ನ ಬೆಕ್ಕು"
 date: 2022-12-29
 author: Adarsha
-categories: Story
+categories: Discussion
 tags: AcchaKannada Kannada Life Karnataka India discussion schrodingerscat, science, theory
 cover: "assets/cat-acchakannada.jpg"
 description: ಜನರ ವಾಡಿಕೆಗಳು, ಯೋಚನೆಗಳು, ನಿಜ-ಸುಳ್ಳು, ಜಾಣ-ದಡ್ಡ ಎರಡೂ ಆಗಿರಬಹುದು. ನಾವು ಅವುಗಳ ಬಿಚ್ಚಿ ನೋಡುವವರೆಗೆ.
