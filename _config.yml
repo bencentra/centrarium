@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Mao Tianchan
+subtitle: "Postdoc Fellow, Communication Studies,Fudan University,China"
+email: maotianchan@gmail.com
+name: maotianchan
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://tianchanmao.com/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -32,7 +32,7 @@ highlightjs_theme: "monokai-sublime"
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 3
   permalink: "/page/:num/"
   sort_reverse: true
 
@@ -75,41 +75,21 @@ descriptions:
 #     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
-social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: true
+
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
-
-  - name: GitHub
-    icon: github
-    username: bencentra
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: true
-
-  - name: Google+
+  - name: Google Scholar
     icon: google-plus
     username: ""
     url: ""
-    desc: Add me to your Circles
-    share: true
+    desc: Add me to your Google Scholar
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -130,7 +110,7 @@ social:
     username: ""
     url: ""
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -179,7 +159,7 @@ social:
     username: ""
     url: ""
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
@@ -202,3 +182,5 @@ protocols:
     os_repo: "https://github.com/bencentra/centrarium.com"
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
+
+
